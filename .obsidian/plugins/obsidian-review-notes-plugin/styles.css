@@ -1,0 +1,41 @@
+.recent-notes-path {
+	color: var(--text-muted);
+}
+
+.recent-notes {
+	/* border: 1px solid var(--background-modifier-border); */
+	padding: 10px;
+}
+
+.recent-notes-title {
+	display: flex;
+	justify-content: space-between;
+}
+
+.recent-notes-content {
+	flex-grow: 1;
+}
+
+.recent-notes-check {
+	display: none;
+	color: var(--nav-item-color);
+	height: 16px;
+}
+
+.recent-notes-title:hover .recent-notes-check {
+	display: block;
+	cursor: pointer;
+}
+
+.recent-notes-check:hover {
+	color: var(--nav-item-color-hover);
+}
+.action-icon {
+	width: 20px;
+	height: 20px;
+	fill: var(--text-muted);
+}
+
+.action-icon:hover {
+	fill: var(--text-normal);
+}

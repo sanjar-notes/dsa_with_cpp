@@ -1,0 +1,452 @@
+{
+  "files": [
+    {
+      "path": "assets/1-Tuple-Relational-Calculus-I-image-7-bb0f4323.jpg",
+      "filename": "1-Tuple-Relational-Calculus-I-image-7-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/1-Tuple-Relational-Calculus-I.md",
+      "filename": "1-Tuple-Relational-Calculus-I"
+    },
+    {
+      "path": "assets/1-Tuple-Relational-Calculus-I-image-8-bb0f4323.jpg",
+      "filename": "1-Tuple-Relational-Calculus-I-image-8-bb0f4323"
+    },
+    {
+      "path": "assets/1-Tuple-Relational-Calculus-I-image-9-bb0f4323.jpg",
+      "filename": "1-Tuple-Relational-Calculus-I-image-9-bb0f4323"
+    },
+    {
+      "path": "assets/1-Tuple-Relational-Calculus-I-image-10-bb0f4323.jpg",
+      "filename": "1-Tuple-Relational-Calculus-I-image-10-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/2-Safe-queries-Domain-Relational-Calculus.md",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/4-Relational-Algebra/1-Introduction-to-Relational-Algebra-and-Basic-Operators.md",
+      "filename": "1-Introduction-to-Relational-Algebra-and-Basic-Operators"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-1-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-1-bb0f4323"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-1-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-1-bb0f4323"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-2-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-2-bb0f4323"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-3-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-3-bb0f4323"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-4-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-4-bb0f4323"
+    },
+    {
+      "path": "assets/2-Safe-queries-Domain-Relational-Calculus-image-5-bb0f4323.png",
+      "filename": "2-Safe-queries-Domain-Relational-Calculus-image-5-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-1-bb0f4323.png",
+      "filename": "3-Solutions-1-image-1-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/3-Solutions-1.md",
+      "filename": "3-Solutions-1"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/2-ER-Models-and-Diagrams/1-Introduction-to-ER-diagrams.md",
+      "filename": "1-Introduction-to-ER-diagrams"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/2-ER-Models-and-Diagrams/2-Cardinality-of-relationships-and-constructing-minimal-tables.md",
+      "filename": "2-Cardinality-of-relationships-and-constructing-minimal-tables"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/3-Introduction-to-Relational-Models/1-Mathematical-model-of-Tables.md",
+      "filename": "1-Mathematical-model-of-Tables"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/3-Introduction-to-Relational-Models/2-ER-Relational-Model-Constraints-and-Keys-recap.md",
+      "filename": "2-ER-Relational-Model-Constraints-and-Keys-recap"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/4-Relational-Algebra/2-Joins-and-Division-Operators.md",
+      "filename": "2-Joins-and-Division-Operators"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-2-bb0f4323.png",
+      "filename": "3-Solutions-1-image-2-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-3-bb0f4323.png",
+      "filename": "3-Solutions-1-image-3-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-4-bb0f4323.png",
+      "filename": "3-Solutions-1-image-4-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-5-bb0f4323.png",
+      "filename": "3-Solutions-1-image-5-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/1-Introduction/3-Tables-and-keys.md",
+      "filename": "3-Tables-and-keys"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/2-ER-Models-and-Diagrams/3-Weak-and-Strong-Entities-Self-referential-Relationships-and-Constructing-Tables.md",
+      "filename": "3-Weak-and-Strong-Entities-Self-referential-Relationships-and-Constructing-Tables"
+    },
+    {
+      "path": "home/4_resource_itineraries/1_database_system_concepts_book/1_Nature_and_purpose_of_DBs/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/1-Introduction/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/2-ER-Models-and-Diagrams/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/3-Introduction-to-Relational-Models/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/4-Relational-Algebra/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/index.md",
+      "filename": "index"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-6-bb0f4323.png",
+      "filename": "3-Solutions-1-image-6-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-7-bb0f4323.png",
+      "filename": "3-Solutions-1-image-7-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-8-bb0f4323.png",
+      "filename": "3-Solutions-1-image-8-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-9-bb0f4323.png",
+      "filename": "3-Solutions-1-image-9-bb0f4323"
+    },
+    {
+      "path": "assets/tmp1712524020625_3-Solutions-1-image-10-bb0f4323.png",
+      "filename": "tmp1712524020625_3-Solutions-1-image-10-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-10-bb0f4323.png",
+      "filename": "3-Solutions-1-image-10-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-11-bb0f4323.png",
+      "filename": "3-Solutions-1-image-11-bb0f4323"
+    },
+    {
+      "path": "assets/3-Solutions-1-image-11-bb0f4323.png",
+      "filename": "3-Solutions-1-image-11-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/4-Solutions-2.md",
+      "filename": "4-Solutions-2"
+    },
+    {
+      "path": "home/2_resources/2_Scaler_SQL.md",
+      "filename": "2_Scaler_SQL"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-1-bb0f4323.png",
+      "filename": "4-Solutions-2-image-1-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-2-bb0f4323.png",
+      "filename": "4-Solutions-2-image-2-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-3-bb0f4323.png",
+      "filename": "4-Solutions-2-image-3-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-4-bb0f4323.png",
+      "filename": "4-Solutions-2-image-4-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-5-bb0f4323.png",
+      "filename": "4-Solutions-2-image-5-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-6-bb0f4323.png",
+      "filename": "4-Solutions-2-image-6-bb0f4323"
+    },
+    {
+      "path": "assets/4-Solutions-2-image-7-bb0f4323.png",
+      "filename": "4-Solutions-2-image-7-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/5-Solutions-3.md",
+      "filename": "5-Solutions-3"
+    },
+    {
+      "path": "assets/5-Solutions-3-image-1-bb0f4323.png",
+      "filename": "5-Solutions-3-image-1-bb0f4323"
+    },
+    {
+      "path": "assets/5-Solutions-3-image-2-bb0f4323.png",
+      "filename": "5-Solutions-3-image-2-bb0f4323"
+    },
+    {
+      "path": "assets/5-Solutions-3-image-3-bb0f4323.png",
+      "filename": "5-Solutions-3-image-3-bb0f4323"
+    },
+    {
+      "path": "assets/5-Solutions-3-image-4-bb0f4323.png",
+      "filename": "5-Solutions-3-image-4-bb0f4323"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/5-Relational-Calculus/6-Challenge-5-DBMS.md",
+      "filename": "6-Challenge-5-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/1-Overview-of-Databases-for-learning-SQL.md",
+      "filename": "1-Overview-of-Databases-for-learning-SQL"
+    },
+    {
+      "path": "assets/1-Overview-of-Databases-for-learning-SQL-image-3-e7d6bdad.png",
+      "filename": "1-Overview-of-Databases-for-learning-SQL-image-3-e7d6bdad"
+    },
+    {
+      "path": "assets/1-Overview-of-Databases-for-learning-SQL-image-1-e7d6bdad.png",
+      "filename": "1-Overview-of-Databases-for-learning-SQL-image-1-e7d6bdad"
+    },
+    {
+      "path": "assets/tmp1712655901542_1-Overview-of-Databases-for-learning-SQL-image-2-e7d6bdad.png",
+      "filename": "tmp1712655901542_1-Overview-of-Databases-for-learning-SQL-image-2-e7d6bdad"
+    },
+    {
+      "path": "assets/1-Overview-of-Databases-for-learning-SQL-image-2-e7d6bdad.png",
+      "filename": "1-Overview-of-Databases-for-learning-SQL-image-2-e7d6bdad"
+    },
+    {
+      "path": "assets/1-Overview-of-Databases-for-learning-SQL-image-4-e7d6bdad.png",
+      "filename": "1-Overview-of-Databases-for-learning-SQL-image-4-e7d6bdad"
+    },
+    {
+      "path": "assets/1-Overview-of-Databases-for-learning-SQL-image-5-e7d6bdad.png",
+      "filename": "1-Overview-of-Databases-for-learning-SQL-image-5-e7d6bdad"
+    },
+    {
+      "path": "assets/2-Why-learn-SQL-image-1-e7d6bdad.png",
+      "filename": "2-Why-learn-SQL-image-1-e7d6bdad"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/2-Why-learn-SQL.md",
+      "filename": "2-Why-learn-SQL"
+    },
+    {
+      "path": "assets/2-Why-learn-SQL-image-2-e7d6bdad.png",
+      "filename": "2-Why-learn-SQL-image-2-e7d6bdad"
+    },
+    {
+      "path": "assets/2-Why-learn-SQL-image-4-e7d6bdad.png",
+      "filename": "2-Why-learn-SQL-image-4-e7d6bdad"
+    },
+    {
+      "path": "assets/2-Why-learn-SQL-image-3-e7d6bdad.png",
+      "filename": "2-Why-learn-SQL-image-3-e7d6bdad"
+    },
+    {
+      "path": "assets/2-Why-learn-SQL-image-5-e7d6bdad.png",
+      "filename": "2-Why-learn-SQL-image-5-e7d6bdad"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/3-Execution-of-an-SQL-statement.md",
+      "filename": "3-Execution-of-an-SQL-statement"
+    },
+    {
+      "path": "assets/3-Execution-of-an-SQL-statement-image-1-e7d6bdad.png",
+      "filename": "3-Execution-of-an-SQL-statement-image-1-e7d6bdad"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/4-IMDB-dataset.md",
+      "filename": "4-IMDB-dataset"
+    },
+    {
+      "path": "assets/4-IMDB-dataset-image-1-e7d6bdad.png",
+      "filename": "4-IMDB-dataset-image-1-e7d6bdad"
+    },
+    {
+      "path": "assets/4-IMDB-dataset-image-2-e7d6bdad.png",
+      "filename": "4-IMDB-dataset-image-2-e7d6bdad"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/5-Installing-MySQL.md",
+      "filename": "5-Installing-MySQL"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/6-Load-IMDB-data.md",
+      "filename": "6-Load-IMDB-data"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/6-SQL-Introduction/7-Challenge-6-DBMS.md",
+      "filename": "7-Challenge-6-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/1-USE-DESCRIBE-SHOW-TABLES.md",
+      "filename": "1-USE-DESCRIBE-SHOW-TABLES"
+    },
+    {
+      "path": "assets/1-USE-DESCRIBE-SHOW-TABLES-image-1-90a59cee.png",
+      "filename": "1-USE-DESCRIBE-SHOW-TABLES-image-1-90a59cee"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/2-SELECT.md",
+      "filename": "2-SELECT"
+    },
+    {
+      "path": "assets/2-SELECT-image-1-90a59cee.png",
+      "filename": "2-SELECT-image-1-90a59cee"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/3-LIMIT-OFFSET.md",
+      "filename": "3-LIMIT-OFFSET"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/4-Order-By.md",
+      "filename": "4-Order-By"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/5-Distinct.md",
+      "filename": "5-Distinct"
+    },
+    {
+      "path": "assets/5-Distinct-image-1-90a59cee.png",
+      "filename": "5-Distinct-image-1-90a59cee"
+    },
+    {
+      "path": "assets/5-Distinct-image-1-90a59cee.png",
+      "filename": "5-Distinct-image-1-90a59cee"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/6-WHERE-Comparison-operators-NULL.md",
+      "filename": "6-WHERE-Comparison-operators-NULL"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/7-Logical-Operators.md",
+      "filename": "7-Logical-Operators"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/8-Aggregate-Functions-COUNT-MIN-MAX-AVG-SUM.md",
+      "filename": "8-Aggregate-Functions-COUNT-MIN-MAX-AVG-SUM"
+    },
+    {
+      "path": "assets/8-Aggregate-Functions-COUNT-MIN-MAX-AVG-SUM-image-1-90a59cee.png",
+      "filename": "8-Aggregate-Functions-COUNT-MIN-MAX-AVG-SUM-image-1-90a59cee"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/9-GROUP-BY.md",
+      "filename": "9-GROUP-BY"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/10-HAVING.md",
+      "filename": "10-HAVING"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/11-Order-of-keywords.md",
+      "filename": "11-Order-of-keywords"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/12-Challenge-7-DBMS.md",
+      "filename": "12-Challenge-7-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/8-SQL-Joins/1-Join-and-Natural-Join.md",
+      "filename": "1-Join-and-Natural-Join"
+    },
+    {
+      "path": "assets/1-Join-and-Natural-Join-image-1-b8704d7f.png",
+      "filename": "1-Join-and-Natural-Join-image-1-b8704d7f"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/8-SQL-Joins/2-Inner-Left-Right-and-Outer-joins.md",
+      "filename": "2-Inner-Left-Right-and-Outer-joins"
+    },
+    {
+      "path": "assets/2-Inner-Left-Right-and-Outer-joins-image-1-b8704d7f.png",
+      "filename": "2-Inner-Left-Right-and-Outer-joins-image-1-b8704d7f"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/8-SQL-Joins/3-Challenge-8-DBMS.md",
+      "filename": "3-Challenge-8-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/9-SQL-Advanced-Queries/1-Sub-QueriesNested-QueriesInner-Queries.md",
+      "filename": "1-Sub-QueriesNested-QueriesInner-Queries"
+    },
+    {
+      "path": "assets/1-Sub-QueriesNested-QueriesInner-Queries-image-1-20089a66.png",
+      "filename": "1-Sub-QueriesNested-QueriesInner-Queries-image-1-20089a66"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/9-SQL-Advanced-Queries/2-Challenge-9-DBMS.md",
+      "filename": "2-Challenge-9-DBMS"
+    },
+    {
+      "path": "assets/2-Inner-Left-Right-and-Outer-joins-image-2-b8704d7f.svg",
+      "filename": "2-Inner-Left-Right-and-Outer-joins-image-2-b8704d7f"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/10-SQL-Data-Manipulation-Language/1-INSERT.md",
+      "filename": "1-INSERT"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/10-SQL-Data-Manipulation-Language/3-Challenge-10-DBMS.md",
+      "filename": "3-Challenge-10-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/10-SQL-Data-Manipulation-Language/2-UPDATE-DELETE.md",
+      "filename": "2-UPDATE-DELETE"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language/1-CREATE-TABLE.md",
+      "filename": "1-CREATE-TABLE"
+    },
+    {
+      "path": "assets/1-CREATE-TABLE-image-1-b3eb175e.png",
+      "filename": "1-CREATE-TABLE-image-1-b3eb175e"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language/2-ALTER-ADD-MODIFY-DROP.md",
+      "filename": "2-ALTER-ADD-MODIFY-DROP"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language/3-DROP-TABLE-TRUNCATE-DELETE.md",
+      "filename": "3-DROP-TABLE-TRUNCATE-DELETE"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language/4-Challenge-11-DBMS.md",
+      "filename": "4-Challenge-11-DBMS"
+    },
+    {
+      "path": "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/1-Data-Control-Language-GRANT-REVOKE.md",
+      "filename": "1-Data-Control-Language-GRANT-REVOKE"
+    }
+  ]
+}
