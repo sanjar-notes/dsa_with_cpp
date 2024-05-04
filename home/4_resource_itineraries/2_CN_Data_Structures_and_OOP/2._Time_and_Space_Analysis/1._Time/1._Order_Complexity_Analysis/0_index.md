@@ -19,7 +19,7 @@ Scenario:
 	
  For 0.1 million, Merge sort ~ 0.15 seconds
 Selection sort ~ ( Hrs) 2400 seconds (Investment in algos is worth it)
-[Comparing Time values](1._Order_Complexity_Analysis/Selection_002.png)
+![Comparing Time values](../../../../../../assets/0_index-image-1-002494f3.png)
 
 * Issues with experimental analysis:
 	1. Time is not exactly the same for the same input. This is because of the distribution of RAM, processes running. Too much dependency on the machien, resources.
