@@ -23,9 +23,3 @@ No shortcut, the output will have both functions.
 - Symmetry: f(n) = Θ(g(n)) if and only if g(n) = Θ(f(n)).
 	- Transpose symmetry: f(n) = O(g(n)) if and only if g(n) = Ω(f(n)).
 
-## Common math
-1. AP: 1 + 2 + 3 + ... + n = n \* (n+1) / 2
-2. GP: 1 + x + x<sup>2</sup> + x<sup>3</sup> + ... + x<sup>n-1</sup> = (x<sup>n</sup> - 1)/(x-1)
-3. HP: 1 + 1/2 + 1/3 + 1/4 + ... + 1/n ~= log(n)
-4. log1 + log2 + log3 + ... + log(n) ~= nlog(n)
-5. 1 + 2<sup>p</sup> + 3<sup>p</sup> + ... + n<sup>p</sup> ~= n<sup>p+1</sup>/(p+1)
