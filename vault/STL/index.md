@@ -11,6 +11,7 @@ Created Sun May 12, 2024 at 7:35 PM
 	- Completely custom functors are also used. Example: custom sort behavior.
 
 ## Note
+- Use C++20. Otherwise HOFs won't work.
 - I use `auto` (frequently), `decltype` (in few places) to make code concise.
 - higher order function idioms like map, filter, reduce have been discussed. These are usually skipped by beginners and makes for long, unstructured code in problems. HOFs solve this problem since they effectively are a vocabulary thats very similar to simple and abstract math ops.
 - Data types variates - Almost all containers, algorithms accept combinations of any data type. 
