@@ -192,7 +192,7 @@ while(!pq.empty()) { cout << pq.top(); pq.pop(); }
 ```
 
 ## Set (balanced tree)
-Remember one thing, set means - { sorted, unique }. Other 2 related structures are combinations of this.
+Remember one thing, set means - { sorted, unique }. Other 3 related structures are combinations of this.
 ```c++
 set<int> s; // balanced tree (detail: Red-Black-Tree)
 set<int> s {1, 2, 3}; // initialization list is allowed 
@@ -219,7 +219,7 @@ s.end();
 
 // looping
 for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
-for(auto a: s) { cout << a; }>)
+for(auto a: s) { cout << a; }
 
 // utils - swap
 ```
@@ -251,7 +251,7 @@ s.end();
 
 // looping
 for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
-for(auto a: s) { cout << a; }>)
+for(auto a: s) { cout << a; }
 
 // utils - swap, lower_bound, upper_bound
 ```
@@ -282,7 +282,7 @@ s.end();
 
 // looping
 for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
-for(auto a: s) { cout << a; }>)
+for(auto a: s) { cout << a; }
 
 // utils - swap
 ```
@@ -296,7 +296,7 @@ Note:
 
 ## Map
 Keyed data structure.
-{ sorted, unique }. Other 2 related structures are combinations of this.
+{ sorted, unique }. Other 3 related structures are combinations of this.
 ```c++
 map<int, int> mp;
 map<int, int> mp { {1: 10}, {2, 20}, {3, 30} }; // initialization list is allowed
