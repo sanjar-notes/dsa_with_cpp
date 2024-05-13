@@ -3,13 +3,108 @@ Created Sun May 12, 2024 at 7:34 PM
 
 
 ## String
-TBD
-```c++
+`strings` are a huge practically improvement over C-style strings.
+They are dynamic, mutable. Each element is still a char.
+```cpp
+// initialization
+string s; // empty string
+	string s = "hello world";
+	string s (s2); // deep copy
+	string s (s2, startI, len); // deep copy, substring
+	string s (len, fillChar); // string x(10, 'A');
+	string s (s2.begin(), s2.end()); // string x(10, 'A');
+
+// getting input
+cin >> s; // breaks one whitespace
+getline(cin, s); // breaks on newline
+	cin.ignore(); // use this between normal cin, and getline to skip annoying cursor
+// print
+cout << s;
+
+// compare
+s1 == s2; // equality compare
+s1.compare(s2); // 0 - equal, +ve (s1 comes after s2)
+	s1.compare(startI, len, s2); // compare with substring
+
+
+// size
+s.size(); // length
+s.empty(); // is empty
+s.resize();
+
+// access
+s[4] // access ith element. read/write (unsafe bound)
+s.at(4); // safe bound, // throws exception
+s.front(); // access first, read/write
+s.back();  // access last, read/write
+
+// append O(m+n)
+string s3 = s1+s2; s1+=s2; // append
+s1.append(s2); // powerful append (variates same as constructor)
+	s1.append(s2, startI, len); // powerful append
+	s1.append(s2, maxLen); // powerful append
+	s1.append(len, fillChar); // powerful append
+s.push_back(charX); // avg O(1)
+
+// more CRUD ops // O(n)
+s.substr(startI, len); // access substring. read only
+s.insert(startI, payloadStr); // insert string at element i. colliding elements pushed right
+	s.insert(startI, payloadStr, startPayloadI, len);
+	...
+s.replace(startI, len, s2); // (startI, len, ...variations_of_constructor)
+	...
+s.erase(startI, len)
+	s.erase(it)
+	s.erase(startIt, endIt)
+s.pop_back(); // O(1)
+s.clear(); // delete all elements
+
+// find substring (or single character)
+s.find(s2); // first occurrence of s2, -1 if not found, // O(n)
+	s.find(s2, len); // first occurence of s2 looking from `len` index onwards
+	s.rfind(s2); // last occurrence of s2
+	// find any occurrence
+	s.find_first_of(s2);
+	s.find_last_of(s2);
+
+// existence - // O(n)
+s.starts_with();
+s.ends_with();
+s.find() != -1; // check existence
+	s.contains(); // c++23 (CLI c++2b)
+
+// iterator
+string::iterator it = s.begin(); // index 0, rightward
+string::iterator it = s.end(); // index n, rightward
+it++, it--; // both possible
+
+for(auto it = s.begin(); it != s.end(); it++)
+	cout << *it;
+// swap is available
 ```
 
+### String functions (not methods)
+```cpp
+// From string
+stoi(s) // string to integer
+	stoi(s, startI);
+	stoi(s, startI, radix=10);
+	stol(); // long int
+
+stof();
+	stod(); // string to double
+
+// To string
+to_string()
+```
+Note: 
+- ascii to int, subtract '0', 'A'.
+- int to ascii, `char()`
+- When very large numbers(10<sup>18</sup>)are involved, input is taken as string, and all arithmetic ops are done by reinventing the wheel by digit extraction
+- These functions work, it's `cout` that has a precision limit of 6.
 ## Pair
 USP: easiest instance of tuple
-```c++
+```cpp
 pair<int, int> p = {1, 3};
 cout << p.first << p.second;
 p.first = 23;
@@ -19,7 +114,7 @@ pair<int, int> f() { return {1, 2}; }
 
 ## Vector
 USP: dynamic array, the de-facto for practical programming.
-```c++
+```cpp
 vector<int> v;
 vector<int> v (10); // size 10, filled garbage
 vector<int> v (10, 0); // size 10, filled with 0s
@@ -87,7 +182,7 @@ vector<int> v2(v1.begin(), v1.end()); // even array elements are created from sc
 
 ## List (linked list)
 USP: ADT
-```c++
+```cpp
 list<int> v; // doubly linked list
 list<int> v (10); // size 10, filled garbage
 list<int> v (10, 0); // size 10, filled with 0s
@@ -118,14 +213,14 @@ for(auto a: ll) { cout << a; }
 
 ## Deque (double sided vector)
 USP: double sided vector.
-```c++
+```cpp
 deque<int> v; // vector with both front, back ops
 // all other things same as vector, swap
 ```
 
 ## Stack (strict ADT)
 USP: LIFO
-```c++
+```cpp
 stack<int> stk; // LIFO structure
 // no initialization list
 
@@ -146,7 +241,7 @@ while(!stk.empty()) { cout << stk.top(); stk.pop(); }
 
 ## Queue (strict ADT)
 USP: FIFO
-```c++
+```cpp
 queue<int> q; // LIFO structure,
 // no initialization list
 
@@ -169,7 +264,7 @@ while(!q.empty()) { cout << q.front(); q.pop(); }
 
 ## priority-queue/Heap (strict ADT)
 USP: quick extrema access, quick insertion/deletion. Compared to sorted array.
-```c++
+```cpp
 // get max, min element quickly (lgn)
 priority_queue<int> pq; // max heap
 priority_queue<int, vector<int>, greater<int>> pq; // min heap
@@ -193,9 +288,9 @@ while(!pq.empty()) { cout << pq.top(); pq.pop(); }
 
 ## Set (balanced tree)
 Remember one thing, set means - { sorted, unique }. Other 3 related structures are combinations of this.
-```c++
+```cpp
 set<int> s; // balanced tree (detail: Red-Black-Tree)
-set<int> s {1, 2, 3}; // initialization list is allowed 
+set<int> s {1, 2, 3}; // initialization list is allowed
 set<int> s (s2.begin(), s2.end()); // deep clone
 
 s.insert(1);// insert - O(lgn)
@@ -226,9 +321,9 @@ for(auto a: s) { cout << a; }
 
 ### Multi-set (not used frequently)
 sorted. not unique.
-```c++
+```cpp
 multiset<int> s;
-multiset<int> s {1, 2, 3}; // initialization list is allowed 
+multiset<int> s {1, 2, 3}; // initialization list is allowed
 multiset<int> s (s2.begin(), s2.end()); // deep clone
 
 s.insert(1);// insert - O(lgn)
@@ -258,9 +353,9 @@ for(auto a: s) { cout << a; }
 
 ### Unordered set (actual math set)
 not sorted. unique.
-```c++
+```cpp
 unordered_set<int> s;
-unordered_set<int> s {1, 2, 3}; // initialization list is allowed 
+unordered_set<int> s {1, 2, 3}; // initialization list is allowed
 unordered_set<int> s (s2.begin(), s2.end()); // deep clone
 
 s.insert(1);// insert - O(1)
@@ -288,7 +383,7 @@ for(auto a: s) { cout << a; }
 ```
 
 
-Note: 
+Note:
 - `multiset` - syntax same as set. sorted. not unique.
 - `unordered_set` - syntax same as set. not sorted. unique.
 - `unordered_multiset` - syntax same as set. non-sorted, non-unique. USP (over vector): fast access, insert, deletion
@@ -297,7 +392,7 @@ Note:
 ## Map
 Keyed data structure.
 { sorted, unique }. Other 3 related structures are combinations of this.
-```c++
+```cpp
 map<int, int> mp;
 map<int, int> mp { {1: 10}, {2, 20}, {3, 30} }; // initialization list is allowed
 map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
@@ -307,7 +402,7 @@ map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
 // ops same as stack, but named diff
 mp.insert(1);// insert - O(lgn)
 	mp[1] = 2; // insert/write in one go, returns NULL if that value does not exist.
-	
+
 mp.erase(it); // remove - O(lgn)
 	mp.erase(5); // deletes the element (yes close polymorh)
 	mp.erase(startI, endI); // remove - O(lgn)
@@ -335,7 +430,7 @@ for(auto a: mp) { cout << a.first << a.second << endl; } // internally behaves l
 
 ### Multimap (not used frequently)
 sorted. not unique.
-```c++
+```cpp
 multimap<int, int> mp;
 multimap<int, int> mp { {1: 10}, {2, 20}, {3, 30}, {3, 40} }; // initialization list is allowed
 multimap<int, int> mp (mp2.begin(), mp2.end()); // deep clone
@@ -346,7 +441,7 @@ multimap<int, int> mp (mp2.begin(), mp2.end()); // deep clone
 
 ### Unordered (actual raw hashmap)
 not sorted. unique.
-```c++
+```cpp
 unordered_map<int, int> mp;
 unordered_map<int, int> mp { {1: 10}, {2, 20}, {3, 30} }; // initialization list is allowed
 unordered_map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
@@ -357,7 +452,7 @@ unordered_map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
 ```
 
 
-Note: 
+Note:
 - `multimap` - syntax same as set. sorted. not unique.
 - `unordered_map` - syntax same as set. not sorted. unique.
 - `unordered_multimap` - syntax same as set. non-sorted, non-unique. USP: keyed, fast access, insert, deletion
