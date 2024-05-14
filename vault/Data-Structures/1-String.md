@@ -26,7 +26,8 @@ Text-editing programs frequently need to find all occurrences of a pattern in th
 	- O(n) time, O(1) space, for very short words and long text.
 
 #### KMP (Knuth-Morris-Pratt)
-- Main idea: Never moves backwards in the text string. 
+- Main idea: Keep stored knowledge of Word for reuse.
+- Main trait: Never moves backwards in the text string. 
 - Working: Precomputes an array, which takes O(m) time), from the word string. Then effectively always moves forward in Text (checking against precomputed array). On collision, moves to most-right-side-possible and continues.
 - *Most powerful among string matching algos.*
 - O(m+n) time, O(m) space.
