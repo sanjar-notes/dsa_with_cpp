@@ -34,6 +34,6 @@ Text-editing programs frequently need to find all occurrences of a pattern in th
 
 ## Rabin-Karp
 - Main idea: Two levels of checking - one weak, other normal (strong). i.e. Gets rids of false positives fast.
-- Working: Decide a rolling hash, precompute hash of the Word (O(m) time). Then for each movement in Text, do O(1) hash check. When hash matches, do an actual comparison matching.
+- Working: Decide a rolling hash, precompute hash of the Word (O(m) time). Then for each movement in Text, do O(1) hash compute and O(1) check. When hash matches, do an actual comparison matching.
 - O(m\*n) time, O(m) space.
 	- O(n) time, O(1) space, for very short words and long text.
