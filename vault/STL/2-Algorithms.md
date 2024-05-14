@@ -12,6 +12,7 @@ auto it = find(v.begin(), v.end(), 20);
 ```
 
 ## Binary search
+Reference: https://cplusplus.com/reference/algorithm/#:~:text=range%20(function%20template)-,binary%20search,-(operating%20on%20partitioned
 ### Existence
 ```cpp
 binary_search(startIt, endIt, key); // existence check
@@ -48,6 +49,7 @@ equal_range(startIt, endIt, key);
 // range is [20, 20, 20, 30]
 ```
 ## Sorting
+Reference: https://cplusplus.com/reference/algorithm/#:~:text=point%20(function%20template)-,sorting
 ## sort (non stable)
 `std::sort` works for any container (except strict ADTs like stack, queue, or already sorted ones)
 ```cpp
