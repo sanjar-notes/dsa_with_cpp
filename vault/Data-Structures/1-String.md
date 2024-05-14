@@ -6,7 +6,7 @@ See [1-Containers](../STL/1-Containers.md#String)
 
 ## Solving use
 - Strings can be used when input is very large numbers
-- Strings have a finite alphabet size, so practical hashing is possible.
+- Strings have a finite alphabet size, so practical bucketing is possible.
 
 ## Practical use
  - Efficient algorithms for this problem—called “string matching”—can greatly aid the *responsiveness* of the text-editing programs.
