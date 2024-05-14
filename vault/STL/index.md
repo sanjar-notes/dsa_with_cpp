@@ -1,6 +1,11 @@
 # STL
 Created Sun May 12, 2024 at 7:35 PM
 
+## Why STL
+It's essential for practically facing online problems
+- https://www.reddit.com/r/cpp/comments/18u505o/dsa/
+- STL standard. ICPC is OK with 20, https://docs.icpc.global/worldfinals-programming-environment/#:~:text=c%2B%2B%20(g%2B%2B%2011.3.0%20(ubuntu%2011.3.0-1ubuntu1~22.04))
+## Whats in STL
 - Containers - trees, vectors, hashmaps.
 - Iterators (actually relevant only in context of a container). help in iterating over containers, including non-linear ones. This topic also refers to the general pattern and syntax of iterators, namely .begin, .end.
 - Algorithms
