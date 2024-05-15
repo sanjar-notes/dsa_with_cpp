@@ -23,16 +23,16 @@ Of 20x
 - Build stuff properly, not just build it.
 
 (Junior below)
-![](../../../assets/Growth-path-senior-BE-image-1-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-1-1243e6dc.png)
 
 (Senior below)
-![](../../../assets/Growth-path-senior-BE-image-2-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-2-1243e6dc.png)
 ## Curriculum
-![](../../../assets/Growth-path-senior-BE-image-3-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-3-1243e6dc.png)
 
 ### Advanced languages
 - Concurrent data structures, semaphores, how to synchronize code
-![](../../../assets/Growth-path-senior-BE-image-4-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-4-1243e6dc.png)
 
 ### DSA
 - Write efficient solution as second nature
@@ -49,7 +49,7 @@ Helps on the jobs as well, for maintainable code (that stands the test of time),
 ## Advanced software engineering module
 - Companies expect knowledge of it
 - This also help develop learning from documentation
-![](../../../assets/Growth-path-senior-BE-image-5-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-5-1243e6dc.png)
 
 
 ## HLD
@@ -58,7 +58,7 @@ Helps on the jobs as well, for maintainable code (that stands the test of time),
 - Case studies
 - Learn to express and discuss
 - Learn to solve ambiguous problems
-![](../../../assets/Growth-path-senior-BE-image-6-bb03e9cb.png)
+![](../../../../assets/2-Growth-path-senior-BE-image-6-1243e6dc.png)
 
 ## Curriculum does not help
 What actually helps is assignments and TAs.

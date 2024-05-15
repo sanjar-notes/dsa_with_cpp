@@ -3,13 +3,13 @@ Created Wed May 15, 2024 at 11:23 PM
 
 ## Junior frontend/Fullstack
 Gap is to much, even for entry level. The way to bridge gap is capability building.
-![](../../../assets/Growth-path-UI-fullstack-image-1-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-1-1243e6dc.png)
 
 
 ## Where people fail
 - Merely calling function and building simple UIs is not enough.
 - Stuff like bundle size repaint, minimize, code-splitting, DNS matters. But get perceived as less, especially due to chronic work in low paying companies. High paying companies do care about this.
-![](../../../assets/Growth-path-UI-fullstack-image-2-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-2-1243e6dc.png)
 
 
 ## Working on the job
@@ -18,15 +18,15 @@ Gap is to much, even for entry level. The way to bridge gap is capability buildi
 - Solve non-easy problems: build a collaborative text editor (db schema, UI state, handle collisions), build a spell checker, build linux's `diff` function.
 
 ## UI
-![](../../../assets/Growth-path-UI-fullstack-image-3-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-3-1243e6dc.png)
 
-![](../../../assets/Growth-path-UI-fullstack-image-4-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-4-1243e6dc.png)
 ## Databases
-![](../../../assets/Growth-path-UI-fullstack-image-5-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-5-1243e6dc.png)
 
 ## Capstone project
-![](../../../assets/Growth-path-UI-fullstack-image-6-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-6-1243e6dc.png)
 
 
 ## System design
-![](../../../assets/Growth-path-UI-fullstack-image-7-bb03e9cb.png)
+![](../../../../assets/2-1-Growth-path-UI-fullstack-image-7-1243e6dc.png)
