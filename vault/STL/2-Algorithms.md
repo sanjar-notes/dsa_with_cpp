@@ -197,7 +197,7 @@ merge(startIt1, endIt1, startIt2, endIt2, writerIt);
 ```
 
 ## Set operations
-General set operations - do not exist. 
+General set operations - do not exist. ❌
 STL has functions only for sorted sets. All 4 supported:
 ```cpp
 set_union(startIt1, endIt1, startIt2, endIt2, writerIt);
