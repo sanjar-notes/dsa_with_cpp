@@ -5,6 +5,7 @@ Created Tue May 14, 2024 at 10:23 PM
 API - almost all containers have a built in function.  See [1-Containers](../STL/1-Containers.md)
 
 ## Binary Search
+- Not possible on linked lists, since arr\[mid] (accessing the middle) is not possible due to random access prevent.
 - Versions
 	- Existence check (boolean)
 	- Exact index (of first occurrence)
