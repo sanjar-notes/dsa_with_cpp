@@ -1,0 +1,30 @@
+{
+  "hotkeys": [
+    {
+      "command": "editor:fold-all",
+      "chords": [
+        "M-KeyK",
+        "M-Digit1"
+      ]
+    },
+    {
+      "command": "bookmarks:bookmark-current-view",
+      "chords": [
+        "M-KeyD"
+      ]
+    },
+    {
+      "command": "workspace:close-others",
+      "chords": [
+        "M-KeyK",
+        "M-KeyW"
+      ]
+    },
+    {
+      "command": "workspace:close",
+      "chords": [
+        "M-KeyW"
+      ]
+    }
+  ]
+}

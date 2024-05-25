@@ -51,5 +51,8 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "editor:insert-link": [],
+  "editor:delete-paragraph": [],
+  "workspace:close": []
 }
