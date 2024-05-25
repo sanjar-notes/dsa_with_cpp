@@ -1,4 +1,3 @@
-# 1. Time Complexity
 Created Wed May 22, 2024 at 9:07 PM
 
 ## FAQs
@@ -22,6 +21,15 @@ Q5: Nested loop table trick (make a table). Columns: i value, j value (... loops
 1. Consider only the largest order term
 2. Ignore multiplicative constants
 
+
+## Cases of TC
+Worst case, average case, best case.
+
+## Space complexity (input/output)
+Input and output space is not taken into account in space complexity.
+Only memory that's used to solve the problem counts.
+
+Example: Given some queries, storing answers in an array would not be counted in space complexity. We could just as well have printed it. i.e. it was a format requirement not the algorithm requirement.
 
 ## TLE (time limit exceeded)
 Assumption: Code judge provides only 1 sec for your program to run. If it exceeds that time, you'll get TLE.
@@ -48,3 +56,60 @@ A: usually no limit, but 10^4 size memory. And it usually comes for only in C++.
 ## Sq root of n
 - Takes time log(n) if we do binary search.
 ## Summary
+
+## Assignments
+- 10 basic time complexity questions, like given code's complexity.
+### Code problem 1
+Given an integer A, you need to find the count of it's factors.
+Factor of a number is the number which divides it perfectly leaving no remainder.
+Example : 1, 2, 3, 6 are factors of 6
+
+```js
+module.exports = { 
+ //param A : integer
+ //return an integer
+	solve : function(A){
+		A = BigInt(A);
+		let i = BigInt(1);
+		let j = BigInt(0);
+		let count = BigInt(0);
+
+		while(true) {
+			if(A%i===BigInt(0)) 
+			{
+				j = A/i;
+				if(i<j) {
+					count+=BigInt(2);
+				}
+				else if(i===j) {
+					count+=BigInt(1);
+					break;
+				}
+				else
+					break;
+			}
+			i+=BigInt(1);
+		}
+		return Number(count);
+	}
+};
+
+```
+### Code problem 2
+Write a function that takes an integer and returns the number of 1 bits present in its binary representation.
+
+```js
+module.exports = { 
+ //param A : integer
+ //return an integer
+	numSetBits : function(A){
+        // A = BigInt(A);
+        let count = 0;
+        while(A) {
+            if(A%2) count+=1;
+            A = Math.floor(A/2);
+        }
+        return count;
+	}
+};
+```
