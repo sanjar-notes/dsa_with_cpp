@@ -95,12 +95,12 @@ O(n) time, O(1) space
 ![](../../../../assets/2-Array-techniques-image-4-ab28a569.png)
 
 ## Sum of all subarrays sum
-## Less optimal approaches
+### Less optimal approaches
 We'll loop over subarrays, then sum of size l subarrays:
 1. Naive sum = O(n<sup>2</sup>)
 2. Prefix sum = O(n)
 3. Carry forward sum = O(1)
-## 
+### Better approach (reinterpret)
 Reinterpret. We can optimize by rewriting the sum formula. Lets focus on one element (say i'th index element), and see how many time it's included in the sum. Lets consider variating on size of subarrays. There are 3 possibilities:
 	1. Element at start of subarray. This is possible for sizes 1, 2 ...k? To find k, the subarray of that size would be the longest subarray starting from here (i). k = (n-1) - i + 1 = n-i. So number of instances (1, 2, 3, 4 ... n-i) = (n-i)-1+1 = n-i.
 	2. Element somewhere in the middle of subarray? Simply said. Starting somewhere before. and ending somewhere after. Exclusive (i.e. not starting/ending here). (i-1) start possibilities on the left, and (n-(i) + (1)) end possibilities on the right. So total subarrays (and therefore possibilities) = i \* (n-i-1)
