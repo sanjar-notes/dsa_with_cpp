@@ -24,7 +24,7 @@ binary_search(startIt, endIt, key); // existence check
 ```cpp
 // Lower bound means "left side" (<=)
 lower_bound (startIt, endIt, key);
-lower_bound(v.begin(), v.end, 20); // v is a vector
+lower_bound(v.begin(), v.end(), 20); // v is a vector
 
 // e.g 10 10 10 20 20 20 30 30, key=20
 // Result  is ..., 10, ^20
@@ -33,7 +33,7 @@ lower_bound(v.begin(), v.end, 20); // v is a vector
 ```cpp
 // upper bound means "right side" (>)
 upper_bound (startIt, endIt, key);
-upper_bound(v.begin(), v.end, 20); // v is a vector
+upper_bound(v.begin(), v.end(), 20); // v is a vector
 
 // e.g 10 10 10 20 20 20 30 30, key=20
 // Result  is ..., 20, ^30, ...

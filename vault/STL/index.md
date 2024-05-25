@@ -15,6 +15,17 @@ It's essential for practically facing online problems
 - Functors - these are "classes that can be reused as functions" change the way how algorithms, containers behave. Example: min priority_queue (default is max), reverse sort.
 	- Completely custom functors are also used. Example: custom sort behavior.
 
+## Setup STL
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() 
+{
+	return 0;
+}
+```
+
 ## Note
 - Use C++20. Otherwise HOFs won't work.
 - I use `auto` (frequently), `decltype` (in few places) to make code concise.

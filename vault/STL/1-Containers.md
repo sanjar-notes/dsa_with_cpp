@@ -158,7 +158,7 @@ v.resize(100); // make size equal to 100, discard elements if needed
 // HOFs - need decltype, back_inserter
 // // map - transform()
 decltype(v) output (v.size());
-tranform(v.begin(), v.end(), output.begin(), [](){ return 1; }); // new array
+tranform(v.begin(), v.end(), output.begin(), [](auto e){ return 1; }); // new array
 	tranform(v.begin(), v.end(), v.begin(), [](){ return 1; }); // in-place
 
 // // Filter - copy_if()
@@ -169,7 +169,7 @@ copy_if(v.begin(), v.end(), back_inserter(output), [](){ return 1; }); // new ar
 	v.resize(distance(v.begin(), it));
 
 // // Reduce - accumulate()
-auto result = accumulate(v.begin(), v.end(), 0, [](auto accum, auto item){ return accum * item; });
+auto result = accumulate(v.begin(), v.end(), 1, [](auto accum, auto item){ return accum * item; });
 
 
 // deep-clone
@@ -301,8 +301,8 @@ s.erase(it); // remove - O(lgn)
 s.count(23);// exists? - 1 means true, 0 means false - O(lgn)
 auto it = s.find(1); // get iterator to element - O(lgn), returns s.end() if not found
 *it; // access - read ONLY (access requires finding) - O(1)
-auto it = lower_bound(2);
-auto it = upper_bound(23);
+auto it = lower_bound(2);  // O(lgn)
+auto it = upper_bound(23); // O(lgn)
 
 
 s.size();

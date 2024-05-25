@@ -28,8 +28,8 @@ Sure, here's a list of common sorting algorithms, including both those with O(N^
    
 ### Non-comparative
 7. **Counting Sort** (O(N + K) time, O(k) space): Works well when the range of input elements is small. It counts the number of occurrences of each element and uses this information to place each element into its correct position in the output sequence.
-8. **Bucket Sort** (O(N + K) time, O(N+K) space): Distributes elements into a number of "buckets" and then sorts each bucket individually, typically using another sorting algorithm like insertion sort or quicksort. It's efficient when the input is uniformly distributed over a range.
-9. **Radix Sort** (O(NK) time, O(N+K) space): Sorts elements by processing individual digits of the numbers. It starts by sorting elements based on their least significant digit and progressively moves towards the most significant digit. Radix sort can achieve linear time complexity for integer sorting when the number of digits (K) is considered a constant. 
+8. **Bucket Sort** (O(N + K) time, O(N+K) space): Distributes elements into a number of "buckets" and then sorts each bucket individually, typically using another sorting algorithm like insertion sort or quick-sort. It's efficient when the input is uniformly distributed over a range.
+9. **Radix Sort** (O(NK) time, O(N+K) space): Sorts elements by processing individual digits of the numbers. It starts by sorting elements based on their least significant digit and progressively moves towards the most significant digit. Radix sort can achieve linear time complexity for integer sorting when the number of digits (K) is considered a constant.
 
 These algorithms offer different trade-offs in terms of time complexity, space complexity, and suitability for different types of data. Radix sort, counting sort, and bucket sort, in particular, are often used in scenarios where the input data has specific characteristics that make these algorithms more efficient than traditional comparison-based sorting algorithms like quick-sort and merge sort.
 
