@@ -1,16 +1,15 @@
 # 2. Array techniques
 Created Fri May 24, 2024 at 9:10 PM
 
-Things to cover
-
-## Reversing an array
+## Lecture
+### Reversing an array
 1. Two pointers, one at the beginning, one at the end.
 2. Keep swapping values, and moving pointers towards inside, by one.
 3. Once they reach the same (odd size, so middle element remains intact), or cross, stop.
 
 Worst case: O(n) time, O(1) space. n is size of array.
 
-## Reverse a subarray
+### Reverse a subarray
 - What is a subarray. It's some contiguos part of an array.
 - It could be of size 0 or of size n (whole array too).
 - Number of subarrays = (size 1 subarrays) + (size 2 subarrays) + ... (size n subarrays) = n + n-1 + n-2 +... 1  = n(n+1)/2 = O(n<sup>2</sup>)
@@ -20,7 +19,7 @@ Worst case: O(n) time, O(1) space. n is size of array.
 
 Worst case: O(n), O(1) space. n is size of array. Does not depend on size of the array.
 
-## Range sum query
+### Range sum query
 Given an array A, and a list of queries, where each query has two indexes L and R, sum of this sequence is the answer to the query.
 ![](../../../../assets/2-Array-techniques-image-1-ab28a569.png)
 
@@ -42,7 +41,7 @@ Note:
 	- In product case, skipping zeros is an important minor edge case.
 	- There are many other queries like count, prime count etc.
 
-## Equilibrium index
+### Equilibrium index
 ![](../../../../assets/2-Array-techniques-image-2-ab28a569.png)
 Important easing constraint, we consider sides until the ends.
 
@@ -57,7 +56,7 @@ We can keep a variable for sum_until_now. Then right_sum = total_sum - sum_until
 
 O(n) time, O(1) space.
 
-## Print start and end of subarrays of length K
+### Print start and end of subarrays of length K
 ```js
 startIndex = n-k; // 0 based counting so n-k+1 subarrays, this is the first
 while(true) {
@@ -72,7 +71,7 @@ while(true) {
 O(n) time, O(1) space.
 The key here is that subarray length is a CFE (closed form expression), and therefore, we don't need an enumeration loop. A single loop is enough.
 
-## Max subarray sum with length k
+### Max subarray sum with length k
 ![](../../../../assets/2-Array-techniques-image-3-ab28a569.png)
 ### Naive approach
 Traverse over each subarray using n-k+1 array, and in each iteration, calculate sum. So if n, k (size of subarray). Then total steps = number_of_subarrays * sum_time_for each array = (n-k+1) * k. So worst case comes for k=n/2, and is O(n<sup>2</sup>).
@@ -94,13 +93,13 @@ O(n) time, O(1) space
 
 ![](../../../../assets/2-Array-techniques-image-4-ab28a569.png)
 
-## Sum of all subarrays sum
-### Less optimal approaches
+### Sum of all subarrays sum
+#### Less optimal approaches
 We'll loop over subarrays, then sum of size l subarrays:
 1. Naive sum = O(n<sup>2</sup>)
 2. Prefix sum = O(n)
 3. Carry forward sum = O(1)
-### Better approach (reinterpret)
+#### Better approach (reinterpret)
 Reinterpret. We can optimize by rewriting the sum formula. Lets focus on one element (say i'th index element), and see how many time it's included in the sum. Lets consider variating on size of subarrays. There are 3 possibilities:
 	1. Element at start of subarray. This is possible for sizes 1, 2 ...k? To find k, the subarray of that size would be the longest subarray starting from here (i). k = (n-1) - i + 1 = n-i. So number of instances (1, 2, 3, 4 ... n-i) = (n-i)-1+1 = n-i.
 	2. Element somewhere in the middle of subarray? Simply said. Starting somewhere before. and ending somewhere after. Exclusive (i.e. not starting/ending here). (i-1) start possibilities on the left, and (n-(i) + (1)) end possibilities on the right. So total subarrays (and therefore possibilities) = i \* (n-i-1)
@@ -128,7 +127,7 @@ Ending at i = i
 Between = i \* (n-i-1)
 Size 1 = 1
 
-## Assignments
+## Assignments 
 ### Code problem 1  - Array rotation
 **Problem Description**
 Given an integer array A of size N and an integer B, you have to return the same array after rotating it B times towards the right.
@@ -201,5 +200,174 @@ module.exports = {
         }
         return sum;
 	} 
+};
+```
+
+## Advanced assignments
+### Code problem 5
+![](../../../../assets/2-Array-techniques-image-5-ab28a569.png)
+![](../../../../assets/2-Array-techniques-image-6-ab28a569.png)
+
+```js
+module.exports = { 
+ //param A : array of integers
+ //return an integer
+	solve : function(A){
+		const ZERO = BigInt(0);
+		const ONE = BigInt(1);
+		const TWO = BigInt(2);
+		const n = BigInt(A.length);
+
+		let even_sum = ZERO, odd_sum = ZERO;
+		let B = Array(Number(n)).fill({});
+		B.forEach((_, idx) => {
+			idx = BigInt(idx);
+			item = BigInt(A[idx]);
+
+			B[idx] = {};
+
+			if(idx % TWO)
+			{
+				odd_sum+=item;
+				B[idx].odd = odd_sum;
+				B[idx].even = even_sum;
+			}
+			else
+			{
+				even_sum+=item;
+				B[idx].even = even_sum;
+				B[idx].odd = odd_sum;
+			}
+		});
+
+		// return JSON.stringify(B.map(item => ({odd: Number(item.odd), even: Number(item.even)})));
+		let count = ZERO;
+		for(let i = ZERO; i < n; i+=ONE) {
+			if(i % TWO) {
+				// remove odd.
+				const left_side_odd_sum = B[i].odd - BigInt(A[i]);
+				const right_side_odd_sum = B[n-ONE].even - B[i].even;
+
+				const left_side_even_sum = B[i].even - ZERO;
+				const right_side_even_sum = B[n-ONE].odd - B[i].odd;
+
+				if(left_side_odd_sum + right_side_odd_sum === left_side_even_sum + right_side_even_sum) {
+					count+=ONE;
+				}
+			}
+			else {
+				const left_side_odd_sum = B[i].odd - ZERO;
+				const right_side_odd_sum = B[n-ONE].even - B[i].even;
+
+				const left_side_even_sum = B[i].even - BigInt(A[i]);
+				const right_side_even_sum = B[n-ONE].odd - B[i].odd;
+				
+				if(left_side_odd_sum + right_side_odd_sum === left_side_even_sum + right_side_even_sum) {
+					count+=ONE;
+				}
+			}
+		}
+
+		return Number(count);
+	}
+};
+```
+
+### Coding problem 6
+![](../../../../assets/2-Array-techniques-image-7-ab28a569.png)
+```js
+module.exports = { 
+ //param A : array of integers
+ //return a array of integers
+	solve : function(A){
+        const total_product = A.reduce((accum, item) => accum * BigInt(item), BigInt(1));
+        return A.map((item) => {
+            item = BigInt(item);
+
+            return total_product / item;
+        });
+	}
+};
+```
+
+### Code problem 7
+![](../../../../assets/2-Array-techniques-image-8-ab28a569.png)
+```js
+module.exports = { 
+ //param A : array of integers
+ //param B : integer
+ //return an integer
+	solve : function(A, B){
+        // traverse over all subarrays, consider average, and keep moving
+        B = B % A.length;
+        const number_of_subarrays = A.length - B + 1;
+        let rolling_sum = A.reduce((accum, item, idx) => {
+            if(idx < B) return accum + item;
+            return item;
+        }, 0);
+        let min_sum = rolling_sum;
+        let start_index = 0;
+        for(let i = 1; i < number_of_subarrays; i++) {
+            rolling_sum = rolling_sum - (A[i-1]) + A[i + B - 1];
+            if(rolling_sum < min_sum)
+                min_sum = rolling_sum, start_index = i;
+        }
+        return start_index;
+	}
+};
+```
+
+### Code problem 8
+Trivial test cases pass but a hard one doesn't.
+![](../../../../assets/2-Array-techniques-image-9-ab28a569.png)
+![](../../../../assets/2-Array-techniques-image-10-ab28a569.png)
+```js
+function reverse(A, start = 0, end = null) {
+    end = end || A.length - 1;
+    let i = start, j = end;
+    while(i < j) {
+        const temp = A[i];
+        A[i] = A[j];
+        A[j] = temp;
+
+        i++;
+        j--;
+    }
+};
+
+function rotate(A, k) {
+    k = k % A.length;
+    reverse(A);
+    reverse(A, 0, k-1);
+    reverse(A, k, A.length - 1);
+};
+
+
+module.exports = { 
+ //param A : array of integers
+ //param B : integer
+ //return an integer
+	solve : function(A, B){
+        // [left part, ..., right_part]
+        // since selection is cyclic, first rotate the array by B towards the right
+        B = B % A.length;
+        
+
+        rotate(A, B); // [right_part, left_part, ...]
+        const ZERO = BigInt(0);
+        // return JSON.stringify(A);
+        let rolling_sum = A.reduce((accum, item, idx) => {
+            if (idx < B)
+                return accum + BigInt(item);
+            return accum;
+        }, ZERO);
+        let max_rolling_sum = rolling_sum;
+        for(let i = 1; i < A.length - B + 1; i++) {
+            rolling_sum = rolling_sum - BigInt(A[i-1] || ZERO) + BigInt(A[i + B - 1]);
+            if(rolling_sum > max_rolling_sum)
+                max_rolling_sum = rolling_sum;
+        }
+        return Number(max_rolling_sum);
+	}
 };
 ```
