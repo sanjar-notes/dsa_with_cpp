@@ -1,6 +1,7 @@
 # 2. Array techniques
 Created Fri May 24, 2024 at 9:10 PM
 
+[Lecture notes](../../../../assets/2-Array-techniques-pdf-1-ab28a569.pdf)
 ## Lecture
 ### Reversing an array
 1. Two pointers, one at the beginning, one at the end.
