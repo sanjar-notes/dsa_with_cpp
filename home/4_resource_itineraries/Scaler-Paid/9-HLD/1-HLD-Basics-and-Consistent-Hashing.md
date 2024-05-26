@@ -14,7 +14,7 @@ LLD is concerned about how we can write better code. This means code that is ext
 
 System design (HLD) is the study of how different infrastructure layers that work together to server an application at a scale at a desired efficiency. Example of infrastructure layers: LB, App servers, database servers.
 
-We are not going to cover:
+We are not going to cover (and it's usually not discussed in interviews):
 1. Knowledge - won't cover tangible steps like setting up libraries, components etc. This is because the focus here is on logical design, not implementation. *Whats the best library? Whats the best language*
 2. HLD is about problem solving (i.e. ability to make good decisions).
 3. No implementation.
