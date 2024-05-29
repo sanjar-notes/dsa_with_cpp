@@ -61,7 +61,7 @@ If we ignore endI, and then elements ahead of endI will get unnecessary values. 
 So, we just have to do process double queries, but since complexity is linear, it will stay that way. So n+2q => O(n + q), O(1).
 
 ## Assignments
-## Q1. Max Sum Contiguous Subarray
+### Q1. Max Sum Contiguous Subarray
 ![](../../../../assets/3-Arrays-1D-image-4-ab28a569.png)
 ```js
 module.exports = { 
@@ -85,7 +85,7 @@ module.exports = {
 };
 ```
 
-## Q2. Continuous Sum Query
+### Q2. Continuous Sum Query
 ![](../../../../assets/3-Arrays-1D-image-5-ab28a569.png)
 ![](../../../../assets/3-Arrays-1D-image-6-ab28a569.png)
 ```js
