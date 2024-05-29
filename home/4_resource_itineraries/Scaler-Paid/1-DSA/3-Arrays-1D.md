@@ -190,6 +190,10 @@ module.exports = {
 
 ### Q3. Rain Water Trapped
 Learning: focus on thinking better instead of making algorithm design process simpler/intuitive. There's no need to make the solution that could be understood by anyone (since making it that simple takes time).
+
+There's an alternative approach -
+1. Single wall's contribution = `min(leftMax, rightMax) - height[i]`. Consider only if positive.
+2. Movement (iteration) and max optimization (or no need actually) - find the maximum wall first, and use that as rightMax when going from left to right. And use it as leftMax when going from right to left. Calculate the other max, i.e. leftMax and rightMax, respectively, in a window (rolling) fashion. *Note that this approach is linear but not one-pass, you go from left to max wall. Then you go from right to max wall - two separate loops*, noting that these two loops are equivalent to a one-pass-approach is key.
 ![](../../../../assets/3-Arrays-1D-image-10-ab28a569.png)
 Own solution (not the simplest) - has some bug:
 ```js
