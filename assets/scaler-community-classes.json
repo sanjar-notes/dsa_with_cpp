@@ -1,0 +1,3013 @@
+{
+  "total_count": 376,
+  "sessions": [
+    {
+      "id": 821144,
+      "slug": "scalermart-case-study-approach-session",
+      "name": "ScalerMart Case Study- Approach Session",
+      "start_time": "2024-05-19T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 809043,
+      "slug": "tableau-overview",
+      "name": "Tableau Overview",
+      "start_time": "2024-04-28T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 801314,
+      "slug": "introduction-to-a-b-experiments",
+      "name": "Introduction to A/B Experiments",
+      "start_time": "2024-04-14T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 790981,
+      "slug": "interview-prep-workshop",
+      "name": "Interview Prep workshop",
+      "start_time": "2024-03-30T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 765104,
+      "slug": "interview-prep-test-discussions",
+      "name": "Interview Prep Test- Discussions",
+      "start_time": "2024-02-24T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 746766,
+      "slug": "large-language-models-decoded",
+      "name": "Large Language Models Decoded ",
+      "start_time": "2024-01-28T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 744260,
+      "slug": "da-role-bootcamp",
+      "name": "DA Role Bootcamp",
+      "start_time": "2024-01-27T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 737041,
+      "slug": "roadmap-to-an-data-science-career-at-amazon",
+      "name": "Roadmap to an Data Science career at Amazon",
+      "start_time": "2024-01-14T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 718303,
+      "slug": "cracked-the-code-roadmap-for-data-scientist-role",
+      "name": "Cracked the Code : Roadmap for Data Scientist Role",
+      "start_time": "2023-12-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 717433,
+      "slug": "ml-bootcamp-5",
+      "name": "ML Bootcamp",
+      "start_time": "2023-12-17T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 717428,
+      "slug": "sql-bootcamp-19",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-12-16T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 716337,
+      "slug": "scaler-career-connect",
+      "name": "Scaler career connect",
+      "start_time": "2023-12-15T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 712225,
+      "slug": "product-analytics-4",
+      "name": "product analytics",
+      "start_time": "2023-12-10T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 712221,
+      "slug": "eda-bootcamp-12",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-12-09T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 707919,
+      "slug": "sql-bootcamp-18",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-12-03T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 707936,
+      "slug": "ml-bootcamp-4",
+      "name": "ML Bootcamp",
+      "start_time": "2023-12-02T08:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 707918,
+      "slug": "python-bootcamp-10",
+      "name": "Python Bootcamp",
+      "start_time": "2023-12-02T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 703447,
+      "slug": "eda-bootcamp-11",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-11-26T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 703326,
+      "slug": "product-analytics-3",
+      "name": "product analytics",
+      "start_time": "2023-11-25T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 697925,
+      "slug": "python-bootcamp-9",
+      "name": "Python Bootcamp",
+      "start_time": "2023-11-19T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 698117,
+      "slug": "connecting-with-peers-on-common-path-peer-to-peer-insights",
+      "name": "Connecting with Peers on Common Path: Peer-to-Peer Insights",
+      "start_time": "2023-11-18T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 697908,
+      "slug": "sql-bootcamp-17",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-11-18T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 691388,
+      "slug": "pathway-to-success-navigating-the-roadmap-to-become-an-ml-engineer",
+      "name": "Pathway to Success: Navigating the Roadmap to Become an ML Engineer",
+      "start_time": "2023-11-05T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 690599,
+      "slug": "ml-bootcamp-3",
+      "name": "ML Bootcamp",
+      "start_time": "2023-11-05T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 690604,
+      "slug": "python-bootcamp-8",
+      "name": "Python Bootcamp",
+      "start_time": "2023-11-05T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 690601,
+      "slug": "eda-bootcamp-10",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-11-04T08:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 685689,
+      "slug": "product-analytics-2",
+      "name": "product analytics",
+      "start_time": "2023-10-29T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 685684,
+      "slug": "sql-bootcamp-16",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-10-28T07:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 680759,
+      "slug": "python-libraries-19",
+      "name": "Python Libraries",
+      "start_time": "2023-10-22T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 680755,
+      "slug": "eda-bootcamp-9",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-10-21T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 681229,
+      "slug": "from-it-to-data-science-navigating-a-career-transition-with-an-electrical-engineering-background",
+      "name": "From IT to Data Science: Navigating a Career Transition with an Electrical Engineering Background",
+      "start_time": "2023-10-21T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 676822,
+      "slug": "connecting-with-peer-on-common-path-peer-to-peer-insight",
+      "name": "Connecting with Peer on Common Path: Peer-to-Peer Insight",
+      "start_time": "2023-10-15T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 676034,
+      "slug": "sql-bootcamp-15",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-10-15T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 674171,
+      "slug": "connecting-with-peer-from-similar-backgrounds-sharing-insights",
+      "name": "Connecting with Peer from Similar Backgrounds: Sharing Insights",
+      "start_time": "2023-10-14T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 676031,
+      "slug": "python-programming-12",
+      "name": "Python Programming",
+      "start_time": "2023-10-14T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 670112,
+      "slug": "product-analytics",
+      "name": "product analytics",
+      "start_time": "2023-10-08T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 670083,
+      "slug": "python-libraries-18",
+      "name": "Python Libraries",
+      "start_time": "2023-10-07T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 664452,
+      "slug": "ml-bootcamp",
+      "name": "ML Bootcamp",
+      "start_time": "2023-10-01T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 664374,
+      "slug": "sql-bootcamp-12",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-09-30T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 660042,
+      "slug": "mastering-kaggle-a-comprehensive-guide-to-compete-code-and-succeed",
+      "name": "Mastering Kaggle: A Comprehensive Guide to Compete, Code, and Succeed",
+      "start_time": "2023-09-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 659211,
+      "slug": "python-programming-11",
+      "name": "Python Programming",
+      "start_time": "2023-09-23T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 653639,
+      "slug": "peer-to-peer-insights-bond-with-peers-on-shared-journeys-2",
+      "name": "Peer to Peer Insights: Bond with Peers on Shared Journeys",
+      "start_time": "2023-09-17T11:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 653683,
+      "slug": "connecting-with-peers-on-common-paths-peer-to-peer-insights",
+      "name": "Connecting with Peers on Common Paths: Peer-to-Peer Insights",
+      "start_time": "2023-09-17T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 654527,
+      "slug": "music-generation-using-rnns",
+      "name": "Music Generation Using RNNs",
+      "start_time": "2023-09-17T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 653610,
+      "slug": "python-libraries-17",
+      "name": "Python Libraries",
+      "start_time": "2023-09-17T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 653608,
+      "slug": "eda-bootcamp-8",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-09-16T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 646217,
+      "slug": "scaler-talks-overcoming-obstacles-embracing-growth-4",
+      "name": "Scaler Talks : Overcoming Obstacles, Embracing Growth",
+      "start_time": "2023-09-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 647640,
+      "slug": "python-programming-10",
+      "name": "Python Programming",
+      "start_time": "2023-09-10T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 647635,
+      "slug": "sql-bootcamp-11",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-09-09T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 646836,
+      "slug": "cracking-the-code-how-t-series-became-the-youtube-king",
+      "name": "Cracking the Code: How T-Series Became the YouTube King",
+      "start_time": "2023-09-08T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 642277,
+      "slug": "overcoming-obstacles-embracing-growth",
+      "name": "Overcoming Obstacles, Embracing Growth",
+      "start_time": "2023-09-03T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 642956,
+      "slug": "eda-bootcamp-7",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-09-03T04:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 642954,
+      "slug": "python-libraries-16",
+      "name": "Python Libraries",
+      "start_time": "2023-09-02T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 638683,
+      "slug": "python-programming-9",
+      "name": "Python Programming",
+      "start_time": "2023-08-27T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 638666,
+      "slug": "sql-bootcamp-10",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-08-26T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 633322,
+      "slug": "peer-to-peer-insights-bond-with-peers-on-shared-journey",
+      "name": "Peer-to-Peer Insights: Bond with Peers on Shared Journey",
+      "start_time": "2023-08-20T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 633307,
+      "slug": "peer-to-peer-insights-bond-with-peers-on-shared-journeys",
+      "name": "Peer-to-Peer Insights: Bond with Peers on Shared Journeys",
+      "start_time": "2023-08-20T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 632920,
+      "slug": "python-libraries-15",
+      "name": "Python Libraries",
+      "start_time": "2023-08-20T04:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 627774,
+      "slug": "scaler-pathway-explore-the-journey-ahead",
+      "name": "Scaler Pathway: Explore the Journey Ahead",
+      "start_time": "2023-08-13T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 627907,
+      "slug": "scaler-pathway-explore-the-journey-ahead-2",
+      "name": "Scaler Pathway: Explore the Journey Ahead",
+      "start_time": "2023-08-13T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 626682,
+      "slug": "python-programming-8",
+      "name": "Python Programming",
+      "start_time": "2023-08-13T04:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 625754,
+      "slug": "scaler-talks-overcoming-obstacles-embracing-growth-3",
+      "name": "Scaler Talks : Overcoming Obstacles, Embracing Growth",
+      "start_time": "2023-08-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 626678,
+      "slug": "eda-bootcamp-6",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-08-12T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 622965,
+      "slug": "python-libraries-13",
+      "name": "Python Libraries",
+      "start_time": "2023-08-06T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 622519,
+      "slug": "scaler-talks-overcoming-obstacles-embracing-growth-2",
+      "name": "Scaler Talks : Overcoming Obstacles, Embracing Growth",
+      "start_time": "2023-08-05T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 622286,
+      "slug": "sql-bootcamp-9",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-08-05T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 615698,
+      "slug": "scaler-talks-overcoming-obstacles-embracing-growth",
+      "name": "Scaler Talks : Overcoming Obstacles, Embracing Growth",
+      "start_time": "2023-07-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 618571,
+      "slug": "roadmap-transitioning-to-product-based-from-service-based",
+      "name": "Roadmap: Transitioning to Product-Based from Service based",
+      "start_time": "2023-07-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 617525,
+      "slug": "python-programming-7",
+      "name": "Python Programming",
+      "start_time": "2023-07-29T04:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 612809,
+      "slug": "sql-bootcamp-8",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-07-23T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 611172,
+      "slug": "community-onboarding-session-3",
+      "name": "Community Onboarding Session ",
+      "start_time": "2023-07-22T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 612807,
+      "slug": "python-libraries-11",
+      "name": "Python Libraries",
+      "start_time": "2023-07-22T04:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 606209,
+      "slug": "python-programming-6",
+      "name": "Python Programming",
+      "start_time": "2023-07-16T03:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 606206,
+      "slug": "eda-bootcamp-5",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-07-15T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 600584,
+      "slug": "ask-me-anything-get-ready-to-kickstart-your-learning-journey-with-scaler-4",
+      "name": "Ask Me Anything: Get Ready to Kickstart Your Learning Journey with Scaler !",
+      "start_time": "2023-07-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 600595,
+      "slug": "ask-me-anything-get-ready-to-kickstart-your-learning-journey-with-scaler-5",
+      "name": "Ask Me Anything: Get Ready to Kickstart Your Learning Journey with Scaler !",
+      "start_time": "2023-07-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 600418,
+      "slug": "sql-bootcamp-7",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-07-09T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 598741,
+      "slug": "scaler-talks-hurdles-conquered-growth-embraced",
+      "name": "Scaler Talks :  Hurdles Conquered, Growth Embraced",
+      "start_time": "2023-07-08T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 600417,
+      "slug": "python-libraries-10",
+      "name": "Python Libraries",
+      "start_time": "2023-07-08T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 594984,
+      "slug": "scaler-talks-fueling-ambitions-overcoming-obstacles",
+      "name": " SCALER TALKS : Fueling Ambitions, Overcoming Obstacles",
+      "start_time": "2023-07-02T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 594892,
+      "slug": "eda-bootcamp-4",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-07-02T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 594891,
+      "slug": "python-programming-5",
+      "name": "Python Programming",
+      "start_time": "2023-07-01T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 588908,
+      "slug": "scaler-talks-igniting-dreams-defying-limits",
+      "name": "SCALER TALKS : Igniting Dreams, Defying Limits",
+      "start_time": "2023-06-25T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 584856,
+      "slug": "up-skilling-journey-from-a-7-year-career-gap-to-success-in-the-data-field",
+      "name": "Up-skilling Journey: From a 7-Year Career Gap to Success in the Data Field",
+      "start_time": "2023-06-25T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 589534,
+      "slug": "python-libraries-9",
+      "name": "Python Libraries",
+      "start_time": "2023-06-25T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 588849,
+      "slug": "community-onboarding-session",
+      "name": "Community Onboarding Session",
+      "start_time": "2023-06-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 588816,
+      "slug": "sql-bootcamp-6",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-06-24T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 583724,
+      "slug": "sql-success-secrets-guidance-from-industry-expert-2",
+      "name": "SQL Success Secrets: Guidance from Industry expert",
+      "start_time": "2023-06-18T08:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 583698,
+      "slug": "eda-bootcamp-3",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-06-18T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 583328,
+      "slug": "python-programming-4",
+      "name": "Python Programming",
+      "start_time": "2023-06-17T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 577213,
+      "slug": "ask-me-anything-get-ready-to-kickstart-your-learning-journey-with-scaler",
+      "name": "Ask Me Anything: Get Ready to Kickstart Your Learning Journey with Scaler !",
+      "start_time": "2023-06-11T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 577226,
+      "slug": "ask-me-anything-get-ready-to-kickstart-your-learning-journey-with-scaler-3",
+      "name": "Ask Me Anything: Get Ready to Kickstart Your Learning Journey with Scaler !",
+      "start_time": "2023-06-11T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 577751,
+      "slug": "sql-bootcamp-5",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-06-11T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 578087,
+      "slug": "cracking-the-data-science-role-journey-to-success-unveiled",
+      "name": "Cracking the Data Science Role: Journey to Success Unveiled",
+      "start_time": "2023-06-11T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 577133,
+      "slug": "python-libraries-8",
+      "name": "Python Libraries",
+      "start_time": "2023-06-10T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 571994,
+      "slug": "applications-of-sql-aggregate-functions-and-group-by-clause",
+      "name": "Applications of SQL Aggregate functions and Group By clause",
+      "start_time": "2023-06-04T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 572912,
+      "slug": "interview-hacks-101-cracking-multiple-offers-coming-from-non-data-background",
+      "name": "Interview Hacks 101: Cracking Multiple offers coming from Non-Data Background",
+      "start_time": "2023-06-04T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 571887,
+      "slug": "eda-bootcamp",
+      "name": "EDA Bootcamp",
+      "start_time": "2023-06-04T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 571959,
+      "slug": "python-programming-3",
+      "name": "Python Programming",
+      "start_time": "2023-06-03T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 567536,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-7",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-05-28T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 566756,
+      "slug": "roadmap-how-to-crack-product-based-offer",
+      "name": "Roadmap : How to crack Product Based Offer",
+      "start_time": "2023-05-28T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 567429,
+      "slug": "sql-bootcamp-4",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-05-27T08:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 566721,
+      "slug": "insights-on-work-culture-in-airtel-scaler-company-discussions",
+      "name": "Insights on Work culture in Airtel || Scaler Company Discussions",
+      "start_time": "2023-05-27T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 567404,
+      "slug": "python-libraries-6",
+      "name": "Python Libraries",
+      "start_time": "2023-05-27T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 560990,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-6",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-05-21T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 561694,
+      "slug": "roadmap-to-crack-data-analyst-positions",
+      "name": "Roadmap to crack Data Analyst Positions",
+      "start_time": "2023-05-21T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 561671,
+      "slug": "community-onboarding-session-may23",
+      "name": "Community Onboarding Session : May23",
+      "start_time": "2023-05-20T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 560539,
+      "slug": "python-programming-2",
+      "name": "Python Programming ",
+      "start_time": "2023-05-20T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 560894,
+      "slug": "how-to-crack-tough-level-sql-interviews",
+      "name": "How to crack tough level SQL Interviews",
+      "start_time": "2023-05-19T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 555458,
+      "slug": "discover-the-complete-roadmap-to-become-a-data-scientist-2",
+      "name": "Discover the Complete Roadmap to Become a Data Scientist!",
+      "start_time": "2023-05-14T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 554978,
+      "slug": "sql-bootcamp-3",
+      "name": "SQL BootCamp",
+      "start_time": "2023-05-14T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 555008,
+      "slug": "transitioning-from-non-data-background-to-data-domain",
+      "name": "Transitioning from Non-Data Background to Data Domain",
+      "start_time": "2023-05-13T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 554963,
+      "slug": "python-libraries-5",
+      "name": "Python Libraries",
+      "start_time": "2023-05-13T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 545364,
+      "slug": "roadmap-to-success-for-your-upcoming-scaler-journey-4",
+      "name": "ROADMAP TO SUCCESS : FOR YOUR UPCOMING SCALER JOURNEY  ",
+      "start_time": "2023-05-07T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 546876,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-5",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-05-07T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 545353,
+      "slug": "roadmap-to-success-for-your-upcoming-scaler-journey-3",
+      "name": "ROADMAP TO SUCCESS : FOR YOUR UPCOMING SCALER JOURNEY  ",
+      "start_time": "2023-05-07T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 547855,
+      "slug": "eda-hypothesis-testing-anova-a-b-test",
+      "name": "EDA - Hypothesis Testing \u0026 ANOVA / A/B Test",
+      "start_time": "2023-05-07T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 545327,
+      "slug": "cracking-data-science-interviews-from-non-data-background",
+      "name": "Cracking Data Science Interviews: From Non- Data Background",
+      "start_time": "2023-05-07T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 547196,
+      "slug": "discover-the-complete-roadmap-to-become-a-data-scientist",
+      "name": "Discover the Complete Roadmap to Become a Data Scientist!",
+      "start_time": "2023-05-06T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 547850,
+      "slug": "python-programming",
+      "name": "Python Programming",
+      "start_time": "2023-05-06T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 540846,
+      "slug": "make-your-scaler-journey-easy-ask-from-our-scaler-alumni-3",
+      "name": "Make your Scaler Journey Easy: Ask from our Scaler Alumni",
+      "start_time": "2023-04-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 534705,
+      "slug": "make-your-scaler-journey-easy-ask-from-our-scaler-alumni",
+      "name": "Make your Scaler Journey Easy: Ask from our Scaler Alumni",
+      "start_time": "2023-04-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 541704,
+      "slug": "introduction-to-sql-window-functions-and-their-applications",
+      "name": "Introduction to SQL-Window Functions and their Applications",
+      "start_time": "2023-04-30T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 541672,
+      "slug": "sql-preparation-bootcamp",
+      "name": "SQL Preparation Bootcamp",
+      "start_time": "2023-04-30T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 540716,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-4",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-04-29T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 540981,
+      "slug": "breaking-barriers-from-non-tech-to-data-analyst-a-journey-of-success",
+      "name": "Breaking Barriers: From Non-Tech to Data Analyst - A Journey of Success",
+      "start_time": "2023-04-29T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 541616,
+      "slug": "python-libraries",
+      "name": "Python Libraries",
+      "start_time": "2023-04-29T05:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 534723,
+      "slug": "make-your-scaler-journey-easy-ask-from-our-scaler-alumni-2",
+      "name": "Make your Scaler Journey Easy: Ask from our Scaler Alumni",
+      "start_time": "2023-04-23T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 534649,
+      "slug": "up-skilling-in-data-science-analysis-industry-expert-over-view-2",
+      "name": "Up-Skilling In Data Science \u0026 Analysis - Industry Expert Over View",
+      "start_time": "2023-04-23T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 535470,
+      "slug": "eda-probability-and-statistics",
+      "name": "EDA - Probability and Statistics ",
+      "start_time": "2023-04-23T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 535435,
+      "slug": "unlocking-the-door-to-data-analytics-guidance-for-cracking-the-data-analyst-job-offer",
+      "name": "\"Unlocking the Door to Data Analytics: Guidance for Cracking the Data Analyst Job Offer\"",
+      "start_time": "2023-04-22T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 535353,
+      "slug": "python-libraries-preparation-bootcamp-3",
+      "name": "Python Libraries Preparation Bootcamp",
+      "start_time": "2023-04-22T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 529166,
+      "slug": "community-onboarding-13",
+      "name": "Community Onboarding",
+      "start_time": "2023-04-16T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 529230,
+      "slug": "sql-interview-preparation-bootcamp",
+      "name": "SQL Interview preparation Bootcamp",
+      "start_time": "2023-04-16T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 529027,
+      "slug": "breaking-into-data-science-from-non-data-background-too-cracking-offers",
+      "name": "Breaking into Data Science: From Non data background too cracking offers!!",
+      "start_time": "2023-04-16T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 529194,
+      "slug": "python-libraries-preparation-bootcamp-2",
+      "name": "Python Libraries Preparation Bootcamp",
+      "start_time": "2023-04-15T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 526830,
+      "slug": "insights-on-work-culture-in-moller-maersk-scaler-company-discussions",
+      "name": "Insights on Work culture in Moller Maersk || Scaler Company Discussions",
+      "start_time": "2023-04-15T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 519698,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-3",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-04-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 519542,
+      "slug": "roadmap-to-success-for-your-upcoming-scaler-journey",
+      "name": "ROADMAP TO SUCCESS : FOR YOUR UPCOMING SCALER JOURNEY",
+      "start_time": "2023-04-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 519550,
+      "slug": "roadmap-to-success-for-your-upcoming-scaler-journey-2",
+      "name": "ROADMAP TO SUCCESS : FOR YOUR UPCOMING SCALER JOURNEY",
+      "start_time": "2023-04-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 520039,
+      "slug": "peer-insight-into-expert-sql-mock-interview-3",
+      "name": "Peer Insight Into Expert SQL Mock Interview",
+      "start_time": "2023-04-08T11:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 521716,
+      "slug": "guidance-from-mentor-on-roadmap-for-data-science-roles",
+      "name": "Guidance from Mentor on Roadmap for Data Science Roles",
+      "start_time": "2023-04-08T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 513172,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views-2",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-04-02T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 515272,
+      "slug": "how-scaler-can-help-you-achieve-your-up-skilling-goal",
+      "name": "How Scaler can help you achieve your Up-Skilling Goal!",
+      "start_time": "2023-04-02T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 515291,
+      "slug": "how-scaler-can-help-you-achieve-your-up-skilling-goal-2",
+      "name": "How Scaler can help you achieve your Up-skilling Goal !",
+      "start_time": "2023-04-02T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 514781,
+      "slug": "sql-interview-prepration-bootcamp-3",
+      "name": "SQL Interview Prepration Bootcamp",
+      "start_time": "2023-04-02T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 514520,
+      "slug": "from-novice-to-data-analyst-how-one-professional-cracked-the-code-to-a-successful-career",
+      "name": "From Novice to Data Analyst: How One Professional Cracked the Code to a Successful Career",
+      "start_time": "2023-04-01T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 514589,
+      "slug": "consistency-time-management-guidance-from-your-own-peer",
+      "name": "Consistency \u0026 Time Management guidance from your own Peer",
+      "start_time": "2023-04-01T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 514823,
+      "slug": "python-libraries-preparation-bootcamp",
+      "name": "Python Libraries Preparation Bootcamp",
+      "start_time": "2023-04-01T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 513165,
+      "slug": "resume-preparation-for-dsml-roles",
+      "name": "Resume preparation for DSML roles",
+      "start_time": "2023-03-30T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 506409,
+      "slug": "up-skilling-in-data-science-analysis-industry-experts-over-views",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Experts Over Views",
+      "start_time": "2023-03-26T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 509052,
+      "slug": "introduction-to-kaggle",
+      "name": "Introduction to kaggle",
+      "start_time": "2023-03-25T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 507983,
+      "slug": "peer-insight-into-expert-sql-mock-interview-2",
+      "name": "Peer Insight Into Expert SQL Mock Interview",
+      "start_time": "2023-03-25T10:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 507629,
+      "slug": "insights-on-work-culture-in-amazon-scaler-company-discussions",
+      "name": "Insights on Work culture in Amazon || Scaler Company Discussions",
+      "start_time": "2023-03-25T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 508119,
+      "slug": "python-interview-prepration-bootcamp-3",
+      "name": "Python Interview Prepration Bootcamp",
+      "start_time": "2023-03-25T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 501243,
+      "slug": "revolutionizing-engineering-education-unveiling-the-scaler-school-of-technology-3",
+      "name": "Revolutionizing Engineering Education: Unveiling the Scaler School of Technology",
+      "start_time": "2023-03-19T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 501721,
+      "slug": "up-skilling-in-data-science-and-analysis-industry-expert-over-view-2",
+      "name": "Up-skilling in Data Science and Analysis - Industry Expert Over View",
+      "start_time": "2023-03-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 499688,
+      "slug": "roadmap-how-to-prepare-for-data-science-interview",
+      "name": "Roadmap : How to Prepare for Data Science Interview",
+      "start_time": "2023-03-19T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 499240,
+      "slug": "sql-bootcamp-2",
+      "name": "SQL Bootcamp",
+      "start_time": "2023-03-19T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 499183,
+      "slug": "python-interview-prepration-bootcamp-2",
+      "name": "Python Interview Prepration Bootcamp",
+      "start_time": "2023-03-18T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 494784,
+      "slug": "roadmap-guidance-from-your-peer-on-her-journey-of-upskilling",
+      "name": "Roadmap: Guidance from your Peer on her journey of Upskilling.",
+      "start_time": "2023-03-12T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 495648,
+      "slug": "sql-interview-prepration-bootcamp-2",
+      "name": "SQL Interview prepration Bootcamp",
+      "start_time": "2023-03-12T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 493521,
+      "slug": "eda-interview-prepration-bootcamp",
+      "name": "EDA Interview prepration Bootcamp",
+      "start_time": "2023-03-12T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 493531,
+      "slug": "python-interview-prepration-bootcamp",
+      "name": "Python interview prepration Bootcamp",
+      "start_time": "2023-03-11T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 486053,
+      "slug": "up-skilling-in-data-science-analysis-industry-expert-over-views",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Expert Over Views",
+      "start_time": "2023-03-05T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 488161,
+      "slug": "interview-performance-improvement-1",
+      "name": "Interview Performance Improvement 1",
+      "start_time": "2023-03-05T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 487877,
+      "slug": "solving-interview-coding-problems-using-python",
+      "name": "Solving interview coding problems using Python",
+      "start_time": "2023-03-04T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 485917,
+      "slug": "up-skilling-in-data-science-analysis-industry-expert-over-view",
+      "name": "Up-skilling in Data Science \u0026 Analysis - Industry Expert Over View",
+      "start_time": "2023-03-03T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 485760,
+      "slug": "up-skilling-in-data-science-and-analysis-industry-expert-over-view",
+      "name": "Up-skilling in Data Science and Analysis - Industry Expert Over View",
+      "start_time": "2023-03-02T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 480806,
+      "slug": "peer-gudiance-on-your-way-to-upskill-in-data-science-domain",
+      "name": "Peer Gudiance on your way to upskill in Data Science Domain",
+      "start_time": "2023-02-26T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 480858,
+      "slug": "sql-interview-preparation-series-4-2",
+      "name": "SQL Interview Preparation Series - 4",
+      "start_time": "2023-02-26T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 480846,
+      "slug": "python-interview-preparation-series-3",
+      "name": "Python Interview Preparation Series - 3",
+      "start_time": "2023-02-25T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 473185,
+      "slug": "how-to-excel-at-tech-interviews-with-scaler-ecosystem",
+      "name": "How to excel at tech interviews with Scaler Ecosystem!",
+      "start_time": "2023-02-19T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 474366,
+      "slug": "python-interview-preparation-series-2-2",
+      "name": "Python  Interview Preparation Series -2",
+      "start_time": "2023-02-18T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 466768,
+      "slug": "peer-insight-into-expert-sql-mock-interview",
+      "name": "Peer Insight Into Expert SQL Mock Interview",
+      "start_time": "2023-02-12T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 465989,
+      "slug": "sql-interview-preparation-series-3",
+      "name": "SQL Interview Preparation Series -3",
+      "start_time": "2023-02-12T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 464045,
+      "slug": "community-onboarding-feb-2023",
+      "name": "Community Onboarding - FEB 2023",
+      "start_time": "2023-02-11T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 466032,
+      "slug": "python-interview-preparation-series-1",
+      "name": "Python Interview Preparation Series - 1",
+      "start_time": "2023-02-11T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 458105,
+      "slug": "roadmap-guidance-from-your-peer-on-his-journey-of-upskilling",
+      "name": "Roadmap: Guidance from your Peer on his journey of Upskilling. ",
+      "start_time": "2023-02-05T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 459372,
+      "slug": "interview-preparation-series-2",
+      "name": "Interview Preparation Series-2",
+      "start_time": "2023-02-05T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 453536,
+      "slug": "interview-preparation-series",
+      "name": "Interview Preparation Series",
+      "start_time": "2023-01-29T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 414964,
+      "slug": "book-my-show-lld",
+      "name": " Book My Show - LLD",
+      "start_time": "2022-12-18T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 407186,
+      "slug": "important-questions-on-graphs-2",
+      "name": "Important Questions on Graphs",
+      "start_time": "2022-12-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 414958,
+      "slug": "learn-low-level-design-for-the-real-world-apps-like-splitwise",
+      "name": "Learn Low level Design for the real world apps like Splitwise",
+      "start_time": "2022-12-17T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 414963,
+      "slug": "build-the-perfect-resume-with-rakesh",
+      "name": "Build The Perfect Resume with Rakesh",
+      "start_time": "2022-12-17T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 413924,
+      "slug": "docker-how-to-containerise-your-apps",
+      "name": "Docker - How to containerise your apps",
+      "start_time": "2022-12-16T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 410862,
+      "slug": "end-to-end-problem-solving-2",
+      "name": "End to End Problem Solving - 2",
+      "start_time": "2022-12-13T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 409320,
+      "slug": "importance-of-project-building-in-interviews-2",
+      "name": "Importance of Project Building in Interviews  ",
+      "start_time": "2022-12-11T14:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 408355,
+      "slug": "circuit-breaking-and-caching-applied-to-api-for-better-responsiveness-handling-fault-tolerance",
+      "name": "Circuit-Breaking and Caching Applied to API for better Responsiveness \u0026 handling Fault-Tolerance.",
+      "start_time": "2022-12-11T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 407636,
+      "slug": "end-to-end-problem-solving-1",
+      "name": "End to End Problem Solving - 1",
+      "start_time": "2022-12-10T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 407161,
+      "slug": "insights-on-work-culture-in-microsoft-scaler-company-discussions",
+      "name": "Insights on Work culture in Microsoft || Scaler Company Discussions\t",
+      "start_time": "2022-12-10T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 406990,
+      "slug": "building-apis-using-flask-and-fastapi",
+      "name": "Building APIs using Flask and FastAPI",
+      "start_time": "2022-12-09T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 405662,
+      "slug": "problem-solving-session-2",
+      "name": "Problem solving session -2",
+      "start_time": "2022-12-08T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 400862,
+      "slug": "learn-data-analysis-using-advanced-charts-techniques-lods-in-tableau",
+      "name": "Learn Data Analysis using Advanced charts, Techniques \u0026 LODs in Tableau ",
+      "start_time": "2022-12-04T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 400844,
+      "slug": "journey-to-tech-giant-microsoft",
+      "name": "Journey to tech giant Microsoft. ",
+      "start_time": "2022-12-04T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 400878,
+      "slug": "building-ml-apps-services-using-streamlit",
+      "name": "Building ML Apps \u0026 services using Streamlit.",
+      "start_time": "2022-12-03T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 400712,
+      "slug": "important-questions-on-dynamic-programming",
+      "name": "Important questions on Dynamic Programming",
+      "start_time": "2022-12-03T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 398841,
+      "slug": "problem-solving-session-1-2",
+      "name": "Problem solving session -1",
+      "start_time": "2022-12-03T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 393857,
+      "slug": "data-analysis-using-advanced-charts-techniques-lods-in-tableau",
+      "name": "Data Analysis using Advanced charts, Techniques \u0026 LODs in Tableau",
+      "start_time": "2022-11-27T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 393597,
+      "slug": "roadmap-cracking-product-based-company",
+      "name": "Roadmap :Cracking Product Based Company\t",
+      "start_time": "2022-11-27T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 391765,
+      "slug": "important-questions-on-recursion",
+      "name": "Important questions on Recursion",
+      "start_time": "2022-11-27T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 391465,
+      "slug": "community-onboarding-nov-22",
+      "name": "Community Onboarding - Nov 22",
+      "start_time": "2022-11-26T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 369309,
+      "slug": "how-to-process-gbs-of-data-using-map-reduce",
+      "name": "How to process GBs of data using Map Reduce ",
+      "start_time": "2022-11-20T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 386008,
+      "slug": "important-questions-on-stacks-queues",
+      "name": "Important questions on Stacks \u0026 Queues",
+      "start_time": "2022-11-20T06:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 385326,
+      "slug": "transition-from-electrical-engineer-to-sde-at-mmt",
+      "name": "Transition from electrical engineer to SDE at MMT",
+      "start_time": "2022-11-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 377182,
+      "slug": "how-to-deploy-ml-powered-apps-on-aws-using-docker",
+      "name": "How to deploy ML-powered apps on AWS using Docker",
+      "start_time": "2022-11-13T06:31:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 377149,
+      "slug": "cracking-the-product-interview-scaler-talks",
+      "name": "Cracking the Product Interview : Scaler Talks",
+      "start_time": "2022-11-12T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 371098,
+      "slug": "data-analytics-with-ms-excel",
+      "name": "Data Analytics with MS Excel",
+      "start_time": "2022-11-06T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 371283,
+      "slug": "solid-principles-and-12factor-app-for-microservices",
+      "name": "SOLID principles and 12Factor App for microservices",
+      "start_time": "2022-11-06T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 364832,
+      "slug": "system-design-of-security-monitoring-platform",
+      "name": "System Design of Security Monitoring platform.",
+      "start_time": "2022-10-30T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 352883,
+      "slug": "importance-of-project-building-in-interviews",
+      "name": "Importance of Project Building in Interviews ",
+      "start_time": "2022-10-16T14:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 350103,
+      "slug": "investing-101-how-to-invest-in-the-market-during-highs-lows",
+      "name": "Investing 101 : How to invest in the market during Highs \u0026 Lows",
+      "start_time": "2022-10-16T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 351564,
+      "slug": "community-onboarding-october22",
+      "name": "Community Onboarding - October22",
+      "start_time": "2022-10-16T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 344841,
+      "slug": "introduction-to-dockers-containerisation",
+      "name": "Introduction to Dockers \u0026 Containerisation",
+      "start_time": "2022-10-15T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 352491,
+      "slug": "how-to-make-best-use-of-scaler-ecosystem-guidance-by-your-peers",
+      "name": "How to make best use of Scaler Ecosystem : Guidance by your Peers!",
+      "start_time": "2022-10-15T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 344919,
+      "slug": "tableau-training",
+      "name": "Tableau Training",
+      "start_time": "2022-10-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 314487,
+      "slug": "roadmap-how-to-make-the-best-use-of-scaler-ecosystem-upskill",
+      "name": "RoadMap : How to make the best use of Scaler Ecosystem \u0026 upskill. ",
+      "start_time": "2022-10-09T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 343921,
+      "slug": "important-interview-questions-on-trees",
+      "name": "Important interview questions on Trees",
+      "start_time": "2022-10-08T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 338119,
+      "slug": "how-to-build-machine-learning-apps-using-streamlit-2",
+      "name": "How to build Machine Learning Apps using Streamlit",
+      "start_time": "2022-10-02T13:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 338317,
+      "slug": "insights-on-work-culture-in-adobe-scaler-company-discussions",
+      "name": "Insights on Work culture in Adobe || Scaler Company Discussions",
+      "start_time": "2022-10-01T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 338933,
+      "slug": "community-onboarding-2-4",
+      "name": "Community Onboarding 2",
+      "start_time": "2022-10-01T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 328682,
+      "slug": "awsome-days-part-2",
+      "name": "AWSome Days - Part 2",
+      "start_time": "2022-09-25T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 329520,
+      "slug": "here-s-how-scaler-helps-you-accelerate-in-your-career-with-its-structured-curriculum",
+      "name": "Here's how Scaler helps you accelerate in your career with its Structured Curriculum!\t",
+      "start_time": "2022-09-25T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 331416,
+      "slug": "how-to-build-machine-learning-apps-using-streamlit",
+      "name": "How to build Machine Learning Apps using Streamlit",
+      "start_time": "2022-09-24T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 328670,
+      "slug": "awsome-days",
+      "name": "AWSome Days",
+      "start_time": "2022-09-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 328855,
+      "slug": "roadmap-get-placements-ready-with-us",
+      "name": "Roadmap: Get Placements ready with us!",
+      "start_time": "2022-09-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 323636,
+      "slug": "behind-the-scenes-of-your-mobile-bill",
+      "name": "Behind the Scenes of your mobile bill",
+      "start_time": "2022-09-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 322727,
+      "slug": "how-to-align-your-efforts-with-scaler-ecosystem-community-version",
+      "name": "How to align your efforts with Scaler Ecosystem : Community Version !",
+      "start_time": "2022-09-17T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 315374,
+      "slug": "peer-insight-into-expert-lld-mock-interview",
+      "name": "Peer Insight Into Expert LLD Mock Interview",
+      "start_time": "2022-09-11T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 316432,
+      "slug": "tableau-an-overview",
+      "name": "Tableau: An overview",
+      "start_time": "2022-09-10T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 309345,
+      "slug": "roadmap-how-to-excel-at-tech-interviews",
+      "name": "RoadMap: How to excel at tech interviews",
+      "start_time": "2022-09-04T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 309344,
+      "slug": "introduction-to-next-js-2",
+      "name": "Introduction to Next JS-2",
+      "start_time": "2022-09-04T06:31:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 309774,
+      "slug": "peer-insight-into-expert-mock-interview",
+      "name": "Peer Insight Into Expert Mock Interview",
+      "start_time": "2022-09-04T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 302552,
+      "slug": "solid-principles-in-depth",
+      "name": "Solid principles in depth",
+      "start_time": "2022-08-27T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 295336,
+      "slug": "road-to-placements-strategy-to-crack-product-offers",
+      "name": "Road to placements: Strategy to crack product offers!",
+      "start_time": "2022-08-21T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 295572,
+      "slug": "how-to-negotiate-offers-with-multiple-companies",
+      "name": "How to negotiate offers with multiple companies",
+      "start_time": "2022-08-20T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 288322,
+      "slug": "how-to-prepare-for-maang-interviews",
+      "name": "How to Prepare for MAANG Interviews\t",
+      "start_time": "2022-08-14T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 289172,
+      "slug": "community-onboarding-5",
+      "name": "Community Onboarding",
+      "start_time": "2022-08-13T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 282837,
+      "slug": "roadmap-how-to-prepare-for-product-based-company",
+      "name": "Roadmap : How to Prepare for Product Based Company",
+      "start_time": "2022-08-07T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 283319,
+      "slug": "introduction-to-next-js",
+      "name": "Introduction to Next JS",
+      "start_time": "2022-08-06T09:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 283323,
+      "slug": "how-to-build-effective-resume-to-land-top-product-based-companies",
+      "name": "How to build effective resume to land top product based companies.",
+      "start_time": "2022-08-06T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 281046,
+      "slug": "interview-problems-on-binary-search",
+      "name": "Interview problems on Binary Search",
+      "start_time": "2022-08-03T03:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 278018,
+      "slug": "basics-concept-of-strings",
+      "name": "Basics Concept of Strings",
+      "start_time": "2022-07-31T04:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 270854,
+      "slug": "a-day-in-the-life-of-an-engineering-manager-2",
+      "name": "A Day in the Life of an Engineering Manager",
+      "start_time": "2022-07-24T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 272819,
+      "slug": "community-onboarding-2-3",
+      "name": "Community Onboarding 2",
+      "start_time": "2022-07-23T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 271978,
+      "slug": "system-design-of-a-cryptocurrency-trading-platform",
+      "name": "System design of a cryptocurrency trading platform.",
+      "start_time": "2022-07-22T15:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 266314,
+      "slug": "roadmap-how-to-nail-microsoft-interview",
+      "name": "RoadMap : How to Nail Microsoft interview",
+      "start_time": "2022-07-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 264328,
+      "slug": "matrix-exponentiation-2",
+      "name": "Matrix Exponentiation.",
+      "start_time": "2022-07-12T14:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 260229,
+      "slug": "roadmap-how-to-excel-at-tech-interviews-with-making-best-use-of-scaler-ecosystem",
+      "name": "RoadMap: How to excel at tech interviews with making best use of Scaler Ecosystem!",
+      "start_time": "2022-07-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 260190,
+      "slug": "linux-commands-and-linux-shell-scripting",
+      "name": "Linux Commands and Linux Shell Scripting",
+      "start_time": "2022-07-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 254267,
+      "slug": "stepping-stones-to-success-how-scaler-helps-with-structured-curriculum",
+      "name": "Stepping stones to success: How Scaler helps with structured curriculum!",
+      "start_time": "2022-07-03T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 255629,
+      "slug": "introduction-to-linux-basic-linux-commands",
+      "name": "Introduction to linux \u0026 basic linux commands",
+      "start_time": "2022-07-02T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 250202,
+      "slug": "road-to-placements-strategy-to-crack-product-company",
+      "name": "Road to placements: Strategy to crack product company!",
+      "start_time": "2022-06-26T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 250209,
+      "slug": "learn-to-apply-binary-search-on-array",
+      "name": "Learn to apply Binary Search on Array",
+      "start_time": "2022-06-26T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 248335,
+      "slug": "deploying-a-full-stack-project-using-github-student-developer-pack-2",
+      "name": "Deploying a Full Stack Project using Github Student Developer Pack\t",
+      "start_time": "2022-06-23T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 236646,
+      "slug": "deploying-a-full-stack-project-using-github-student-developer-pack",
+      "name": "Deploying a Full Stack Project using Github Student Developer Pack",
+      "start_time": "2022-06-19T15:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 245389,
+      "slug": "roadmap-how-to-prepare-for-product-company",
+      "name": "Roadmap : How to Prepare for Product Company",
+      "start_time": "2022-06-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 245379,
+      "slug": "importance-of-stacks-and-queues",
+      "name": "Importance of Stacks and Queues",
+      "start_time": "2022-06-18T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 239796,
+      "slug": "make-the-best-use-of-scaler-ecosystem-to-crack-company-interview",
+      "name": "Make the Best Use of Scaler Ecosystem to Crack Company Interview",
+      "start_time": "2022-06-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 225827,
+      "slug": "building-a-full-stack-project-using-github-student-developer-pack",
+      "name": "Building a Full Stack Project using Github Student Developer Pack",
+      "start_time": "2022-06-11T15:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 238966,
+      "slug": "basics-of-next-js",
+      "name": "Basics of Next JS",
+      "start_time": "2022-06-11T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 233167,
+      "slug": "how-to-up-skill-yourself-and-enter-maang",
+      "name": "How to Up-Skill yourself and enter MAANG! ",
+      "start_time": "2022-06-04T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 235671,
+      "slug": "community-onboarding",
+      "name": "Community Onboarding",
+      "start_time": "2022-06-04T06:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 225746,
+      "slug": "stepping-stones-to-success-how-scaler-academy-helped-me-crack-offers",
+      "name": "Roadmap : How to excel at tech interviews with a full time job",
+      "start_time": "2022-05-29T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 225836,
+      "slug": "java-design-patterns-creational-design-patterns-part-3-2",
+      "name": "\"Java Design Patterns: Creational Design Patterns Part-3\"",
+      "start_time": "2022-05-28T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 218933,
+      "slug": "crack-the-code-to-make-the-road-to-adobe",
+      "name": "Crack The Code To Make The Road to Adobe! ",
+      "start_time": "2022-05-22T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 219379,
+      "slug": "kafka-theory-to-application",
+      "name": "Kafka - Theory to Application",
+      "start_time": "2022-05-21T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 215043,
+      "slug": "linear-regression",
+      "name": "Linear Regression",
+      "start_time": "2022-05-15T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 210860,
+      "slug": "roadmap-how-to-prepare-for-tech-giant-microsoft",
+      "name": "Roadmap : How to Prepare for Tech Giant Microsoft",
+      "start_time": "2022-05-15T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 210000,
+      "slug": "natural-language-processing-in-ml",
+      "name": "Natural Language Processing in ML",
+      "start_time": "2022-05-08T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 195690,
+      "slug": "roadmap-how-to-make-best-use-of-learning-ecosystem-crack-offers",
+      "name": "RoadMap:How to Make best use of learning ecosystem \u0026 crack offers! ",
+      "start_time": "2022-05-08T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 207851,
+      "slug": "designing-a-google-calender",
+      "name": "Designing a  Google Calender ",
+      "start_time": "2022-05-07T15:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 203152,
+      "slug": "intro-to-cloud-computing",
+      "name": "Intro to Cloud Computing. ",
+      "start_time": "2022-05-01T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 200829,
+      "slug": "roadmap-what-it-takes-to-crack-offers-from-walmart",
+      "name": "Roadmap: What it Takes to crack offers from Walmart!",
+      "start_time": "2022-05-01T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 180183,
+      "slug": "java-design-patterns-creational-design-patterns-part-3",
+      "name": "\"Java Design Patterns: Creational Design Patterns Part-3\"",
+      "start_time": "2022-04-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 197843,
+      "slug": "hashing-peer-to-peer",
+      "name": "Hashing (Peer to Peer)",
+      "start_time": "2022-04-23T14:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 197606,
+      "slug": "how-to-build-effective-open-source-projects-on-github",
+      "name": "How to build effective open source projects on Github",
+      "start_time": "2022-04-23T13:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 184153,
+      "slug": "roadmap-how-to-nail-amazon-interview",
+      "name": "RoadMap : How to Nail Amazon interview",
+      "start_time": "2022-04-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 175160,
+      "slug": "low-level-system-design-of-wordle-game",
+      "name": "Low Level System Design of Wordle Game",
+      "start_time": "2022-04-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 180954,
+      "slug": "bit-manipulation-peer-to-peer",
+      "name": "Bit Manipulation (Peer to Peer)",
+      "start_time": "2022-04-03T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 181066,
+      "slug": "acing-the-technical-interview-process-at-hft-and-fintech-firms",
+      "name": "Acing the Technical Interview Process at HFT and Fintech firms",
+      "start_time": "2022-04-03T07:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 175932,
+      "slug": "recursion-and-backtracking-peer-to-peer-learning",
+      "name": "Recursion and Backtracking (Peer to Peer Learning)",
+      "start_time": "2022-04-02T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 175858,
+      "slug": "reinforcement-learning-a-step-toward-pure-artificial-intelligence",
+      "name": "Reinforcement Learning - A step toward pure Artificial Intelligence",
+      "start_time": "2022-04-02T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 174618,
+      "slug": "unbelievable-learn-how-pranav-cracked-30-product-companies-and-bagged-425-hike",
+      "name": "Guidance from our Mentor Pranav on Cracking 30+ Product Companies",
+      "start_time": "2022-03-27T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 176705,
+      "slug": "arrays-basics",
+      "name": "Arrays Basics",
+      "start_time": "2022-03-26T11:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 176743,
+      "slug": "trees-basics-peer-to-peer-learning",
+      "name": "Trees Basics (Peer to Peer Learning)",
+      "start_time": "2022-03-26T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 171951,
+      "slug": "peer-to-peer-learning-maths",
+      "name": "Peer to Peer Learning (Maths)",
+      "start_time": "2022-03-20T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 170288,
+      "slug": "roadmap-journey-to-tech-giant-microsoft",
+      "name": "Roadmap:Journey to tech giant Microsoft.",
+      "start_time": "2022-03-20T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 171064,
+      "slug": "risk-management-trading-psychology",
+      "name": "Risk Management \u0026 Trading Psychology",
+      "start_time": "2022-03-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 165519,
+      "slug": "introduction-to-investments-and-technical-analysis",
+      "name": "Introduction to Investments and Technical analysis ",
+      "start_time": "2022-03-13T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 164928,
+      "slug": "java-design-patterns-creational-design-patterns-part-2-2",
+      "name": " \"Java Design Patterns:Creational Design Patterns Part-2 \"",
+      "start_time": "2022-03-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 156730,
+      "slug": "roadmap-what-it-takes-to-crack-offers-from-microsoft",
+      "name": "Roadmap: What it Takes to crack offers from Microsoft!",
+      "start_time": "2022-03-06T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 159521,
+      "slug": "github-dev-demo-days",
+      "name": "Github Dev Demo Days",
+      "start_time": "2022-03-05T13:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 154590,
+      "slug": "how-to-build-effective-open-source-projects",
+      "name": "How to build effective open source projects",
+      "start_time": "2022-02-27T13:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 150995,
+      "slug": "introduction-to-logistic-regression-using-python",
+      "name": "Introduction to Logistic Regression Using Python",
+      "start_time": "2022-02-20T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 150335,
+      "slug": "roadmap-from-design-engineer-to-engineering-director",
+      "name": "Roadmap: From Design Engineer to Engineering Director.",
+      "start_time": "2022-02-20T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 145964,
+      "slug": "master-product-and-strategy-questions-for-faang-data-science-interviews",
+      "name": "Master Product and Strategy questions for FAANG Data Science Interviews",
+      "start_time": "2022-02-13T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 142957,
+      "slug": "guidance-from-peer-how-to-prepare-for-tech-interviews",
+      "name": "Guidance from Peer : How to prepare for tech interviews?",
+      "start_time": "2022-02-13T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 146133,
+      "slug": "building-low-code-apps-with-re-tool",
+      "name": "Building Low Code Apps with Re-Tool.",
+      "start_time": "2022-02-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 145665,
+      "slug": "introduction-to-binary-search-trees-and-the-basics",
+      "name": "Introduction to Binary Search Trees and the basics.",
+      "start_time": "2022-02-12T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 140049,
+      "slug": "trie-from-re-trie-val",
+      "name": "\"TRIE\" FROM RE\"TRIE\"VAL.",
+      "start_time": "2022-02-05T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 135360,
+      "slug": "stepping-stones-to-success-how-scaler-academy-helped-me-crack-7-offers",
+      "name": "Stepping Stones to Success: How Scaler Academy helped me crack 7 offers",
+      "start_time": "2022-01-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 136420,
+      "slug": "get-set-go",
+      "name": "Get, Set, Go",
+      "start_time": "2022-01-29T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 132631,
+      "slug": "must-do-data-science-concepts-introduction-to-decision-trees",
+      "name": "Must-do Data Science Concepts : Introduction to Decision Trees",
+      "start_time": "2022-01-23T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 130828,
+      "slug": "walk-the-talk-to-google-here-s-how-i-did-it-2",
+      "name": "Walk the Talk to Google : Here’s how I did it!\t",
+      "start_time": "2022-01-23T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 131919,
+      "slug": "mastering-linked-list-in-1-hour",
+      "name": "\"Mastering Linked List in 1 Hour”",
+      "start_time": "2022-01-22T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 127917,
+      "slug": "basics-of-convolutional-neural-networks",
+      "name": "Basics of Convolutional Neural Networks",
+      "start_time": "2022-01-16T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 126229,
+      "slug": "road-to-placements-strategy-to-crack-10-product-companies",
+      "name": "Road to placements: Strategy to crack 10 product companies!",
+      "start_time": "2022-01-16T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 124495,
+      "slug": "predictive-analysis-fundamentals-using-linear-regression",
+      "name": "Predictive Analysis Fundamentals using Linear Regression",
+      "start_time": "2022-01-09T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 122596,
+      "slug": "never-give-up-on-your-dreams-my-journey-to-flipkart",
+      "name": "Never Give up on your dreams:  My journey to Flipkart.",
+      "start_time": "2022-01-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 123066,
+      "slug": "how-to-make-the-best-use-of-scaler-learning-ecosystem",
+      "name": "How to Make The Best Use Of Scaler Learning Ecosystem!",
+      "start_time": "2022-01-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 123493,
+      "slug": "web-analytics-and-personalisation-using-data-science",
+      "name": "Web Analytics and Personalisation using Data Science",
+      "start_time": "2022-01-08T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 113034,
+      "slug": "how-shaurya-improvised-his-problem-solving-skills-with-scaler",
+      "name": "“How Shaurya Improvised his Problem Solving Skills with Scaler”",
+      "start_time": "2021-12-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 113355,
+      "slug": "introduction-to-big-data-without-jargons-using-hadoop-and-spark",
+      "name": " Introduction to Big Data without Jargons, Using Hadoop and Spark",
+      "start_time": "2021-12-19T05:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 108436,
+      "slug": "java-design-patterns-creational-design-patterns-part-2",
+      "name": " \"Java Design Patterns:Creational Design Patterns Part-2 \"",
+      "start_time": "2021-12-18T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 109797,
+      "slug": "introduction-to-research-papers-higher-studies-and-industry-research",
+      "name": "Introduction to Research - Papers, Higher Studies, and Industry Research",
+      "start_time": "2021-12-12T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 108343,
+      "slug": "cracking-product-company-interviews-2",
+      "name": "Cracking Product Company Interviews",
+      "start_time": "2021-12-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 109523,
+      "slug": "tier-3-engineering-college-graduate-cracks-interview-at-top-product-company",
+      "name": "Tier-3 Engineering College Graduate Cracks interview at top product company ! ",
+      "start_time": "2021-12-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 105015,
+      "slug": "learn-how-jehu-never-gave-up-inspite-of-all-challenges-and-cracked-interview-at-microsoft",
+      "name": "Learn how “Jehu” never gave up inspite of all challenges and cracked interview at Microsoft !",
+      "start_time": "2021-12-05T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 101969,
+      "slug": "database-schema-design",
+      "name": "Database Schema Design ",
+      "start_time": "2021-11-28T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 102105,
+      "slug": "learn-how-dsa-in-scaler-curriculum-can-help-you-crack-interviews",
+      "name": "Learn How DSA in scaler curriculum can help you crack interviews",
+      "start_time": "2021-11-28T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 101282,
+      "slug": "java-design-patterns-creational-design-patterns-part-1",
+      "name": "Java Design Patterns:Creational Design Patterns Part-1",
+      "start_time": "2021-11-27T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 98095,
+      "slug": "understanding-distributed-caching-using-redis",
+      "name": "Understanding distributed caching using Redis",
+      "start_time": "2021-11-21T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 93991,
+      "slug": "blockchain-fundamentals-understanding-bitcoin",
+      "name": "Blockchain Fundamentals : Understanding Bitcoin",
+      "start_time": "2021-11-14T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 94137,
+      "slug": "design-a-scalable-instant-messaging-system-like-whatsapp",
+      "name": "Design a Scalable Instant Messaging System like Whatsapp",
+      "start_time": "2021-11-13T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 89523,
+      "slug": "attention-networks-deep-learning",
+      "name": "Attention Networks (Deep Learning)",
+      "start_time": "2021-10-31T13:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 88525,
+      "slug": "scaler-x-github",
+      "name": "Scaler X Github",
+      "start_time": "2021-10-30T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 89159,
+      "slug": "every-dev-will-have-a-side-gig-in-crypto",
+      "name": "Every Dev will have a side gig in crypto",
+      "start_time": "2021-10-30T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 86271,
+      "slug": "hack-to-solve-coding-problems-in-60-minutes",
+      "name": "Hack to solve Coding problems in \u003c\u003c 60 Minutes",
+      "start_time": "2021-10-23T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 82138,
+      "slug": "understanding-of-c-standard-template-library",
+      "name": "Understanding C++ Standard Template Library",
+      "start_time": "2021-10-17T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 82779,
+      "slug": "what-happens-when-you-put-in-your-dedication-with-scaler-learning-ecosystem",
+      "name": "What happens when you put in your dedication with Scaler Learning Ecosystem",
+      "start_time": "2021-10-16T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 79254,
+      "slug": "apache-zookeeper-a-solution-for-your-distributed-systems",
+      "name": "Apache Zookeeper - A solution for your Distributed Systems",
+      "start_time": "2021-10-10T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 80257,
+      "slug": "6-job-offers-after-juggling-between-studies-and-job",
+      "name": "6 job offers after juggling between studies and job",
+      "start_time": "2021-10-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 79894,
+      "slug": "how-should-developers-manage-their-salary-community-class-by-engineering-head",
+      "name": "How should developers manage their salary",
+      "start_time": "2021-10-09T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 76328,
+      "slug": "acing-behavioural-hiring-manager-round",
+      "name": "Acing Behavioural / Hiring Manager Round",
+      "start_time": "2021-10-03T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 77584,
+      "slug": "learn-how-to-manage-work-life-balance-learn-consistently-at-scaler",
+      "name": "Learn How To Manage Work-Life Balance \u0026 Learn Consistently At Scaler",
+      "start_time": "2021-10-02T07:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 74938,
+      "slug": "journey-from-adobe-to-tech-giant-microsoft",
+      "name": "Journey from Adobe to Tech Giant Microsoft.",
+      "start_time": "2021-09-26T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 74080,
+      "slug": "security-aspects-of-a-software",
+      "name": "Security aspects of a Software",
+      "start_time": "2021-09-26T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 74550,
+      "slug": "recursive-queries-in-sql-using-c-t-e",
+      "name": "Recursive queries in SQL using C.T.E",
+      "start_time": "2021-09-25T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 71839,
+      "slug": "my-journey-to-paypal",
+      "name": "My Journey to Paypal",
+      "start_time": "2021-09-19T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 71100,
+      "slug": "ads-monetisation",
+      "name": "Ads Monetisation",
+      "start_time": "2021-09-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 68829,
+      "slug": "graphql-for-full-stack-development",
+      "name": "GraphQL for Full-Stack Development",
+      "start_time": "2021-09-12T13:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 67920,
+      "slug": "speeding-my-way-to-mercedes",
+      "name": "Speeding My Way To Mercedes",
+      "start_time": "2021-09-12T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 68949,
+      "slug": "react-and-react-native",
+      "name": "React and React Native",
+      "start_time": "2021-09-11T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 66053,
+      "slug": "farmer-s-son-who-dared-to-dream-my-journey-from-bihar-to-amazon",
+      "name": " Farmer’s son who dared to dream: My Journey from Bihar to Amazon",
+      "start_time": "2021-09-05T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 63588,
+      "slug": "2-199bf1cf-d9fe-4726-81da-153483ddc3a7",
+      "name": "Understanding of Kafka",
+      "start_time": "2021-09-05T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 65938,
+      "slug": "design-pattern-creational-factory-singleton",
+      "name": "Design Pattern: Creational Factory Singleton",
+      "start_time": "2021-09-04T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 63118,
+      "slug": "my-journey-from-a-support-role-to-developer-at-mfine",
+      "name": "My Journey from a Support Role to Developer at Mfine. ",
+      "start_time": "2021-08-29T12:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 63112,
+      "slug": "the-inner-workings-of-git-community-class",
+      "name": "The Inner Workings of Git- Community Class ",
+      "start_time": "2021-08-28T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 61166,
+      "slug": "never-settle-journey-from-a-startup-to-a-flagship-killer",
+      "name": "Never Settle : Journey from a Startup to a Flagship Killer.",
+      "start_time": "2021-08-21T12:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 60510,
+      "slug": "documentum-and-it-s-uses",
+      "name": "Documentum and It's Uses",
+      "start_time": "2021-08-21T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 55702,
+      "slug": "interview-hacks-101-how-i-secured-a-hefty-package-from-microsoft",
+      "name": "Interview Hacks 101: How I secured a hefty package from Microsoft",
+      "start_time": "2021-08-08T12:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 56364,
+      "slug": "product-dev-101",
+      "name": "Product Dev 101",
+      "start_time": "2021-08-07T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 54545,
+      "slug": "my-journey-to-sde-2-of-world-s-most-customer-centric-company",
+      "name": "My Journey to SDE 2 of World’s Most Customer Centric Company",
+      "start_time": "2021-08-01T12:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 54094,
+      "slug": "problem-solving-by-test-driven-development",
+      "name": "Problem Solving by Test Driven Development",
+      "start_time": "2021-08-01T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 54228,
+      "slug": "how-to-kick-start-your-career-in-blockchain",
+      "name": "How to kick start your career in Blockchain",
+      "start_time": "2021-07-31T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 52616,
+      "slug": "walk-the-talk-to-google-here-s-how-i-did-it",
+      "name": "Walk the Talk to Google : Here’s how I did it!",
+      "start_time": "2021-07-25T12:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 52317,
+      "slug": "ai-ml-relevant-real-life-applications",
+      "name": "AI \u0026 ML: Relevant Real-Life Applications",
+      "start_time": "2021-07-25T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 52487,
+      "slug": "introduction-and-evolution-of-application-frameworks",
+      "name": "Introduction and Evolution of Application Frameworks",
+      "start_time": "2021-07-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 50466,
+      "slug": "learning-to-rank-2",
+      "name": "Learning To Rank",
+      "start_time": "2021-07-18T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 50710,
+      "slug": "multithreading-in-java-from-an-interview-perspective",
+      "name": "Multithreading in Java from an Interview Perspective",
+      "start_time": "2021-07-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 49029,
+      "slug": "telemetry-and-data-acquisition",
+      "name": " Telemetry and Data Acquisition",
+      "start_time": "2021-07-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 47428,
+      "slug": "scaler-talks-my-journey-to-india-s-first-gaming-unicorn-title",
+      "name": "Scaler Talks: My Journey to India’s First Gaming Unicorn Title",
+      "start_time": "2021-07-04T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 47330,
+      "slug": "graphql-simplified",
+      "name": "GraphQL Simplified",
+      "start_time": "2021-07-03T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 45766,
+      "slug": "the-macro-of-moving-to-microservices",
+      "name": "The Macro of Moving to Microservices",
+      "start_time": "2021-06-26T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 44242,
+      "slug": "getting-started-with-java-for-problem-solving",
+      "name": "Getting Started with Java for Problem Solving",
+      "start_time": "2021-06-19T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 42519,
+      "slug": "advanced-dsa-stacks-queues-linked-list",
+      "name": "Advanced DSA - Stacks, Queues \u0026 Linked List",
+      "start_time": "2021-06-12T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 39808,
+      "slug": "scaler-talk-hrishikesh-s-journey-to-amazon",
+      "name": "Scaler Talks: My Journey To Amazon",
+      "start_time": "2021-05-30T11:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 39635,
+      "slug": "design-a-distributed-job-scheduler",
+      "name": "Design a Distributed Job Scheduler",
+      "start_time": "2021-05-29T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 38178,
+      "slug": "build-a-search-functionality-using-elasticsearch-and-nodejs",
+      "name": "Build a Search Functionality Using ElasticSearch and NodeJS",
+      "start_time": "2021-05-22T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 36519,
+      "slug": "how-to-build-your-own-startup",
+      "name": "How to Build Your Own Startup",
+      "start_time": "2021-05-15T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 34945,
+      "slug": "bit-manipulation-26",
+      "name": "Bit Manipulation",
+      "start_time": "2021-05-08T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 33575,
+      "slug": "quickly-put-together-a-poc-using-retool",
+      "name": "Quickly put together a POC using ReTool",
+      "start_time": "2021-05-01T01:00:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 31967,
+      "slug": "system-design-scalability",
+      "name": "System Design: Scalability",
+      "start_time": "2021-04-24T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 30259,
+      "slug": "deep-diving-into-recursion",
+      "name": "Deep Diving Into Recursion",
+      "start_time": "2021-04-17T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    },
+    {
+      "id": 28776,
+      "slug": "create-serverless-rest-api",
+      "name": "Create Serverless REST API",
+      "start_time": "2021-04-10T10:30:00.000Z",
+      "attendance": 0.0,
+      "is_community_event": true
+    }
+  ]
+}

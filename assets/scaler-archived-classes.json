@@ -1,0 +1,390 @@
+{
+  "data": [
+    {
+      "id": "264524::211430",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::211430",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "211430",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::226510",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::226510",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "226510",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::211330",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::211330",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "211330",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::222907",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::222907",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "222907",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::211470",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::211470",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "211470",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::211440",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::211440",
+        "status": "archived",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "211440",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    }
+  ],
+  "included": [
+    {
+      "id": "8",
+      "type": "academy_module",
+      "attributes": {
+        "id": 8,
+        "name": "High Level Design",
+        "category": "core",
+        "duration_in_weeks": 4
+      },
+      "relationships": {}
+    },
+    {
+      "id": "77316",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 77316,
+        "title": "HLD: CAP Theorem \u0026 Master-Slave",
+        "slug": "hld-cap-theorem-master-slave-888c9e3e-02cd-4cd0-b32e-d992c422a522"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "1359",
+      "type": "super_batch",
+      "attributes": {
+        "id": 1359,
+        "start_date": "2023-02-08",
+        "name": "Academy Feb23 Beginner Refresher FE",
+        "sequence": 0,
+        "batch_type": "primary"
+      },
+      "relationships": {},
+      "meta": null
+    },
+    {
+      "id": "211430",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 211430,
+        "date_of_topic": "2024-05-08T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "77316",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    },
+    {
+      "id": "80254",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 80254,
+        "title": "HLD: Caching continued",
+        "slug": "hld-caching-continued-781c1b5f-e818-4a1b-9965-cf4040ef2668"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "226510",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 226510,
+        "date_of_topic": "2024-05-06T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "80254",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    },
+    {
+      "id": "77306",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 77306,
+        "title": "HLD: Caching contd.",
+        "slug": "hld-caching-2-0c4f3d75-6d73-47eb-85c9-6ec6dad00d6e"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "211330",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 211330,
+        "date_of_topic": "2024-05-03T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "77306",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    },
+    {
+      "id": "79420",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 79420,
+        "title": "HLD: Caching",
+        "slug": "hld-system-design-nosql-4ef7793a-52e2-4ad1-a642-60345736195c"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "222907",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 222907,
+        "date_of_topic": "2024-04-29T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "79420",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    },
+    {
+      "id": "77305",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 77305,
+        "title": "HLD: Consistent Hashing",
+        "slug": "hld-caching-1-37b04455-2042-4d19-a643-afde3ea5d8b6"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "211470",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 211470,
+        "date_of_topic": "2024-04-26T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "77305",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    },
+    {
+      "id": "77310",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 77310,
+        "title": "HLD: HLD Basics \u0026 Consistent Hashing",
+        "slug": "hld-hld-basics-consistent-hashing-aed9f273-289b-49ea-976d-c48fb8844534"
+      },
+      "relationships": {
+        "academy_module": {
+          "data": {
+            "id": "8",
+            "type": "academy_module"
+          }
+        }
+      }
+    },
+    {
+      "id": "211440",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 211440,
+        "date_of_topic": "2024-04-24T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "77310",
+            "type": "academy_topic"
+          }
+        },
+        "super_batch": {
+          "data": {
+            "id": "1359",
+            "type": "super_batch"
+          }
+        }
+      }
+    }
+  ]
+}

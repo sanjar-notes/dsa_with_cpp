@@ -1,0 +1,3263 @@
+{
+  "data": [
+    {
+      "id": "264524::56274",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56274",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56274",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56278",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56278",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56278",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56291",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56291",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56291",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56293",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56293",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56293",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56294",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56294",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56294",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56295",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56295",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56295",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56301",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56301",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56301",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56305",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56305",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56305",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56318",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56318",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56318",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56320",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56320",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56320",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56321",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56321",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56321",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56322",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56322",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56322",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56328",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56328",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56328",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56332",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56332",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56332",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56345",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56345",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56345",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56347",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56347",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56347",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56348",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56348",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56348",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56349",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56349",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56349",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56355",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56355",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56355",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56359",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56359",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56359",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56372",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56372",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56372",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56374",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56374",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56374",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56375",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56375",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56375",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56376",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56376",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56376",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56382",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56382",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56382",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56386",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56386",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56386",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56399",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56399",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56399",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56401",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56401",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56401",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56402",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56402",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56402",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56403",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56403",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56403",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56409",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56409",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56409",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56413",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56413",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56413",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56426",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56426",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56426",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56428",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56428",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56428",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56429",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56429",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56429",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56430",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56430",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56430",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56436",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56436",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56436",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56440",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56440",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56440",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56453",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56453",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56453",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56455",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56455",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56455",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56456",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56456",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56456",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::56457",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::56457",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "56457",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72640",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72640",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72640",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72639",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72639",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72639",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72638",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72638",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72638",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72637",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72637",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72637",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72636",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72636",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72636",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72635",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72635",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72635",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72634",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72634",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72634",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72633",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72633",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72633",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72632",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72632",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72632",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72631",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72631",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72631",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72630",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72630",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72630",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72629",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72629",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72629",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::23551",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::23551",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "23551",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::72641",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::72641",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "72641",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::23554",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::23554",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "23554",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::23555",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::23555",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "23555",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::23556",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::23556",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "23556",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "264524::23557",
+      "type": "mentee_academy_topic",
+      "attributes": {
+        "id": "264524::23557",
+        "status": "bonus",
+        "activity_type": "lecture",
+        "is_skill_contest": null,
+        "on_demand_contest_link": null,
+        "is_skill_earned": null
+      },
+      "relationships": {
+        "super_batch_academy_topic": {
+          "data": {
+            "id": "23557",
+            "type": "super_batch_academy_topic"
+          }
+        }
+      },
+      "meta": null
+    }
+  ],
+  "included": [
+    {
+      "id": "26858",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26858,
+        "title": "Career Team - Scaler Placement Support",
+        "slug": "career-team-scaler-placement-support-93340cb0-e663-48ce-806f-a1153ff6c604"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "50",
+      "type": "lecture_bucket",
+      "attributes": {
+        "id": 50,
+        "title": "Career Module"
+      }
+    },
+    {
+      "id": "56274",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56274,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56278",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56278,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56291",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56291,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56293",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56293,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56294",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56294,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56295",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56295,
+        "date_of_topic": "2023-01-18T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26858",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26862",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26862,
+        "title": "Modes of Offer and FAQ",
+        "slug": "modes-of-offer-and-faq-0d1fac86-5ab2-49e9-ba3a-6961a32cd02e"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56301",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56301,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56305",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56305,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56318",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56318,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56320",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56320,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56321",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56321,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56322",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56322,
+        "date_of_topic": "2023-01-17T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26862",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26866",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26866,
+        "title": "Placement Eligibility",
+        "slug": "placement-eligibility-ee4f9e75-8962-461e-945a-acfa726c5150"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56328",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56328,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56332",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56332,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56345",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56345,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56347",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56347,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56348",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56348,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56349",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56349,
+        "date_of_topic": "2023-01-16T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26866",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26870",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26870,
+        "title": "Updating Profile Detail on Career Hub",
+        "slug": "updating-profile-detail-on-career-hub-6e57a34f-ed29-440d-a4c2-2707fdbf8801"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56355",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56355,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56359",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56359,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56372",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56372,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56374",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56374,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56375",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56375,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56376",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56376,
+        "date_of_topic": "2023-01-15T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26870",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26874",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26874,
+        "title": "How to Mark Intent?",
+        "slug": "how-to-mark-intent-a88b41cf-8da6-408b-bcac-9c69091367cd"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56382",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56382,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56386",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56386,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56399",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56399,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56401",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56401,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56402",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56402,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56403",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56403,
+        "date_of_topic": "2023-01-14T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26874",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26878",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26878,
+        "title": "What is a MBE?",
+        "slug": "what-is-a-mbe-8c4e5e61-cb73-4488-901c-b285e4dcf650"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56409",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56409,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56413",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56413,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56426",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56426,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56428",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56428,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56429",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56429,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56430",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56430,
+        "date_of_topic": "2023-01-13T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26878",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "26882",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 26882,
+        "title": "Job Application Process on Career Hub",
+        "slug": "job-application-process-on-career-hub-6533248d-bba2-44e6-8e49-7244bf992409"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "56436",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56436,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56440",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56440,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56453",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56453,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56455",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56455,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56456",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56456,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "56457",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 56457,
+        "date_of_topic": "2023-01-12T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "26882",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "50",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": "33521",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33521,
+        "title": "Number Systems",
+        "slug": "number-systems-282644c7-8256-4f03-abf0-2976e1edb88b"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "10",
+      "type": "lecture_bucket",
+      "attributes": {
+        "id": 10,
+        "title": "Maths for Programmers"
+      }
+    },
+    {
+      "id": "1448489",
+      "type": "user",
+      "attributes": {
+        "id": 1448489,
+        "name": "Prateek Narang",
+        "username": "prateek-narang_590",
+        "gender": "male",
+        "email": "prateek.narang_1@scaler.com",
+        "orgyear": 1992,
+        "timezone": "Mumbai",
+        "phone_verified": true,
+        "phone_number": "+91-7217604986",
+        "university": null,
+        "whatsapp_consent": "whatsapp_consent_no",
+        "orgname": null,
+        "linkedin_profile": null,
+        "avatar": "https://s3-ap-southeast-1.amazonaws.com/scaler-production-new/users/avatars/001/448/489/medium/prateek.narang_scaler.com.png?1680005657",
+        "slug": "49d8627ef758"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "74",
+      "type": "instructor",
+      "attributes": {
+        "id": 74,
+        "instructor_type": "remote",
+        "status": "active"
+      },
+      "relationships": {
+        "user": {
+          "data": {
+            "id": "1448489",
+            "type": "user"
+          }
+        }
+      }
+    },
+    {
+      "id": "72640",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72640,
+        "date_of_topic": "2019-01-12T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33521",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "10",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33520",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33520,
+        "title": "Prime Numbers",
+        "slug": "prime-numbers-a6d85ead-2faa-4066-a6be-1bc84ea6cdc3"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72639",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72639,
+        "date_of_topic": "2019-01-11T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33520",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "10",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33519",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33519,
+        "title": "Logarithms",
+        "slug": "logarithms"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72638",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72638,
+        "date_of_topic": "2019-01-10T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33519",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "10",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33518",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33518,
+        "title": "Sequence and Series",
+        "slug": "sequence-and-series"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72637",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72637,
+        "date_of_topic": "2019-01-09T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33518",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "10",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33517",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33517,
+        "title": "Flowcharts",
+        "slug": "flowcharts-da04d181-70ab-450d-b250-fe4818d21527"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "52",
+      "type": "lecture_bucket",
+      "attributes": {
+        "id": 52,
+        "title": "Getting Started with Problem Solving"
+      }
+    },
+    {
+      "id": "72636",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72636,
+        "date_of_topic": "2019-01-08T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33517",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "52",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33516",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33516,
+        "title": "Pseudocode",
+        "slug": "pseudocode"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72635",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72635,
+        "date_of_topic": "2019-01-07T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33516",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "52",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33515",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33515,
+        "title": "Writing Code",
+        "slug": "writing-code"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72634",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72634,
+        "date_of_topic": "2019-01-06T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33515",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "52",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "74",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33514",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33514,
+        "title": "Introduction",
+        "slug": "introduction-6eea0915-570e-4168-bedd-4d90160a81db"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "51",
+      "type": "lecture_bucket",
+      "attributes": {
+        "id": 51,
+        "title": "Introduction to Java"
+      }
+    },
+    {
+      "id": "1558072",
+      "type": "user",
+      "attributes": {
+        "id": 1558072,
+        "name": "Tarun Luthra",
+        "username": "tarun-luthra",
+        "gender": "other",
+        "email": "tarun.luthra_1@scaler.com",
+        "orgyear": 2015,
+        "timezone": "Mumbai",
+        "phone_verified": true,
+        "phone_number": "+91-9911833728",
+        "university": "GL Bajaj Institute Of Technology And Management",
+        "whatsapp_consent": "whatsapp_consent_yes",
+        "orgname": "Google",
+        "linkedin_profile": null,
+        "avatar": "https://s3-ap-southeast-1.amazonaws.com/scaler-production-new/users/avatars/001/558/072/medium/tarun.luthra_scaler.com.png?1680005643",
+        "slug": "3597c57fa284"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "87",
+      "type": "instructor",
+      "attributes": {
+        "id": 87,
+        "instructor_type": "remote",
+        "status": "active"
+      },
+      "relationships": {
+        "user": {
+          "data": {
+            "id": "1558072",
+            "type": "user"
+          }
+        }
+      }
+    },
+    {
+      "id": "72633",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72633,
+        "date_of_topic": "2019-01-05T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33514",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "51",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "87",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33513",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33513,
+        "title": "Setup",
+        "slug": "setup"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72632",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72632,
+        "date_of_topic": "2019-01-04T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33513",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "51",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "87",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33512",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33512,
+        "title": "Getting Started",
+        "slug": "getting-started"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72631",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72631,
+        "date_of_topic": "2019-01-03T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33512",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "51",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "87",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33511",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33511,
+        "title": "Operators and Control Statements",
+        "slug": "operators-and-control-statements"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72630",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72630,
+        "date_of_topic": "2019-01-02T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33511",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "51",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "87",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33510",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33510,
+        "title": "Loops",
+        "slug": "loops-941b1a54-162d-45d7-a0f0-d58e497c9b77"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72629",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72629,
+        "date_of_topic": "2019-01-01T00:00:01.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33510",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "51",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "87",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "10101",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 10101,
+        "title": "Welcome to scaler",
+        "slug": "welcome-to-scaler"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "14",
+      "type": "lecture_bucket",
+      "attributes": {
+        "id": 14,
+        "title": "Meet and Greet"
+      }
+    },
+    {
+      "id": "546",
+      "type": "user",
+      "attributes": {
+        "id": 546,
+        "name": "Anshuman Singh ",
+        "username": "anshumantest",
+        "gender": "male",
+        "email": "anshuman@interviewbit.com",
+        "orgyear": 1996,
+        "timezone": "Asia/Kolkata",
+        "phone_verified": true,
+        "phone_number": "+91-7897499665",
+        "university": "NIIT, Chennai",
+        "whatsapp_consent": "whatsapp_consent_no",
+        "orgname": "Scaler Academy",
+        "linkedin_profile": "linkedin.com/in/anshumansingh26",
+        "avatar": "https://s3-ap-southeast-1.amazonaws.com/scaler-production-new/users/avatars/000/000/546/medium/anshuman_interviewbit.com.png?1680005645",
+        "slug": "0c911d1af692"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "1",
+      "type": "instructor",
+      "attributes": {
+        "id": 1,
+        "instructor_type": "fulltime",
+        "status": "active"
+      },
+      "relationships": {
+        "user": {
+          "data": {
+            "id": "546",
+            "type": "user"
+          }
+        }
+      }
+    },
+    {
+      "id": "23551",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 23551,
+        "date_of_topic": "2018-01-01T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "10101",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "33522",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 33522,
+        "title": "What do we study",
+        "slug": "what-do-we-study-be9af21b-b6dc-4ed9-b0a5-775b5805f48d"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "72641",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 72641,
+        "date_of_topic": "2017-12-31T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "33522",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "10104",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 10104,
+        "title": "How to get quick doubt resolution",
+        "slug": "how-to-get-quick-doubt-resolution"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "23554",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 23554,
+        "date_of_topic": "2017-12-29T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "10104",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "10105",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 10105,
+        "title": "Classroom features",
+        "slug": "classroom-features"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "23555",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 23555,
+        "date_of_topic": "2017-12-28T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "10105",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "10106",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 10106,
+        "title": "Community",
+        "slug": "community"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "23556",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 23556,
+        "date_of_topic": "2017-12-27T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "10106",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "10107",
+      "type": "academy_topic",
+      "attributes": {
+        "id": 10107,
+        "title": "Placements",
+        "slug": "placements"
+      },
+      "relationships": {}
+    },
+    {
+      "id": "23557",
+      "type": "super_batch_academy_topic",
+      "attributes": {
+        "id": 23557,
+        "date_of_topic": "2017-12-26T15:30:00.000Z"
+      },
+      "relationships": {
+        "academy_topic": {
+          "data": {
+            "id": "10107",
+            "type": "academy_topic"
+          }
+        },
+        "lecture_bucket": {
+          "data": {
+            "id": "14",
+            "type": "lecture_bucket"
+          }
+        },
+        "active_instructors": {
+          "data": [
+            {
+              "id": "1",
+              "type": "instructor"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
