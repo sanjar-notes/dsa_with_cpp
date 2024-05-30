@@ -3,7 +3,7 @@ Created Wed May 15, 2024 at 9:13 PM
 
 
 ## Software is eating the world
-![](../../../../assets/1-Meet-and-Greet-image-1-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-1-e0e46fb6.png)
 
 SWE and AI is going to be significant. 
 Many things will be streamlined and automated, even stuff like farming.
@@ -29,19 +29,19 @@ Engineering Management (EM, Senior EM, Director): https://www.youtube.com/watch?
 - Intermediate - knows programming, but not that familiar with DSA. Or cannot code "not comfy with recursion".
 - Advanced - knows DSA not completely comfortable with "all of DSA" like graphs etc. Or cannot code "".
 
-![](../../../../assets/1-Meet-and-Greet-image-2-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-2-e0e46fb6.png)
 
-![](../../../../assets/1-Meet-and-Greet-image-3-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-3-e0e46fb6.png)
 
 Intermediate = Beginner's stuff - programming lang
 HLD becomes part of core curriculum.
 Only thing that's language dependent is Project and LLD (concept is agnostic, but implementation).
-![](../../../../assets/1-Meet-and-Greet-image-4-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-4-e0e46fb6.png)
 
-![](../../../../assets/1-Meet-and-Greet-image-5-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-5-e0e46fb6.png)
 
 ## Pillar 2: Live teaching
-![](../../../../assets/1-Meet-and-Greet-image-6-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-6-e0e46fb6.png)
 
 ## Pillar 3: Learn by doing with TAs
 1. Core Skills curriculum and classes: syllabus like DSA, system-design
@@ -52,13 +52,13 @@ Only thing that's language dependent is Project and LLD (concept is agnostic, bu
 
 
 ## Pillar 5
-![](../../../../assets/1-Meet-and-Greet-image-7-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-7-e0e46fb6.png)
 
 ## Scaler clubs
-![](../../../../assets/1-Meet-and-Greet-image-8-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-8-e0e46fb6.png)
 
 ## Pillar 6: Career support
-![](../../../../assets/1-Meet-and-Greet-image-9-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-9-e0e46fb6.png)
 Points that maximize "Scaler as a talent pool" perception:
 1. Interview to offer ratio. time and resources. Good talent.
 2. Offer to joining ratio: if low, means students aren't interested.
@@ -77,10 +77,10 @@ Q: CTC 1.6x vs in-hand 1.6x?
 
 ## Attrition rate
 100 -> 1 month (70%) -> after course 90% placement
-![](../../../../assets/1-Meet-and-Greet-image-10-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-10-e0e46fb6.png)
 
 ## Classes start
-![](../../../../assets/1-Meet-and-Greet-image-11-1243e6dc.png)
+![](../../../../assets/1-Meet-and-Greet-image-11-e0e46fb6.png)
 
 
 ![](../../../../assets/1-Meet-and-Greet-image-12-1243e6dc.png)

@@ -32,7 +32,7 @@ Reaching the last row will let us know the max 1s row. Can be kept track of usin
 
 ### Spiral print matrix (clockwise inside to out)
 May be square or rect.
-![](../../../../assets/4-Arrays-2D-image-1-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-1-8af1dd8d.png)
 
 - Keep layerIndex variable.
 - Keep direction variable.
@@ -73,11 +73,11 @@ Perf: O(n<sup>2</sup>) time, O(1) space.
 Learning:
 - **Represent and combinatorics**: In problem where the goal is to count/sum/some-func all possible variations, the go to approach should be to properly (i.e. uniquely) represent a general variation. Then multiplication and overlap from combinatorics can be used, and since combinatoric formulas are O(1), the solutions will most likely be optimal.
 
-![](../../../../assets/4-Arrays-2D-image-2-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-2-8af1dd8d.png)
 ## Assignments
 ### Q1 - Spiral Order Matrix II 
-![](../../../../assets/4-Arrays-2D-image-3-ab28a569.png)
-![](../../../../assets/4-Arrays-2D-image-4-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-3-8af1dd8d.png)
+![](../../../../assets/4-Arrays-2D-image-4-8af1dd8d.png)
 ```js
 module.exports = { 
  //param A : integer
@@ -156,8 +156,8 @@ module.exports = {
 ```
 
 ### Q2 - Search in a row wise and column wise sorted matrix
-![](../../../../assets/4-Arrays-2D-image-5-ab28a569.png)
-![](../../../../assets/4-Arrays-2D-image-6-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-5-8af1dd8d.png)
+![](../../../../assets/4-Arrays-2D-image-6-8af1dd8d.png)
 ```js
 module.exports = { 
  //param A : array of array of integers
@@ -228,7 +228,7 @@ module.exports = {
 ```
 
 ### Q3 - Sum of all Submatrices
-![](../../../../assets/4-Arrays-2D-image-7-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-7-8af1dd8d.png)
 ```js
 module.exports = { 
  //param A : array of array of integers
@@ -273,8 +273,8 @@ module.exports = {
 ```
 
 ### Q4 - Row with maximum number of ones
-![](../../../../assets/4-Arrays-2D-image-8-ab28a569.png)
-![](../../../../assets/4-Arrays-2D-image-9-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-8-8af1dd8d.png)
+![](../../../../assets/4-Arrays-2D-image-9-8af1dd8d.png)
 ```js
 module.exports = { 
  //param A : array of array of integers
@@ -320,7 +320,7 @@ module.exports = {
 
 ## Additional assignments
 ### Q1 - Minimum Swaps (Easy)
-![](../../../../assets/4-Arrays-2D-image-10-ab28a569.png)
+![](../../../../assets/4-Arrays-2D-image-10-8af1dd8d.png)
 ```js
 module.exports = { 
  //param A : array of integers

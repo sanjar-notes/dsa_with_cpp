@@ -14,7 +14,7 @@ Real world usage:
 2. Back on browser
 
 ## Petrol pumps and blasts, with inflammable roads 
-![](../../../../assets/3-Problem-Solving-Mindset-image-1-1243e6dc.png)
+![](../../../../assets/3-Problem-Solving-Mindset-image-1-e0e46fb6.png)
 
 This Dijkstra's algorithm.
 
