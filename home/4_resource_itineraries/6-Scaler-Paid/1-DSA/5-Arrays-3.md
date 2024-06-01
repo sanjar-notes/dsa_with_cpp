@@ -81,5 +81,126 @@ O(n) time, O(1) space
 Note:
 - If need memory, always check if input array may be overwritten in a safe way. If yes, we get that space for free. Makes O(n) space -> O(1), and algorithm (as if taking aux array) remains same (except some safe overwrite proofs).
 
+## Assignments
+### Q1 - First Missing Integer ✅
+![](../../../../assets/5-Arrays-3-image-8-8af1dd8d.png)
+```js
+module.exports = { 
+ //param A : array of integers
+ //return an integer
+	firstMissingPositive : function(A){
+        // A. Move all positives to the left
+
+        // positives on left
+        let writePosition = 0;
+
+        const n = A.length;
+        for(let i = 0; i < n; i++) {
+            if(A[i] <= 0) continue; // ignore, write head unaffected
+
+            // if write head and current position are same, we are good (also writePosition < i in case of negatives on the left)
+            // move to write head to proper position
+            while(writePosition < i && writePosition < n && A[writePosition] > 0) writePosition++;
+
+            // written to start, move
+            A[writePosition] = A[i];
+            writePosition++;
+        }
+        const m = writePosition; // size of positive size array
+
+        // B. Mark presence with negatives
+        for(let i = 0; i < m; i++) {
+            const magnitudeOfValue = Math.abs(A[i]);
+            const indexFromValue = magnitudeOfValue - 1;
+
+            if(indexFromValue >= m) continue; // ignore out of bound
+
+            // mark presence (idempotent)
+            A[indexFromValue] = A[indexFromValue] < 0 ? A[indexFromValue] : -A[indexFromValue];
+        }
+
+        // C. traverse return unvisited value
+        for(let i = 0; i < m; i++) {
+            const isPresent = Math.sign(A[i]) === -1;
+            if(isPresent) continue;
+            
+            const valueFromIndex = i + 1;
+            return valueFromIndex;
+        }
+
+        // if reach here, means 1 to m were present
+        return m+1;
+	}
+};
+```
+
+### Q2 - Merge Sorted Overlapping Intervals ✅
+![](../../../../assets/5-Arrays-3-image-9-8af1dd8d.png)
+```js
+function mergeIntervals(intervals) {
+  if (intervals.length === 0) return [new_interval];
+
+  const answer = [];
+  let movingInterval = [intervals[0][0], intervals[0][1]];
+
+  for (let i = 0; i < intervals.length; i++) {
+    const currentInterval = intervals[i];
+    const isOverlapping = currentInterval[0] <= movingInterval[1];
+
+    if (isOverlapping) {
+      movingInterval[1] = Math.max(movingInterval[1], currentInterval[1]); // subsume or extend
+      if (i === intervals.length - 1) {
+        answer.push(movingInterval);
+      }
+    } else {
+      answer.push(movingInterval); // we done with moving one
+      movingInterval = currentInterval; // reset to current
+      if (i === intervals.length - 1) {
+        answer.push(currentInterval); // if last push that
+      }
+    }
+  }
+
+  // at every iter start, we have movingInterval as a correct value
+  // this is good, but not enough, i.e. near the last
+  // case 1: p and q are overlapping, in that case, we get the final interval as p-merge-q, saved in movingInterval but not pushed to array.
+  // case 2: p and q are not overlapping, in that case, we have q left. movingInterval === q is a fact here.
+  // lets add these as if conditions so we don't have to figure out different fact.
+
+  return answer;
+}
+
+module.exports = { 
+ //param A : array of array of integers
+ //return a array of array of integers
+	solve : mergeIntervals
+};
+```
+### Q3 - Insert interval in sorted intervals 🟠
+![](../../../../assets/5-Arrays-3-image-10-8af1dd8d.png)
+
+## Advanced assignments
+### Q4 - Next Permutation
+![](../../../../assets/5-Arrays-3-image-11-8af1dd8d.png)
+```js
+module.exports = { 
+ //param A : array of integers
+ //return a array of integers
+	nextPermutation : function(A){
+
+	}
+};
+```
+### Q5 - Number of Digit One
+![](../../../../assets/5-Arrays-3-image-12-8af1dd8d.png)
+```js
+module.exports = { 
+ //param A : integer
+ //return an integer
+	solve : function(A){
+
+	}
+};
+```
 ## End of arrays
 We're done with arrays
