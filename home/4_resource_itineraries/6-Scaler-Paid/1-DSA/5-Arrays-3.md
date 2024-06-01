@@ -74,12 +74,12 @@ Pseudocode:
  Traverse over the aux array, and print the (index+1) for that's false.
 
 #### Optimal
-Same as above, except we can override the input array to instead of maxing explicit aux array.
+Same as above, except we can overwrite the input array to instead of maxing explicit aux array.
 
 O(n) time, O(1) space
 
 Note:
-- If need memory, always check if input may be overridden in a safe way. If yes, we get that space for free. Makes O(n) O(1) and algorithm (as if taking aux array) remains same (except some safety override proofs).
+- If need memory, always check if input array may be overwritten in a safe way. If yes, we get that space for free. Makes O(n) space -> O(1), and algorithm (as if taking aux array) remains same (except some safe overwrite proofs).
 
 ## End of arrays
 We're done with arrays
