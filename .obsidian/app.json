@@ -22,7 +22,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showIndentGuide": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden",
+  "rightToLeft": false
 }
