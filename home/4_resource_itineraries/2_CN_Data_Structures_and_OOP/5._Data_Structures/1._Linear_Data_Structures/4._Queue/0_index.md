@@ -5,4 +5,3 @@ Created Wednesday 22 January 2020
 [Exercises.md](./4._Queue/Quizzes&Exercises/Exercises.md)
 [CodingExercises.md](./4._Queue/Quizzes&Exercises/CodingExercises.md)
 [Assignments.md](./4._Queue/zAssignments/Assignments.md)
-

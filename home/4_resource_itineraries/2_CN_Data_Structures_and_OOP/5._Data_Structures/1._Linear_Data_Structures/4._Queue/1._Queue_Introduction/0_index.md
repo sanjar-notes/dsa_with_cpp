@@ -25,3 +25,5 @@ We use only 2 as 1 is very inefficient.
 Jobs processed in FIFO order minimize the maximum time spent waiting. 
 
 Note that the average waiting time will be the same regardless of whether FIFO or LIFO is used.
+
+Queue is essential in graphs, since it's the controlling data structure in BFS.

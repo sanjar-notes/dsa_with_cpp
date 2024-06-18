@@ -5,11 +5,11 @@ Created Thursday 23 January 2020
 [queueUsingDynamicArray.h](3._Queue_using_Dynamic_Array_-_Code/queueUsingDynamicArray.h)
 
 
-* Circularity is important here too, as doubling is onlt if size>=capacity.
+* Circularity is important here too, as doubling is onlt if size\>=capacity.
 
 
 
-* The only change required is in the enqueue function, that too in the case when size==capacity. Note that a rearrangement is required if this has to be carried out. To ensure that circularity is maintained.
+* The only change required is in the enqueue function, that too in the case when size\==capacity. Note that a rearrangement is required if this has to be carried out. To ensure that circularity is maintained.
 
 
 
