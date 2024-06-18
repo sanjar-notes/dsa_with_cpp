@@ -1,7 +1,6 @@
 # 3. Stack using dynamic arrays
 Created Wednesday 22 January 2020
 
-
 * User does not have to specify the initial size.
 * changes:
 	1. Parameterised constructor is not required.

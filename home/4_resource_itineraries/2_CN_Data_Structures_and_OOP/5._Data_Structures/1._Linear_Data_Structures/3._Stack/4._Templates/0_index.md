@@ -1,5 +1,4 @@
 # 4. Templates
-
 Created Wednesday 22 January 2020
 
 - These are used to help us when data types are the only thing that change in a class's private members or function's parameters.

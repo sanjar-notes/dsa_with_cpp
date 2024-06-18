@@ -21,3 +21,7 @@ In case of arrays, the problem of space wastage can be solved by the following m
 
 We use only 2 as 1 is very inefficient.
 
+## Real world use of queues - theory
+Jobs processed in FIFO order minimize the maximum time spent waiting. 
+
+Note that the average waiting time will be the same regardless of whether FIFO or LIFO is used.

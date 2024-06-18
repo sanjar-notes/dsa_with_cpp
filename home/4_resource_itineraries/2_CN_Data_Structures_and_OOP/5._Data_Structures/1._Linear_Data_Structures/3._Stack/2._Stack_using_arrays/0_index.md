@@ -10,4 +10,3 @@ Our head is the lastIndex, as insertion and removal is O(1).
 We store this top(i.e lastIndex).
 [stackUsingArray.cpp](2._Stack_using_arrays/stackUsingArray.cpp)
 [stackMain.cpp](2._Stack_using_arrays/stackMain.cpp)
-

@@ -28,6 +28,7 @@
 
 <details> <summary><strong>Code</strong></summary>
 
+```cpp
 void helper(char* arr, char* write);
 
 void replacePi(char input[])
@@ -71,6 +72,7 @@ return;
 }
 
 // to save time, use iterative shifting, no choice in that
+```
 
 </details>
 
