@@ -47,7 +47,8 @@ s1.append(s2); // powerful append (variates same as constructor)
 s.push_back(charX); // avg O(1)
 
 // more CRUD ops // O(n)
-s.substr(startI, len); // access substring. read only
+s.substr(startI, len); // build substring
+
 s.insert(startI, payloadStr); // insert string at element i. colliding elements pushed right
 	s.insert(startI, payloadStr, startPayloadI, len);
 	...
@@ -63,9 +64,6 @@ s.clear(); // delete all elements
 s.find(s2); // first occurrence of s2, -1 if not found, // O(n)
 	s.find(s2, len); // first occurence of s2 looking from `len` index onwards
 	s.rfind(s2); // last occurrence of s2
-	// find any occurrence
-	s.find_first_of(s2);
-	s.find_last_of(s2);
 
 // existence - // O(n)
 s.starts_with();
@@ -95,7 +93,7 @@ stof();
 	stod(); // string to double
 
 // To string
-to_string()
+to_string(num)
 ```
 Note: 
 - ascii to int, subtract '0', 'A'.
@@ -224,7 +222,7 @@ USP: LIFO
 stack<int> stk; // LIFO structure
 // no initialization list
 
-stk.push();// insert O(1)
+stk.push(); // insert O(1)
 stk.pop(); // remove O(1)
 stk.top(); // access - read/write O(1)
 
