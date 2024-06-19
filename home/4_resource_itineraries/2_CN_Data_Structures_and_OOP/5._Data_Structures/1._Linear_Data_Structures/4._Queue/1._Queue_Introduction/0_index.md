@@ -1,7 +1,6 @@
 # 1. Queue Introduction
 Created Wednesday 22 January 2020
 
-
 * Queues are a fundamental ADT.
 * It follows FIFO.
 * A queue two ends, entry and exit.
@@ -17,7 +16,6 @@ In case of arrays, the problem of space wastage can be solved by the following m
 
 1. Shift all elements to the left. Very very time consuming.
 2. Use a circular system.
-
 
 We use only 2 as 1 is very inefficient.
 
