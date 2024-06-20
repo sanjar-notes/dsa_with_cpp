@@ -137,7 +137,7 @@
 				* [3. Printing a tree](5._Data_Structures/2._Trees/2_.Binary_trees/2._Coding_a_Binary_Tree/3._Printing_a_tree.md)
 			* [3. Params](5._Data_Structures/2._Trees/2_.Binary_trees/3._Params.md)
 				* [1. Count nodes](5._Data_Structures/2._Trees/2_.Binary_trees/3._Params/1._Count_nodes.md)
-				* [2. Diameter of a BInary tree](5._Data_Structures/2._Trees/2_.Binary_trees/3._Params/2._Diameter_of_a_BInary_tree.md)
+				* [2. Diameter of a BInary tree](5._Data_Structures/2._Trees/2_.Binary_trees/3._Params/2._Diameter_of_a_Binary_tree.md)
 			* [4. Traversals](5._Data_Structures/2._Trees/2_.Binary_trees/4._Traversals.md)
 			* [5. Construction from traversal](5._Data_Structures/2._Trees/2_.Binary_trees/5._Construction_from_traversal.md)
 				* [1. Pre and In](5._Data_Structures/2._Trees/2_.Binary_trees/5._Construction_from_traversal/1._Pre_and_In.md)

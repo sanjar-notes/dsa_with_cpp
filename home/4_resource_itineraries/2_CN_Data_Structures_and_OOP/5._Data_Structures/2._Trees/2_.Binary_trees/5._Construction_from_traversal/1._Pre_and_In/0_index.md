@@ -21,3 +21,74 @@ Proved: 1 and 2 are necessary and sufficient for a unique tree, as each step of 
 **Caveat: No duplicate nodes should be present when using this method.**
  Code in exercise no.
 
+## Code
+Simpler explanation
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+```cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+
+/*
+Approach.
+
+Lets observe the given vectors.
+
+preOrder = self left-st right-st
+inOrder  = left-st self right-st
+
+At the start, we know preOrder[0] is root, and also from pre what left and right subtrees are.
+But do we?, no, we don't know length of left-st.
+That we find by linear searching `self` in inOrder. i.e. we need in just for finding the length of left subtree.
+
+Root is done. Lets see ahead.
+We know that left nodes will be limited to within left-st. And same goes for right nodes for right-st.
+This also means that only left-st and right-st portions will be relevant for each side, respectively.
+
+Simply said, our search space is pretty cleanly divided, simple recursion should be enough. 
+tip: We can use start, end to denote the portions, for both in and pre travs.
+
+*/
+class Solution {
+public:
+    TreeNode* helper(vector<int>& preorder, vector<int>& inorder, 
+	    int pStart, int pEnd, 
+	    int iStart, int iEnd) // exclusive ends
+	{
+        if(pStart == pEnd) return NULL; // didn't think much, it should be this
+
+        int rootValue = preorder[pStart];
+        TreeNode* root = new TreeNode(rootValue);
+
+        int rootPositionInInorder;
+        for(int i = iStart; i < iEnd; i++) {
+            if (inorder[i] == rootValue) {
+                rootPositionInInorder = i;
+                break;
+            }
+        }
+
+        root -> left = helper(preorder, inorder, 
+                pStart + 1, pStart + 1 + (rootPositionInInorder - iStart), 
+                iStart, rootPositionInInorder);
+
+        root -> right = helper(preorder, inorder, 
+                pStart + 1 + (rootPositionInInorder - iStart), pEnd, 
+                rootPositionInInorder + 1, iEnd);
+
+        return root;
+    }
+    
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        return helper(preorder, inorder, 0, preorder.size(), 0, inorder.size());
+    }
+};
+```

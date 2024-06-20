@@ -1,7 +1,6 @@
 # 2. Input
 Created Saturday 01 February 
 
-
 * create queue
 * this is iterative
 * take the root->data if it exists
