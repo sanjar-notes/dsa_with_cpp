@@ -23,7 +23,7 @@ Proved: 1 and 2 are necessary and sufficient for a unique tree, as each step of 
 
 ## Code
 Simpler explanation
-https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ (unique values assumed)
 ```cpp
 /**
  * Definition for a binary tree node.

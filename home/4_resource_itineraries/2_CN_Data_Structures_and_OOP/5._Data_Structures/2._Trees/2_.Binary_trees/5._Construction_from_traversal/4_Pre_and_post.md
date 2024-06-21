@@ -3,8 +3,10 @@ Created Fri Jun 21, 2024 at 12:00 AM
 
 ## Code
 Simple explanation
-https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/ (unique values assumed)
 Approach is similar to pre-order and in-order [variation](1._Pre_and_In/0_index.md#Code). Just side is changed.
+
 ```cpp
 /**
  * Definition for a binary tree node.
