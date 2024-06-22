@@ -1,7 +1,6 @@
 # 3. Find last node
 Created Fri Jun 21, 2024 at 10:11 PM
 
-
 ## Code
 https://leetcode.com/problems/count-complete-tree-nodes/
 
