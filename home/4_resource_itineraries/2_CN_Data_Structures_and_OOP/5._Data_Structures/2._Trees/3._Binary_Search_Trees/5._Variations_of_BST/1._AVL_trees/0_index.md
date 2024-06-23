@@ -2,8 +2,8 @@
 Created Wednesday 12 February 2020
 
 #### Intro
-* AVL stands for Adelson-Velsky Landis
-* An AVL tree (named after its inventors **A**delson-**V**elsky and **L**andis) is a self-balancing binary search tree.
+* AVL stands for Adelson-Velsky Landis (named after its inventors **A**delson-**V**elsky and **L**andis)
+* An AVL tree is a self-balancing binary search tree.
 * Invention of AVL tree was published in the **1962** paper "*An algorithm for the organization of information*" in Russia.
 
 #### Why AVL trees
@@ -13,9 +13,8 @@ Created Wednesday 12 February 2020
 * Height is always ~log(n). To be precise it is between log(n) and 1.45*log(n)
 
 #### What is 'balance'
-* Each node stores a number in the range -2 to 2, inclusive.
+* Each node stores an extra number in the range -2 to 2, inclusive.
 * This number is called the balance factor. b = |left_subtree_height - right_subtree_height|
-* Balance factor must have a sign. This helps in differentiating which side is heavier.
 
 #### What is 'imbalance'
 If atleast one node with a balance factor of 2 or -2 exists, then the tree is said to 'not balanced'.
@@ -46,5 +45,12 @@ Important facts about rebalancing:
 * The parameters T1, T2, T3, T4 may be ε, leaf or a tree themselves.
 * The 4 operations are called **rotations** and they are very simple to tell, just by observation.
 
-**To prove** - Make sure that insertions/deletions and the rebalance maintains balance.
-**Proof **- [./avl_proof.jpg](1._AVL_trees/avl_proof.jpg)
+**To prove** - After being unbalanced, we can rebalance the tree and still retain being BST.
+Situation: we start traversing the tree during insertion/deletion, we do the op (i.e. delete/add node) at the proper place, then recursion back steps start. During these back steps we check the "delta" at each node.
+
+Mem aid: 
+- the double circle represent the first point of imbalance, all points moving will obviously be unbalanced. i.e. balancing takes place at the first (lowest) point of imbalance (which can be known in the recursion-back-step of the insert/delete operation).
+- The variation, i.e. LL, LR, RL or RR can be known during the recursion-back-step, just keep track of last two back steps.
+- To easily assure equivalence after rebalancing, just check if range for all nodes is valid or not. It is valid.
+- I've omitted unaffected branches here. To check just make sticks and see if they still hold in after balancing.
+![](../../../../../../../../assets/0_index-image-1-af7e3102.svg)

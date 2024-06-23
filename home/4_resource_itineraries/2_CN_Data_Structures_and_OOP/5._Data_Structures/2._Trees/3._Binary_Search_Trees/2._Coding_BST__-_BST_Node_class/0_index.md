@@ -45,5 +45,5 @@ Doubt: Delete data works for the case of non leaf as well because we are always 
 
 *****
 
-[./BinaryTreeNode.h](2._Coding_BST__-_BST_Node_class/BinaryTreeNode.h)
+![./BinaryTreeNode.h](2._Coding_BST__-_BST_Node_class/BinaryTreeNode.h)
 
