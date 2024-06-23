@@ -49,8 +49,10 @@ Important facts about rebalancing:
 Situation: we start traversing the tree during insertion/deletion, we do the op (i.e. delete/add node) at the proper place, then recursion back steps start. During these back steps we check the "delta" at each node.
 
 Mem aid: 
-- the double circle represent the first point of imbalance, all points moving will obviously be unbalanced. i.e. balancing takes place at the first (lowest) point of imbalance (which can be known in the recursion-back-step of the insert/delete operation).
+- the double circle represents the first point of imbalance (i.e. nearest to node that is deleted/added), all points moving will obviously be unbalanced. i.e. balancing takes place at the first point of imbalance (which can be known in the recursion-back-step of the insert/delete operation).
 - The variation, i.e. LL, LR, RL or RR can be known during the recursion-back-step, just keep track of last two back steps.
 - To easily assure equivalence after rebalancing, just check if range for all nodes is valid or not. It is valid.
 - I've omitted unaffected branches here. To check just make sticks and see if they still hold in after balancing.
+- To help avoid ambiguous moves, label the nodes as 10, 20, 30. In all cases, and you'll see that only a unique move is possible in every case.
+
 ![](../../../../../../../../assets/0_index-image-1-af7e3102.svg)
