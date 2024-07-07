@@ -1,9 +1,7 @@
 # 1. BackTracking
-
 Created Monday 22 June 2020
 
-**Lecture:**
-
+## Lecture
 - Backtracking is an approach where we explore all possible paths.
 
 e.g There are 10 bags with some items.
@@ -13,9 +11,14 @@ Print the name on the bag if a ball exists in the bag.
 - Backtracking and recursion are different. Backtracking is an approach and recursion is the algorithm used to solve the problem.
 - Backtracking is implemented using recursion.
 
----
+## Types of backtracking problems
+The common thing in all backtracking problems is the "decision you make".
+1. Subset generation - to include given element or not, at the moment.
+2. Permutation gen - "which element" to choose, at the moment.
 
-N Queens Problem:
+Another thing in backtracking is the order of output - so if the answer needs to be in sorted order, we must use recursion instead of bitwise-gen (suppose problem is subset gen), since recursion maintains sorted order by default.
+
+## N Queens Problem
 Given an NxN grid and N queens, following the rules of chess. We need to place the queens such that no queen is able to attack any other queen. Find and print the ways in which this is possible.
 
 How to approach this problem:
@@ -28,7 +31,7 @@ How to approach this problem:
 
 Note: We end the search when we have seen all initial configurations.
 
-![](/assets/1._BackTracking-image-1.png)
+![](../../../../../assets/0_index-image-1-67b0133f.png)
 
 ---
 
