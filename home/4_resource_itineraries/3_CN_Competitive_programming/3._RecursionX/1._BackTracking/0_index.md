@@ -36,3 +36,16 @@ Note: We end the search when we have seen all initial configurations.
 ---
 
 - For solving a problem which involves backtracking, first solve an example(not a very trivial one), then generalize.
+
+
+## Major issues
+- Outside food not allowed (cannot do Swiggy/Zomato) ^^, not mentioned in policy
+- Bedsheets not clean, hair on bedsheets
+- Room too small, unfurnished rooms, paint falling off, dusty
+- No towel, soap, toiletries provided. Got them upon asking, but towels smelled too bad. Tiny soap provided.
+- AC not working - when complained, the manager said he’ll send somebody in 10 mins, the guy came after 2 hours (had to call 5 times)
+- TV does not work
+
+## Minor
+- Improper board sign outside (it said Krishna hotel, not Fab Krishna)
+- Food menu too expensive
