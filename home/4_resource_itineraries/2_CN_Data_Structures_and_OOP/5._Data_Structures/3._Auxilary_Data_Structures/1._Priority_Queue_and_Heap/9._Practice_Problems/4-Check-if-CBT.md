@@ -3,7 +3,7 @@ Created Tue Jul 9, 2024 at 12:04 AM
 
 ## Simple and best solution
 Level order traversal based. We use level-order movement's and do a serial check.
-The check is that once we find node without both children (i.e. we are on second last node most probably), then all further nodes must have no children. If it was a full binary tree, this would still hold.
+The check is that once we find node without both children (i.e. we are on last node of a CBT probably), then all further nodes must have no children. If it was a full binary tree, this would still hold.
 
 In this method, there's no need to consider height or level.
 ```js
@@ -45,7 +45,7 @@ var isCompleteTree = function(root) {
 ```
 
 ## The harder solution (seemingly efficient)
-No need for this, as its worst is the same as level order traversal.
+No need for this, as its worst is the same as level order traversal. But for balanced trees space complexity is lower - O(log(n))
 https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 ```js
 /**
