@@ -5,3 +5,8 @@ Created Friday 06 March 2020
 [CodingExercises.md](./3._Tries/Quizzes&Exercises/CodingExercises.md)
 [Assignments.md](./3._Tries/zAssignments/Assignments.md)
 
+Uses of trie:
+- Fast prefix search
+- Fast search
+- Fast ops - all are O(L) time
+- Space efficient (compared to similar hashmap)
