@@ -1,16 +1,13 @@
 # 3. Types of Tries
-
 Created Sunday 08 March 2020
 
 - Why did we chose tries over hashmaps?
 1. Due to less space usage. Words with some same initial length do not use space.
-2. Somehwat better time complexity.
+2. Somewhat better time complexity.
 3. **Tries help with search suggestions as we type ~ O(words with same initial length). This is impossible with hashmaps - O(size of dictionary).**
 
 ---
-
 Types of tries:
-
 1. Compressed tries - More space optimization.
 
 Here we club (consecutive strings which have only one children) together. Clubbing is **allowed **both at the ends and in-between as well.
