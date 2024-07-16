@@ -50,7 +50,7 @@ void safeConnect(int i, int j, int arr[], int &edges)
 ```
 
 Calulating time complexity of the algo, worst in case of skewed tree, . i. e.
-![](/assets/2._Cycle_Detection-image-1.png)
+![](../../../../../../../assets/0_index-image-1-03283ee0.png)
 // T.C = Maximum work is done if all the nodes are connected, either like two lines(parallel or connected at an end) or some other packed config
 
 T.C for Union Find Cycle detection: O(V), in case the tree is skewed(LL). // O(V/k1 + V/k2); k1 and k2 show that we have two LL's , worst case.
