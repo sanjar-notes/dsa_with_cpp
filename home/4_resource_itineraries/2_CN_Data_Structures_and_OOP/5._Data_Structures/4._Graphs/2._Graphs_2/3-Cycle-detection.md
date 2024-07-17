@@ -40,3 +40,5 @@ bool isCyclic(int V, vector<int> adj[]) {
 	return false;
 }
 ```
+
+Minor optimization: instead of two arrays, use a single visited arrays whose values are 0 (undiscovered), 1 (node visited, but path not visited) and 2 (node visited and path visited).
