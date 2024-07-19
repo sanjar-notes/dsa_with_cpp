@@ -45,7 +45,11 @@ Very simple - do a traversal (DFS/BFS) and check if visited list is full. Don't 
 
 If both are true, then the directed graph is strongly connected.
 
+Proof: kind of sy
+
 ## Strongly connected components algo
 A strongly connected component in a directed algorithm refers to a subgraph that's strongly connected.
 Being a strongly connected subgraph may be a little unobvious, so another way to understand SCC is that it's a self-contained cycle.
 
+This uses the intuition of check strong connected graph (i.e. normal and transpose).
+See [Kosaraju's Algorithm](../../../../3_CN_Competitive_programming/8._GraphsX/4._Strongly_connected_components.md#Kosaraju's\ Algorithm).
