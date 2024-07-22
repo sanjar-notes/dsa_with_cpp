@@ -308,6 +308,9 @@ auto it = s.find(1); // get iterator to element - O(lgn), returns s.end() if not
 auto it = lower_bound(2);  // O(lgn)
 auto it = upper_bound(23); // O(lgn)
 
+// min, max
+auto minIt = s.begin();
+auto maxIt = s.rbegin();
 
 s.size();
 s.empty();
@@ -348,6 +351,10 @@ auto it = upper_bound(23); // last occurrence
 
 s.size();
 s.empty();
+
+// min, max
+auto minIt = s.begin();
+auto maxIt = s.rbegin();
 
 // iterator
 s.begin(); // moves in sorted order
@@ -434,6 +441,10 @@ auto it = upper_bound(23); // last occurrence of key
 mp.size();
 mp.empty();
 
+// min, max
+auto minIt = mp.begin();
+auto maxIt = mp.rbegin();
+
 // iterator
 mp.begin(); // moves in sorted order
 mp.end();
@@ -454,6 +465,10 @@ multimap<int, int> mp;
 multimap<int, int> mp { {1: 10}, {2, 20}, {3, 30}, {3, 40} }; // initialization list is allowed
 multimap<int, int> mp (mp2.begin(), mp2.end()); // deep clone
 multimap<int, T, greater<int>> rmp; // reversed (higher on the left)
+
+// min, max
+auto minIt = mp.begin();
+auto maxIt = mp.rbegin();
 
 // everything same as map, only it can store multiple keys
 // only mpp[key] cannot be used here, since ambiguous access
