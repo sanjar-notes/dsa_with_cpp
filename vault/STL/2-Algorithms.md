@@ -16,6 +16,8 @@ Reference: https://cplusplus.com/reference/algorithm/#:~:text=range%20(function%
 ### Existence
 ```cpp
 binary_search(startIt, endIt, key); // existence check
+bool e = binary_search(v.begin(), v.end(), 20);
+
 // e.g 10 10 10 20 20 20 30 30
 // key=20 => true
 // key=21 => false
@@ -24,26 +26,33 @@ binary_search(startIt, endIt, key); // existence check
 ```cpp
 // Lower bound means "left side" (<=)
 lower_bound (startIt, endIt, key);
-lower_bound(v.begin(), v.end(), 20); // v is a vector
+auto it = lower_bound(v.begin(), v.end(), 20); // v is a vector
 
 // e.g 10 10 10 20 20 20 30 30, key=20
 // Result  is ..., 10, ^20
+
+// Satellite data pair<int, T> is possible. But tweak needed
+// lower_bound(v.begin(), v.end(), make_pair(20, string())); // for vector<pair<int, string>>;
 ```
 ### Upper bound (right side >)
 ```cpp
 // upper bound means "right side" (>)
 upper_bound (startIt, endIt, key);
-upper_bound(v.begin(), v.end(), 20); // v is a vector
+auto it = upper_bound(v.begin(), v.end(), 20); // v is a vector
 
 // e.g 10 10 10 20 20 20 30 30, key=20
 // Result  is ..., 20, ^30, ...
+// Satellite data pair<int, T> is possible. But tweak needed
+// upper_bound(v.begin(), v.end(), make_pair(20, string())); // for vector<pair<int, string>>;
 ```
 
 ### Range (range from left to right side)
 Get "equivalent" range.
 ```cpp
 // left side >=, right side >
-equal_range(startIt, endIt, key);
+auto it_pair = equal_range(startIt, endIt, key);
+auto startIt = it_pair.first;
+auto endIt   = it_pair.second;
 
 // e.g 10 10 10 20 20 20 30 30, key=20
 // range is [20, 20, 20, 30]
@@ -67,6 +76,8 @@ min_element(startIt, endIt);
 	
 max_element (/* same as above */)
 auto itPair = minmax_element (/* same as above */)
+
+// Satellite data - sorts based on int if element type is pair<int, T>
 ```
 
 ## Sorting
@@ -76,10 +87,12 @@ All are in-place ops.
 `std::sort` works for any container (except strict ADTs like stack, queue, or already sorted ones)
 ```cpp
 sort(startI, endI) // natural sort, i.e. increasing order, alphabetical order
-	sort(startI, endI, greater<int>()) // decreasing order. 
+	sort(startI, endI, greater<int>()) // decreasing order.
 	// Remember: greater is a call here, min PriorityQueue declaration is not a call.
 	
 	sort(starI, endI, [] -> bool (auto a, auto b){ return is_should_keep; }); // custom
+
+// Satellite data - sorts based on int if element type is pair<int, T>
 ```
 
 ### stable_sort
@@ -87,6 +100,8 @@ sort(startI, endI) // natural sort, i.e. increasing order, alphabetical order
 stable_sort(startIt, endIt);
 	stable_sort(startIt, endIt, greater<int>()); // decreasing order
 	stable_sort(starI, endI, [] -> bool (auto a, auto b){ return is_should_keep; }); // custom
+
+// Satellite data - sorts based on int if element type is pair<int, T>
 ```
 
 ### Check if sorted
@@ -95,6 +110,9 @@ is_sorted(startIt, endIt);
 
 vector<int> v;
 bool isSorted = is_sorted(v.begin(), v.end());
+	// is_sorted(v.begin(), v.end(), greater<int>()) to check if reversed in sorted order
+
+// Satellite data - sorts based on int if element type is pair<int, T>
 ```
 
 ## Comparison
