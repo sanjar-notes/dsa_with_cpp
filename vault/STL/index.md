@@ -7,13 +7,17 @@ It's essential for practically facing online problems
 - STL standard. ICPC is OK with 20, https://docs.icpc.global/worldfinals-programming-environment/#:~:text=c%2B%2B%20(g%2B%2B%2011.3.0%20(ubuntu%2011.3.0-1ubuntu1~22.04))
 ## Whats in STL
 - Containers - trees, vectors, hashmaps.
-- Iterators (actually relevant only in context of a container). help in iterating over containers, including non-linear ones. This topic also refers to the general pattern and syntax of iterators, namely .begin, .end.
+- Iterators (relevant only context of a container). help in iterating over containers, including non-linear ones. This topic also refers to the general pattern and syntax of iterators, namely .begin, .end.
 - Algorithms
 	- Utils - sort, find, reverse, higher order functions
 	- Fast state space utils - lower_bound, upper_bound, min, max
 	- PnC - permutations
 - Functors - these are "classes that can be reused as functions" change the way how algorithms, containers behave. Example: min priority_queue (default is max), reverse sort.
 	- Completely custom functors are also used. Example: custom sort behavior.
+	- Use `greater<int>` to switch behavior.
+- Satellite data - *These are simple ways to avoid need for wrapper classes, functors*.
+	- Use `pair<int, T>` as data type for STL artifacts when working with non integer objects. STL prefers the first item (value, i.e. int). Example: sorting, priority_queue, set.
+	- Unordered sets need to be provided a hash function, but it's not a concern since we can instead just use map over `<int, T>`.
 
 ## Setup STL
 ```cpp

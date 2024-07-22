@@ -282,6 +282,11 @@ pq.empty();
 while(!pq.empty()) { cout << pq.top(); pq.pop(); }
 
 // utils - swap
+
+// satellite data pair<int, T> works
+// for min queue, repeat pair<int, T>
+priority_queue<pair<int, string>> pq;
+priority_queue<pair<int, string>, vector<pair<int, string>>, greater<pair<int, string>>> q;
 ```
 
 ## Set (balanced tree)
@@ -290,6 +295,7 @@ Remember one thing, set means - { sorted, unique }. Other 3 related structures a
 set<int> s; // balanced tree (detail: Red-Black-Tree)
 set<int> s {1, 2, 3}; // initialization list is allowed
 set<int> s (s2.begin(), s2.end()); // deep clone
+set<int, greater<int>> rs; // reversed (higher on the left)
 
 s.insert(1);// insert - O(lgn)
 s.erase(it); // remove - O(lgn)
@@ -315,6 +321,10 @@ for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
 for(auto a: s) { cout << a; }
 
 // utils - swap
+
+// satellite data pair<int, T> works
+set<pair<int, string>> s;
+set<pair<int, string>, greater<pair<int, string>>> rs; // reversed 
 ```
 
 ### Multi-set (not used frequently)
@@ -323,6 +333,7 @@ sorted. not unique.
 multiset<int> s;
 multiset<int> s {1, 2, 3}; // initialization list is allowed
 multiset<int> s (s2.begin(), s2.end()); // deep clone
+multiset<int, greater<int>> rs; // (higher on the left)
 
 s.insert(1);// insert - O(lgn)
 s.erase(it); // remove - O(lgn), only erases one occurence (relevant if multiple are present)
@@ -347,6 +358,11 @@ for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
 for(auto a: s) { cout << a; }
 
 // utils - swap, lower_bound, upper_bound
+
+// satellite data pair<int, T> works
+multiset<pair<int, string>> s;
+multiset<pair<int, string>, greater<pair<int, string>>> rs; // reversed
+// FYI: multiset is not stable (same value)
 ```
 
 ### Unordered set (actual math set)
@@ -378,6 +394,7 @@ for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
 for(auto a: s) { cout << a; }
 
 // utils - swap
+// no satellite data pair<int, T> without hash function. Fix: use un*map instead of un*set :)
 ```
 
 
@@ -385,6 +402,7 @@ Note:
 - `multiset` - syntax same as set. sorted. not unique.
 - `unordered_set` - syntax same as set. not sorted. unique.
 - `unordered_multiset` - syntax same as set. non-sorted, non-unique. USP (over vector): fast access, insert, deletion
+- `unordered*` containers don't support easy satellite data. You have to provide a hash function. Fix: Simply prefer using `unordered*map` versions here. Since it's `<int, T>` by default.
 
 
 ## Map
@@ -394,6 +412,7 @@ Keyed data structure.
 map<int, int> mp;
 map<int, int> mp { {1: 10}, {2, 20}, {3, 30} }; // initialization list is allowed
 map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
+map<int, T, greater<int>> rmp; // reversed (higher on the left)
 // key can be any trivial combination, int x string x pair
 // value can be anything
 
@@ -424,6 +443,8 @@ for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }
 for(auto a: mp) { cout << a.first << a.second << endl; } // internally behaves like a collection of pairs
 
 // utils - swap
+
+// satellite data - no speciality needed. Already of the form <int, T>
 ```
 
 ### Multimap (not used frequently)
@@ -432,9 +453,12 @@ sorted. not unique.
 multimap<int, int> mp;
 multimap<int, int> mp { {1: 10}, {2, 20}, {3, 30}, {3, 40} }; // initialization list is allowed
 multimap<int, int> mp (mp2.begin(), mp2.end()); // deep clone
+multimap<int, T, greater<int>> rmp; // reversed (higher on the left)
 
 // everything same as map, only it can store multiple keys
 // only mpp[key] cannot be used here, since ambiguous access
+
+// satellite data - no speciality needed. Already of the form <int, T>
 ```
 
 ### Unordered (actual raw hashmap)
@@ -447,6 +471,8 @@ unordered_map<int, int> mp (mp2.begin(), mp2.end()); // deep clone
 // same as map
 // lower_bound DOESNT work
 // upper_bound DOESNT work
+
+// satellite data - no speciality needed. Already of the form <int, T>
 ```
 
 
@@ -454,3 +480,4 @@ Note:
 - `multimap` - syntax same as set. sorted. not unique.
 - `unordered_map` - syntax same as set. not sorted. unique.
 - `unordered_multimap` - syntax same as set. non-sorted, non-unique. USP: keyed, fast access, insert, deletion
+- Satellite data is already covered in all map types, they support `<int, T>` by default.
