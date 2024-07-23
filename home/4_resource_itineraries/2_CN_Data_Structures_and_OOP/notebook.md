@@ -206,7 +206,7 @@
 			* [2. Cycle Detection](5._Data_Structures/4._Graphs/2._Graphs_2/2._Cycle_Detection.md)
 			* [2. MST algorithms](5._Data_Structures/4._Graphs/2._Graphs_2/2._MST_algorithms.md)
 				* [1. Kruskal's Algo Complexity](5._Data_Structures/4._Graphs/2._Graphs_2/2._MST_algorithms/1._Kruskal's_Algo_Complexity.md)
-					* [0. Sorting w.r.t a data member of a class](5._Data_Structures/4._Graphs/3-Graphs-3/3._Kruskal's_Algo_Complexity/0._Sorting_w.r.t_a_data_member_of_a_class.md)
+					* [0. Sorting w.r.t a data member of a class](../../../vault/STL/0._Sorting_w.r.t_a_data_member_of_a_class.md)
 			* [5. Prim's Algorithm](5._Data_Structures/4._Graphs/3-Graphs-3/2._Prim's_Algorithm.md)
 			* [6. Dijkstra's Algorithm](5._Data_Structures/4._Graphs/4-Graphs-4/6._Dijkstra's_Algorithm.md)
 	* [5. C++ STL](5._Data_Structures/5._C++_STL.md)
