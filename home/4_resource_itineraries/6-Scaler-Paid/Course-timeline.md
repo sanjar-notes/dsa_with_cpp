@@ -1,5 +1,4 @@
 # # Course timeline
-
 Created Fri May 24, 2024 at 6:38 PM
 
 ## Advanced DSA 1 (4 weeks)

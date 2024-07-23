@@ -1,5 +1,4 @@
 # 5. Coin change and stair case
-
 Created Wednesday 01 July 2020
 
 1. Staircase problem: Given n stairs, count the number of ways of going to the top using steps of 1, 2 and 3.

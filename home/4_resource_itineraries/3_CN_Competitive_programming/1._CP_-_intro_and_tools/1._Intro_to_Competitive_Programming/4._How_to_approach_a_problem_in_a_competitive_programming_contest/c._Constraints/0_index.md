@@ -1,5 +1,4 @@
 # c. Constraints
-
 Created Thursday 23 April 2020
 
 1. Time Limit - Mostly 1 s or 2s or ... 100s(rare).

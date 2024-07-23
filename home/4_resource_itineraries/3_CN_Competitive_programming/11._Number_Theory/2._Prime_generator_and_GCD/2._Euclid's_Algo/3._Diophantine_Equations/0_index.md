@@ -1,5 +1,4 @@
 # 3. Diophantine Equations
-
 Created Wednesday 29 July 2020
 
 Diohphantine Equations - These are polynomial equations for which integral solutions exist.

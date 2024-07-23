@@ -1,5 +1,4 @@
 # 3. Syntax
-
 Created Sunday 26 April 2020
 
 ### Syntax for inheritance

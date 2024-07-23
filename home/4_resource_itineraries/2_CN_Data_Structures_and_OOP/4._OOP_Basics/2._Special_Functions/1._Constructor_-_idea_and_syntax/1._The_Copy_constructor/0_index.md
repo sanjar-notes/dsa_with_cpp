@@ -1,5 +1,4 @@
 # 1. The Copy constructor
-
 Created Friday 10 January 2020
 
 The compiler provided copy constructor does **shallow **copying.

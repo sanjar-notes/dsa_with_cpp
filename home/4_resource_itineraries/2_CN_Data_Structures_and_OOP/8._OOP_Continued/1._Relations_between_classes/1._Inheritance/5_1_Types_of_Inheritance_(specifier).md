@@ -1,5 +1,4 @@
 # 5.1. Types of Inheritance (level)
-
 Created Sunday 26 April 2020
 
 1. Single Inheritance: A->B

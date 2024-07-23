@@ -1,5 +1,4 @@
 # 3. Matrix Exponentiation
-
 Created Saturday 01 August 2020
 
 - It is used in representing and solving recurrence relation.

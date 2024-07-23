@@ -1,5 +1,4 @@
 # 1. Kruskal's Algo Complexity
-
 Created Saturday 25 April 2020
 
 #### Algorithm

@@ -1,5 +1,4 @@
 # 2. Searching
-
 Created Sunday 03 May 2020
 
 1. For sorted arrays, do **binary_search**(begin_it, end_it, key) - returns true if found, else false.

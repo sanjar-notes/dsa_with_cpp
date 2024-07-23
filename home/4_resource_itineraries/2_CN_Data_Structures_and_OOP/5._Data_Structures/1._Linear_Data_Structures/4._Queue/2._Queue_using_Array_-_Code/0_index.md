@@ -1,5 +1,4 @@
 # 2. Queue using Array - Code
-
 Created Thursday 23 January 2020
 
 [queueMain.cpp](2._Queue_using_Array_-_Code/queueMain.cpp)

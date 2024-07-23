@@ -1,5 +1,4 @@
 # 4. Fermat's Little Theorem
-
 Created Sunday 02 August 2020
 
 - Used very frequently.

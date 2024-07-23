@@ -1,5 +1,4 @@
 # 2. C++ File streams
-
 Created Saturday 25 April 2020
 
 - Streams are used for accessing data from some source(input devices, files or networks) or sending data to a network, file, output devices.

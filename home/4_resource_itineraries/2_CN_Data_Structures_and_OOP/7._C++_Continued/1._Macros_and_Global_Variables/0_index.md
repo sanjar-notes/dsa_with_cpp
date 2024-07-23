@@ -1,5 +1,4 @@
 # 1. Macros and Global Variables
-
 Created Thursday 26 December 2019
 
 - We are going to learn a few keywords which help us write better code.

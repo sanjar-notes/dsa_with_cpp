@@ -1,5 +1,4 @@
 # 1. Shift Operators
-
 Created Sunday 28 June 2020
 
 The basic ops for bits are shifts, there are two kinds:

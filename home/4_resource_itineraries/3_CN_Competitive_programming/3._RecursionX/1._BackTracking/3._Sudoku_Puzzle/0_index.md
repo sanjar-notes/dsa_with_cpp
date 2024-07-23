@@ -1,5 +1,4 @@
 # 3. Sudoku Puzzle
-
 Created Friday 26 June 2020
 
 Given:

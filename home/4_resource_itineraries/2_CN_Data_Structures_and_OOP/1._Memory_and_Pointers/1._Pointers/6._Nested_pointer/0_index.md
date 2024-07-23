@@ -1,5 +1,4 @@
 # 6. Nested pointer
-
 Created Tuesday 24 December 2019
 
 **Q)** Why don't we use **pointer** instead of int*, char* etc.

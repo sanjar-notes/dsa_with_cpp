@@ -1,5 +1,4 @@
 # 1. Introduction to Greedy technique
-
 Created Sunday 19 July 2020
 
 - It is technique, not an algorithm.

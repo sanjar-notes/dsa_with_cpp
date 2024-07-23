@@ -1,5 +1,4 @@
 # 6. Hybrid Inheritance
-
 Created Monday 27 April 2020
 
 This is the 5th type of inheritance.

@@ -1,5 +1,4 @@
 # 2. Rectangular Area
-
 Created Tuesday 30 June 2020
 
 CodingNinjas has given you N rectangles, which are

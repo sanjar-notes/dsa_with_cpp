@@ -1,5 +1,4 @@
 # 3. Arrays and Pointers
-
 Created Sunday 22 December 2019
 
 Arrays same as pointer?

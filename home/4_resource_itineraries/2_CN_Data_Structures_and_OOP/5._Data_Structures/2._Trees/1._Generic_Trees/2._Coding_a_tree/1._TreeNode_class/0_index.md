@@ -1,5 +1,4 @@
 # 1. TreeNode class
-
 Created Saturday 25 January 2020
 
 - We'll keep the root node with us. Like we keep head for an LL.

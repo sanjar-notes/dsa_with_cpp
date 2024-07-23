@@ -1,5 +1,4 @@
 # 5. Time complexity for recursive algorithms
-
 Created Monday 06 January 2020
 
 - For recursive algorithms, just write down the **recurrence relation, \***with the anchor condition\*.

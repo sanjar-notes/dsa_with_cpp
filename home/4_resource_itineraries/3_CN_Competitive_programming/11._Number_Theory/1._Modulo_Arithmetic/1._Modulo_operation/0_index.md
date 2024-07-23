@@ -1,5 +1,4 @@
 # 1. Modulo operation
-
 Created Tuesday 30 June 2020
 
 **Modulo Operation**

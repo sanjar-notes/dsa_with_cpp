@@ -1,5 +1,4 @@
 # 1. Fibonacci - 1
-
 Created Sunday 08 March 2020
 
 Let us first discuss a problem: finding the nth fibonacci number.

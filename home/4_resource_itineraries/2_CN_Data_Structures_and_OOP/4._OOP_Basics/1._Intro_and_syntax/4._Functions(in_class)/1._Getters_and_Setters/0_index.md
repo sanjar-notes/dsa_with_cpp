@@ -1,5 +1,4 @@
 # 1. Getters and Setters
-
 Created Wednesday 08 January 2020
 
 #### What are setters and getters?

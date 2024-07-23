@@ -1,5 +1,4 @@
 # 2. Remaining Bitwise Operators
-
 Created Sunday 28 June 2020
 
 - **Bitwise ops: **The operators which perform the logical gate operations on corresponding bits of two variables.

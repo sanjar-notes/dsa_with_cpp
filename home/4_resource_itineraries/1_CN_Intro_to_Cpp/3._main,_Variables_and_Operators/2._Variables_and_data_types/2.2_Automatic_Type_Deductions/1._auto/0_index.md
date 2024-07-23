@@ -1,5 +1,4 @@
 # 1. auto
-
 Created Monday 18 May 2020
 
 1. Letting the compiler deduce the type;

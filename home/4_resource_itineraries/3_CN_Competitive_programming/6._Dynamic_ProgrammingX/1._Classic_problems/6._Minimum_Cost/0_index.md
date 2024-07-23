@@ -1,5 +1,4 @@
 # 6. Minimum Cost
-
 Created Thursday 02 July 2020
 
 - In DP problems, we do need multidimensional arrays. Dimension = number of state parameters.

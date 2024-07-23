@@ -1,5 +1,4 @@
 # 2. KMP algorithm
-
 Created Monday 27 July 2020
 
 Knuth-Morris-Pratt algorithm

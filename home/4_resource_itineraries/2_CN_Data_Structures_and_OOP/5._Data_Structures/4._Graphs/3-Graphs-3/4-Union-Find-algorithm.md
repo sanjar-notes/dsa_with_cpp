@@ -1,5 +1,4 @@
 # 2. Cycle Detection
-
 Created Monday 20 April 2020
 
 We discussed in Kruskal's algorithm, that we need to check if a cycle exists, just before adding an edge.

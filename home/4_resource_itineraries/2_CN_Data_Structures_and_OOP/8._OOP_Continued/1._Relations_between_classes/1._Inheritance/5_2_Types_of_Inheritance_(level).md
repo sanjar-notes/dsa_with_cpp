@@ -1,5 +1,4 @@
 # 5.2. Types of Inheritance (level)
-
 Created Saturday 26 February 2022
 
 There are 3 kinds of inheritance here.
