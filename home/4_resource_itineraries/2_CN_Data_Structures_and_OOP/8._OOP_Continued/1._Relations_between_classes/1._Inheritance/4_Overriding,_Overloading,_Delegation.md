@@ -11,7 +11,7 @@ This is called member function overriding.
 - If there was no `Car::run`, calling `run` using `Car` object would actually call `Vehicle::run`.
 - Even after overriding, `run` from `Vehicle` is still available inside the derived class, but as `Vehicle::run` and not `run`, i.e. we have to name the base member function explicitly if it's overriden.
 
-```c++
+```cpp
 class Vehicle {
 	public:
 		void run()
@@ -52,7 +52,7 @@ Overriding happens only if signature matches. If it doesn't, public members of t
 - Overidden and overloaded are still available in the derived class, but they must be called explicitly, i.e. with full name (`BaseClass::myMemberFunction()`).
 - A similar thing, called **invocation** is done for constructors, destructors and copy assignment operator This is heavily used in constructor and destructors, like so:
 
-```c++
+```cpp
 class Vehicle
 {
 	Vehicle(); // assume constructor defined

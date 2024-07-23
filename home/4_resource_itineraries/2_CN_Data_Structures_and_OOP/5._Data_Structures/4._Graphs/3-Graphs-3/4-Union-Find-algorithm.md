@@ -21,7 +21,7 @@ We assume, initially, that all components are disjoint(only individual points):
 2. We initialize every element to be equal to i, i.e i is the parent of itself, this ensures that all are disconnected. **We need to maintain that for a connected graph, all the parents the same. (we implement this by keeping keeping all lvals, rvals as superparent. Remember that a super_parent is always reflexive)**
 3. To safeConnect i and j, we find their superparents, if they are different, we assign one to the other(any way would do). This essentially does the union operation on the two graphs, making them a connected one. Assignment works both ways coz union is commutative.
 
-```c++
+```cpp
 void safeConnect(int i, int j, int arr[], int &edges)
 {
     if (arr[i] != arr[j]) // apparently disconnected

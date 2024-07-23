@@ -40,7 +40,7 @@ This is rare, and is virtually never used.
 
 - This is the default kind of inheritance in C++, and therefore a specifier after the colon is not needed.
 
-```c++
+```cpp
 public Derived : Base { // no specifier means private inheritance
 	...
 };

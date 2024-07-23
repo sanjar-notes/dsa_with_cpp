@@ -9,7 +9,7 @@ The basic ops for bits are shifts, there are two kinds:
 - Value added to the right are zeroes(0), always.
 - Syntax:
 
-```c++
+```cpp
 x << 1;
 2 << 1;
 ```
@@ -26,7 +26,7 @@ x << 1;
 - Value added to the left is 0 for positive and 1 for negative, i.e sign retained.
 - Syntax:
 
-```c++
+```cpp
 x >> 1;
 8 >> 1;
 ```

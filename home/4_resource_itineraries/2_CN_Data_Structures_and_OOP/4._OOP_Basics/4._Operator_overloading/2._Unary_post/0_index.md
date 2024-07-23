@@ -10,7 +10,7 @@ Created Sunday 12 January 2020
 
 
 Example
-```c++
+```cpp
 class A
 {
     public:

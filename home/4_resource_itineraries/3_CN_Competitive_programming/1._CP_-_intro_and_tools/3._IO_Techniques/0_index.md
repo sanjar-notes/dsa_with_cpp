@@ -7,7 +7,7 @@ In C++, we can read and write from a file using stdin and stdout.
 
 * Always use <bits/stdc++.h> for competitive programming.
 * File Handling
-```c++
+```cpp
 freopen("in.txt", "r", stdin);	// read mode
 freopen("out.txt", "w", stdout); // there's the append mode "a" too
 

@@ -8,7 +8,7 @@ How → It selects a prefix(from the pattern) and marks it's occurrences through
 ![](/assets/2._KMP_algorithm-image-1.png)
 Building the pi table:
 
-```c++
+```cpp
 for(int i=0; i<l; i++)
 {
 	while(char at i!=char at j)

@@ -15,7 +15,7 @@ Note: The names are correct and to the point.
 
 3. **equal_range(**begin_it, end_it, key**) **returns a pair of iterators to the first and the last item equal to the key. This can be used to get the number of repeated key values. **It is used for getting the first iterator to a key(even if there's just one key)**
 
-```c++
+```cpp
 vector<int> A;
 int key;
 equal_range(A.begin(), A.end(), key).first; // iterator to first instance of key

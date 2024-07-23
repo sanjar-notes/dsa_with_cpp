@@ -11,7 +11,7 @@ Created Thursday 26 December 2019
 
 **Syntax: **
 
-```c++
+```cpp
 #define macro_template macro_expansion
 
 #define h "Hello, world" // example
@@ -44,13 +44,13 @@ Consider the known pre-procesor directive case, **#include**, this copies file c
 
   1.  Without argument
 
-  ```c++
+  ```cpp
   #define pi 3.14
   ```
 
   1. With argument - Macros defined with arguments are similar to inline functions.
 
-  ```c++
+  ```cpp
   #define AREA(l, b) l*b
 
   // Template needs to be in f(a, b, c) form

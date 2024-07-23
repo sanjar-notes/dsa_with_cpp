@@ -37,7 +37,7 @@ class_name()
 
 * **Tip:** A parameterized constructor can be passed default arguments, so that there's no need of a separate default constructor. Takes care of the ambiguity, which can be a runtime error.
 * A constructor can be called explicitly, because this is useful.
-```c++
+```cpp
 int main()
 {
 	Car c;

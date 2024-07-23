@@ -12,7 +12,7 @@ i.e leftMax < root->data && rightMin > root->data
 
 * We need to return min and max, if we make two seperate functions which find the maximum and the minimum. This takes O(n) time.
 
-```c++
+```cpp
 int maxBT(BT*root)
 {
 	if(root==NULL)
@@ -41,8 +41,3 @@ bool isBST(Bt* root)
 f(n) = 2n+T(n/2) =  nh =  nodes * height
 worst case - O(n^2^) skewed tree, O(nlog~2~n)
 Not a good solution as we have to do work again and again.
-
-
-
-
-

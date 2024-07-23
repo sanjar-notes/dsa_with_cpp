@@ -33,7 +33,7 @@ It's a constructor(given by the compiler at all times) which takes an object as 
 * We create an object which has all data_members the same as that of another pre-existing object called obj1.
 
 Syntax:  just add a parenthesis to the class_name with the argument.
-```c++
+```cpp
 int main()
 {
 	Rectangle r1;
@@ -83,7 +83,7 @@ Student x1 = x0; // this looks like copy assignment operator, but it is not. Cop
 <http://www.cplusplus.com/doc/tutorial/classes2/#copy_assignment>
 
 * Remember copy constructor is **more primitive** than assignment operator. The assignment operator resorts to the copy constructor and not the other way around. **Remember this.** Example:
-```c++
+```cpp
 MyClass obj2 = obj1; // actually calls the copy constructor
 // so copy constructor is more primitive than assignment operator
 ```

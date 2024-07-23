@@ -10,7 +10,7 @@ Created Sunday 26 April 2020
 
 Example of syntax
 
-```c++
+```cpp
 class Camera{ /*code*/ };
 class Telephone{ /*code*/ };
 
@@ -32,7 +32,7 @@ What if we want to inherit as `public`, but keep some inherited members `private
 C++ allows selective inheritance. Just use the `using` keyword.
 Example
 
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 class A

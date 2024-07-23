@@ -11,7 +11,7 @@ The next line of input contains the word list, in which each word is separated b
 Print the crossword grid, after placing the words of word list in '-' cells.
 **Sample Test Cases:**
 **Sample Input 1:**
-```c++
+```cpp
 +-++++++++
 +-++-+++++
 +-------++
@@ -26,7 +26,7 @@ CALIFORNIA;NIGERIA;CANADA;TELAVIV
 ```
 
 **Sample Output 1:**
-```c++
+```cpp
 +C++++++++
 +A++T+++++
 +NIGERIA++

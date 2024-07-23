@@ -3,14 +3,14 @@ Created Monday 29 June 2020
 
 1. **Return** ith bit.
 A simple way to do this would be
-```c++
+```cpp
 N = 100010101 // suppose we need 2nd bit - zero based counting
 ```
 Approach 1 - Shift+Modulus:
 
 1. Shift by k to the right
 2. Check last bit
-```c++
+```cpp
 return (n >> i)%2; // Booth's algorithm - O(n)
 ```
 Approach 2 - Shift and AND:

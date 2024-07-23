@@ -16,7 +16,7 @@ Types of gate bitwise ops:
 
 - Uses:
   1.  Turn off bit
-  ```c++
+  ```cpp
   x & 0 == 0; //true for any number
   // e.g 110 , turn off second bit
   // 110 & 101
@@ -24,7 +24,7 @@ Types of gate bitwise ops:
 
 2. Check if bit is set/unset, inter-alia check if even or odd(no shifts required)
 
-   ```c++
+   ```cpp
    x & 1 = x; // check if a bit is set/unset
    ```
 
@@ -34,7 +34,7 @@ Types of gate bitwise ops:
 
 - Use:
   1.  Set bit(s)
-  ```c++
+  ```cpp
    x | 0 == x; // true
    // 1010, turn on bit 1
    // 101 | 0100 = 1110
@@ -42,7 +42,7 @@ Types of gate bitwise ops:
 
 2. Check if bit is set/unset
 
-   ```c++
+   ```cpp
    x | 0 = x; // x is a bit
    ```
 
@@ -55,13 +55,13 @@ Types of gate bitwise ops:
   1.  Unset bit(s)
   2.  Produce all 1's
 
-  ```c++
+  ```cpp
   ~0;// 11111111... useful
   0; // 0000.. obvious
   ```
 
 - Interesting and useful fact:
-  ```c++
+  ```cpp
   ~x == -(x+1); // follows from the definition of 2's complement, given x is an integer
   ```
 
@@ -71,12 +71,12 @@ Types of gate bitwise ops:
 
 - Use
   1.  Check if two bits are equal
-  ```c++
+  ```cpp
   x ^ x == 0; // works for only two numbers(or even numbers)
   ```
 
 2. Works as binary switch for any bit
-   ```c++
+   ```cpp
    x ^ 1 = ~x; // same as ~x
    ```
 
@@ -84,7 +84,7 @@ Types of gate bitwise ops:
 
 1. **Predict The Output**
 
-```c++
+```cpp
 #include<iostream>
 using namespace std;
 int main(){
@@ -106,7 +106,7 @@ Answer: B. ~0 = -(0+1) = -1 and not 1. Bitwise. not !
 
 2. **Predict The Output**
 
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 int main(){
@@ -129,7 +129,7 @@ Answer: B. Because in C++ an assigment has a value equal to the rvalue. So y==1 
 
 3. **Predict The Output**
 
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 

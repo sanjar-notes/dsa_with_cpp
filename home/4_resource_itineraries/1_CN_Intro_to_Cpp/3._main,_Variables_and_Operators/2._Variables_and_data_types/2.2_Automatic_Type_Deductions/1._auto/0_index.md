@@ -3,7 +3,7 @@ Created Monday 18 May 2020
 
 1. Letting the compiler deduce the type;
 
-```c++
+```cpp
 auto x = 2;
 cout << x;	// works - uses predefined rules for int, in this case
 ```
@@ -16,7 +16,7 @@ auto x = 2, y = 'c'; // cannot be different
 
 3. Auto can be used for **functions too** but they shouldn't return different types of values(e.g can return an int, or a string etc), **this is the same error. **Python does it though.
 
-```c++
+```cpp
 auto p(int x)
 {
   if(x==1)

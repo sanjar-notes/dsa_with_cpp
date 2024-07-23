@@ -4,7 +4,7 @@ Created Sunday 03 May 2020
 * It is a dynamic array. Reallocates and doubles size when size()>capacity().
 
 Uses:
-```c++
+```cpp
 #include<iostream>
 #include<vector>
 
@@ -21,7 +21,7 @@ A) It is the pointer to an element within the range of the data structures.
 2. We can access the element in the data structure by dereferencing.
 3. **vec.begin()** returns the starting element. **vec.end()** is the pointer **after **the last element in the DS.
 4. To make an iterator using
-```c++
+```cpp
 vector<int> :: iterator it = vec.begin();
 // we can also just use auto
 ```
@@ -42,7 +42,7 @@ Vector is just another name of our Dynamic Array. Exactly the same as our implem
 
 header: **<vector>**
 Declaration:
-```c++
+```cpp
 vector <data_type> v; 	static
 vector <data_type>* v = new vector<int>;	//note the parentheses
 vector <data_type>* v = new vector<int>(23);	//intial size is 23, not capacity
