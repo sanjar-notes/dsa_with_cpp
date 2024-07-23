@@ -1,6 +1,8 @@
 # 2. Union Find structure
 Created Monday 20 April 2020
 
+Video: https://youtu.be/0jNmHPfA_yE?si=ZeABFI8yRPf_aXve
+Skiena is also OK.
 ## Context
 A "set partition" parcels out the elements of some universal set (say the integers 1 to n) into a collection of disjoint subsets, where each element is in exactly one subset.
 
