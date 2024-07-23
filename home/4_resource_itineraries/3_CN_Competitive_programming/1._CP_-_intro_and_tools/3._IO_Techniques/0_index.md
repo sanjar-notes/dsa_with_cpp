@@ -11,6 +11,9 @@ In C++, we can read and write from a file using stdin and stdout.
 freopen("in.txt", "r", stdin);	// read mode
 freopen("out.txt", "w", stdout); // there's the append mode "a" too
 
+```
+```cpp
+// continuing from above
 cin >> x; // writes to x from stdin, i.e the file
 cout << x; // writes the value of x to the file
 ```
