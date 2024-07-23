@@ -1,7 +1,6 @@
 # 2. Big Oh notation
 Created Sat May 4, 2024 at 5:54 PM
 
-
 > [!NOTE] Take-Home Lesson
 > The Big Oh notation and worst-case analysis are tools that greatly simplify our ability to compare the efficiency of algorithms.
 

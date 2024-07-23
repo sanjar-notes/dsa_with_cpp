@@ -1,7 +1,6 @@
 # 4. Exercise - number of Binary Trees
 Created Tuesday 30 June 2020
 
-
 * For a given height h, how many balanced binary trees are possible.
 * For h=0 ⇒1 (no tree), h=1⇒1(only root), h=2 ⇒ 3
 * It is actually quite simple: For height h, take the root. On the left and right, there are 3 possibilities

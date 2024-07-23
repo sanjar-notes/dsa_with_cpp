@@ -1,7 +1,6 @@
 # 4. How to approach a problem in a competitive programming contest
 Created Thursday 23 April 2020
 
-
 * This approach is the best for competitive programming, follow it.
 
 
@@ -22,7 +21,7 @@ The Approach:
 3. Think of **solution(s) **with** Time Complexities.**
 4. Choose a solution satisfying the **constraint**(s).
 5. Write **pseudocode** or fix the solution steps.
-6. **Dry Run** it once for sample cases. 
+6. **Dry Run** it once for sample cases.
 7. Check the I/O format, write **code**.
 8. Check if All sample cases are **okay**. If not, go to Step 4.
 9. Submit.

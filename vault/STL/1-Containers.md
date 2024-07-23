@@ -1,7 +1,6 @@
 # 1. Containers
 Created Sun May 12, 2024 at 7:34 PM
 
-
 ## String
 `strings` are a huge practically improvement over C-style strings.
 They are dynamic, mutable. Each element is still a char.
@@ -95,7 +94,7 @@ stof();
 // To string
 to_string(num)
 ```
-Note: 
+Note:
 - ascii to int, subtract '0', 'A'.
 - int to ascii, `char()`
 - When very large numbers(10<sup>18</sup>)are involved, input is taken as string, and all arithmetic ops are done by reinventing the wheel by digit extraction
@@ -327,7 +326,7 @@ for(auto a: s) { cout << a; }
 
 // satellite data pair<int, T> works
 set<pair<int, string>> s;
-set<pair<int, string>, greater<pair<int, string>>> rs; // reversed 
+set<pair<int, string>, greater<pair<int, string>>> rs; // reversed
 ```
 
 ### Multi-set (not used frequently)

@@ -1,7 +1,6 @@
 # 3. Hussain Set
 Created Monday 04 May 2020
 
-
 * Using priority queue, O(N) space, heapify, O(NlogN), O(QlogN) time for queries.
 * Another solution is to sort the set and use a normal queue.
 	1. To get the maxium element, we'll the end of our array and queue.front()

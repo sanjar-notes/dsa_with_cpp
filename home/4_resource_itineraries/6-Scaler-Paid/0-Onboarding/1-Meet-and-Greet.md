@@ -1,11 +1,10 @@
 # Meet and Greet
 Created Wed May 15, 2024 at 9:13 PM
 
-
 ## Software is eating the world
 ![](../../../../assets/1-Meet-and-Greet-image-1-e0e46fb6.png)
 
-SWE and AI is going to be significant. 
+SWE and AI is going to be significant.
 Many things will be streamlined and automated, even stuff like farming.
 
 ## Philosophy @Scaler
@@ -15,7 +14,7 @@ Many things will be streamlined and automated, even stuff like farming.
 
 
 ## Pillar 1: Personalised videos depending on your background
-> 
+>
 Junior Backend: https://www.youtube.com/watch?v=tzGGRXjFT-M
 Senior Backend: https://www.youtube.com/watch?v=kdPqhCHsSxE&t=0s
 Junior Frontend/Fullstack: https://www.youtube.com/watch?v=94FvopjdMO0&t=0s

@@ -1,7 +1,6 @@
 # 2. Sieve of Eratosthenes
 Created Tuesday 28 July 2020
 
-
 1. We write all the numbers in a bool array.
 2. All are true initially.
 3. We start from 2, mark all its multiples as false.

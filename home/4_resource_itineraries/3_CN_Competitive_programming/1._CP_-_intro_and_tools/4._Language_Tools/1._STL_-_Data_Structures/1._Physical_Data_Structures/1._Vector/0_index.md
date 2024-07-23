@@ -1,7 +1,6 @@
 # 1. Vector
 Created Sunday 03 May 2020
 
-
 * It is a dynamic array. Reallocates and doubles size when size()>capacity().
 
 Uses:

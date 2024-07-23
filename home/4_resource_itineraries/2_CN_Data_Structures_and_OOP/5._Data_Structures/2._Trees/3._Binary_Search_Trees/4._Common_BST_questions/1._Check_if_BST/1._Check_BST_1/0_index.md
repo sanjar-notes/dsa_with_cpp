@@ -1,7 +1,6 @@
 # 1. Check BST 1
 Created Friday 07 February 2020
 
-
 * From the definition we know that if all the nodes on the left are smaller than the root, and all the nodes on the right are greater than the root.
 
 i.e leftMax < root->data && rightMin > root->data

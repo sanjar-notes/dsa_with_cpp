@@ -1,7 +1,6 @@
 # 1. Optimized Power Function
 Created Saturday 01 August 2020
 
-
 * Naive solution: for loop, O(n)
 * But the solution is symmetric, so their's heterogeneous repetition of work.
 * But we can work in squares(symmetry is minimum of 2).

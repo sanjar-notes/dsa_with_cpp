@@ -1,7 +1,6 @@
 # 4. Bit Manipulation
 Created Monday 22 June 2020
 
-
 * We've worked with int and float. But never considered using the property of binary digits.
 * Bit manipulation is a very elegant and optimized way of solving problems.
 * Bit operation are O(1)

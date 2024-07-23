@@ -1,11 +1,10 @@
 # 1. RAM model of computation
 Created Sat May 4, 2024 at 5:41 PM
 
-
 > [!NOTE] Take-Home Lesson
 > Algorithms can be understood and studied in a language and machine-independent manner.
 ## RAM model
-Machine-independent algorithm design depends upon a hypothetical computer called the Random Access Machine, or RAM. 
+Machine-independent algorithm design depends upon a hypothetical computer called the Random Access Machine, or RAM.
 
 Under this model of computation, we are confronted with a computer where:
 - Each simple operation (+, \*, –, =, if, call) takes exactly one time step.

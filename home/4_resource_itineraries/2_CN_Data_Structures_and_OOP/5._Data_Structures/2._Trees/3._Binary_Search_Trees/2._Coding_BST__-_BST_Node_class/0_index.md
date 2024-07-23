@@ -1,7 +1,6 @@
 # 2. --Coding BST  - BST Node class
 Created Sunday 09 February 2020
 
-
 * We will store a tree in a class;
 
 We need the following data members:
@@ -39,9 +38,9 @@ We also need the following member functions:
 	    if (!root) {
 	        const newNode = new TreeNode();
 	        newNode.val = val;
-	
+
 	        if (!prevNode) return newNode; // empty tree
-	
+
 	        if (dir === -1) {
 	            prevNode.left = newNode;
 	        } else {
@@ -49,12 +48,12 @@ We also need the following member functions:
 	        }
 	        return;
 	    }
-	
+
 	    const currentDir = val < root.val ? -1 : 1;
 	    insertIntoBST(currentDir === -1 ? root.left : root.right, val, currentDir, root);
-	
+
 	    return root;
-	}; 
+	};
 	```
 
 *****
@@ -64,16 +63,16 @@ We also need the following member functions:
 
 Again, here we have 4 scenarios:
 
-1. We have root as NULL, do nothing. Return the root, as it is. 
-2. We have a leaf which needs to be deleted. Delete it, return NULL. 
+1. We have root as NULL, do nothing. Return the root, as it is.
+2. We have a leaf which needs to be deleted. Delete it, return NULL.
 3. We have a non lead node to be deleted, two different solutions are possible
 	1. Find the node with the largest value in the left subtree. Replace the root with the obtained max value. Call delete(max, root->left);
-	2. Find the node with the smallest value in the right subtree. Replace the root with the obtained min value. Call  
+	2. Find the node with the smallest value in the right subtree. Replace the root with the obtained min value. Call
 4. If data < root->data, do root->left = deleteData(data, root->left)
 5. If data < root->data, do root->right = deleteData(data, root->right). Return root;
 
 T.C = O(h)
-Doubt: Delete data works for the case of non leaf as well because we are always keeping the property of BST intact. 
+Doubt: Delete data works for the case of non leaf as well because we are always keeping the property of BST intact.
 
 *****
 

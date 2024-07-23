@@ -1,7 +1,6 @@
 # 5. Inbuilt queue STL
 Created Thursday 23 January 2020
 
-
 * Now we will focus only on the interface.
 * Queue has been implemented in C++ STL. We will use only that now.
 

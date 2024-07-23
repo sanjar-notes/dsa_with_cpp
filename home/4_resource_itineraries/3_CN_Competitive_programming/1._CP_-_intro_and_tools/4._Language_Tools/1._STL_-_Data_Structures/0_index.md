@@ -1,7 +1,6 @@
 # 1. STL - Data Structures
 Created Sunday 03 May 2020
 
-
 * STL - Standard Template Library
 
 Why do we use it? - It is stupid to implement data structures in a contest.
