@@ -1,4 +1,4 @@
-# 5. Topological sorting
+# 6. Topological sorting
 Created Wed Jul 17, 2024 at 11:16 AM
 
 Source: https://youtu.be/eL-KzMXSXXI?si=vt6YhmMje70VjATv
@@ -25,10 +25,10 @@ where some events must occur before others.
 • Assembly instructions
 
 Below: G must happen before A.
-![](../../../../../../assets/5-Topological-sorting-image-1-1a642cda.png)
+![](../../../../../../assets/6-Topological-sorting-image-1-1a642cda.png)
 
 ### What is topological sorts (aka top sort)
-![](../../../../../../assets/5-Topological-sorting-image-2-1a642cda.png)
+![](../../../../../../assets/6-Topological-sorting-image-2-1a642cda.png)
 The above is a fancy way to say the above: top sort is a way to arrange nodes linearly such that all edges are towards the right.
 
 ### Implies both ways (A <=> B)

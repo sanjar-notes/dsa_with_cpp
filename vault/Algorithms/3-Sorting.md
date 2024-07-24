@@ -2,7 +2,7 @@
 Created Sat May 18, 2024 at 11:14 AM
 
 ## Why sorting
-Sorting is important because it helps do some sorts of operations faster.
+Sorting is an important subroutine in many algorithms.
 Even big data stuff like MapReduce keeps stuff sorted just because it makes operations faster.
 
 ## API
@@ -13,17 +13,17 @@ Even big data stuff like MapReduce keeps stuff sorted just because it makes oper
 
 
 ## Practical use
-- Binary search is actually
+TBD
 
 ## Algorithms
 Sure, here's a list of common sorting algorithms, including both those with O(N^2) time complexity and more efficient ones:
 
 ### Comparative
 1. **Bubble Sort** (O(N^2)): aka *bubble to the right while swapping*, compares adjacent elements and swaps them if they are in the wrong order, repeating this process until the list is sorted. Also keeps a is_sorted flag in each loop for early return. Complexity same on linked list.
-2. **Insertion Sort** (O(N^2)) *insert element at the correct position, forms sorted array at the end*: Builds the final sorted list one item at a time by repeatedly taking elements from the input list and inserting them into their correct positions in the sorted list. Only online algorithm (since its general insert, can accommodate for new data).
-3. **Selection Sort** (O(N^2)): *min select and swap, form sorted array* Divides the input list into a sorted sublist and an unsorted sublist, repeatedly finding the smallest (or largest) element from the unsorted sublist and moving it to the end of the sorted sublist.
+2. **Insertion Sort** (O(N^2)) *insert at the correct position, forms sorted array at the end*: Builds the final sorted list one item at a time by repeatedly taking elements from the input list and inserting them into their correct positions in the sorted list. Only online algorithm (since its general insert, can accommodate for new data). *We can use binary search to find the spot, but shifting would still cause squared complexity.*
+3. **Selection Sort** (O(N^2)): *min select and swap, form sorted array*. Divides the input list into a sorted sublist and an unsorted sublist, repeatedly finding the smallest (or largest) element from the unsorted sublist and moving it to the end of the sorted sublist.
 4. **Merge Sort** (O(N log N), O(N) space): Divides the input list into two halves, recursively sorts each half, and then merges the sorted halves to produce the final sorted list. It's a divide-and-conquer algorithm and typically faster than the quadratic-time sorting algorithms for large datasets.
-5. **Quick Sort** (O(N log N) average, O(N^2) worst-case, O(N) space): Selects a "pivot" element from the list and partitions the other elements into two sublists according to whether they are less than or greater than the pivot. It then recursively sorts the sublists.
+5. **Quick Sort** (O(N log N) average, O(N^2) worst-case, O(N) space): Randomly selects a "pivot" element from the list and partitions the other elements into two sublists according to whether they are less than or greater than the pivot. It then recursively sorts the sublists.
 6. **Heap Sort** (O(N log N) time, O(1) space) - "an implementation of selection sort using the right data structure.": Builds a binary heap from the input list and repeatedly extracts the maximum (for a max heap) element from the heap and rebuilds the heap until the list is sorted. It's not stable but has a guaranteed worst-case time complexity. O(1) space.
    
 ### Non-comparative
@@ -35,6 +35,15 @@ These algorithms offer different trade-offs in terms of time complexity, space c
 
 These are some of the common sorting algorithms, each with its own characteristics and best use cases depending on factors like the size of the dataset and stability requirements.
 
+Note:
+- Sort for linked lists:
+	1. Merge sort. nlogn time, O(1) space (since in place merge is possible).
+	2. All squared sorts - insertion sort especially (overhead of shifting by 1 is removed)
+	3. Quick sort - bad, since partitioning requires random access.
+- Comparison of squared sorts:
+	1. Bubble sort - for educational purpose only. Too many swaps (bad for device lifetime). Not used in practice.
+	2. Selection sort - least swaps (good for device).
+	3. Insertion sort - online. Good for partially sorted data.
 ### Comparison of sorting algorithms
 Note:
 - Quick sort is not adaptive.
