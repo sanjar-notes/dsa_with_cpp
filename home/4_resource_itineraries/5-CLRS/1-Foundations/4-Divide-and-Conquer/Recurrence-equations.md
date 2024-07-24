@@ -43,5 +43,5 @@ Intuition (enough MAID):
 - In each case, the result is in terms of Theta.
 
 Master theorem will not be applicable if:
-1. The comparison differs non-polynomially. i.e. for very small exponent delta or some non polynomial multiplier etc. i.e. it's the case between the gaps of case 1-2 or 2-3.
-2. Its case 3 but the regularity condition does not hold.
+1. The comparison differs non-polynomially (i.e. nlogn > n, but not useful here).
+2. Its case 3, but the regularity condition does not hold. Remember as: effect of argument division should be more than multiplicative division.
