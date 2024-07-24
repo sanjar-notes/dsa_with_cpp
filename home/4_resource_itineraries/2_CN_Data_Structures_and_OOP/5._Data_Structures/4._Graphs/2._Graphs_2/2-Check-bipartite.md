@@ -12,6 +12,41 @@ We can augment breadth-first search so that whenever we discover a new vertex, w
 
 ## Implementation
 Q: Coloring is OK. But should checking be done during the traversal (aka coloring) phase, or separately?
-A: No. A single phase run should do. Proof: since BFS trav is a tree and only 2 kinds of edges exist - forward edges (discover new nodes) will always be Ok (since they do the coloring). Conflict detection happens using the back-edges (already visited) only.
+A: We need to check if 2-coloring is possible or not. In short we only need to detect a problem (same colors are adjacent) and the answer would be no, so can be done in single pass.
 
+## Code
 https://leetcode.com/problems/is-graph-bipartite
+
+```js
+class Solution {
+public:
+    bool twoColoringDfs(int start, vector<vector<int>>& graph, vector<int>& vis,
+                        int color) {
+        vis[start] = color;
+        for (auto nbr : graph[start]) {
+            if (!vis[nbr]) {
+                vis[nbr] = 1 - color;
+                if (!twoColoringDfs(nbr, graph, vis, 1 - color))
+                    return false;
+            }
+            if (vis[nbr] == vis[start])
+                return false;
+        }
+
+        return true;
+    }
+
+    bool isBipartite(vector<vector<int>>& graph) {
+        // since unconnected, definition of bipartite = all forests should be
+        // bipartite
+        int V = graph.size();
+        vector<int> vis(V, 0);
+        for (int i = 0; i < V; i++) {
+            if (!vis[i] && !twoColoringDfs(i, graph, vis, 0))
+                return false;
+        }
+
+        return true;
+    }
+};
+```
