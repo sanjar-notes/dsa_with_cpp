@@ -13,7 +13,7 @@ The realization here is that not only do we need to encounter a visited node, bu
 Implementation wise, we can just keep an extra array called pathVisited. We will populate the visited array as usual, but for pathVisited we will mark a node as 1 when we start processing the node, and mark it as 0 when we are done processing. This means the descendants will always see their ancestors in the same path as 1, but when the subtree changes, the other subtrees pathVisited would have become 0. If we find pathVisited and visited both to be 1, that means we found a proper cycle.
 
 ## Code
-https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/
+[Problem](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 
 ```cpp
 bool helper(int start, vector<int> adj[], vector<int> & vis, vector<int> & pathVis, int parent) {

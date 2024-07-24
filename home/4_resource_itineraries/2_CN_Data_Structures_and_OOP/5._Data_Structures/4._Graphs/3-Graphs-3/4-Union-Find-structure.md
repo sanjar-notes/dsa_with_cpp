@@ -37,7 +37,7 @@ Note:
 - If an insert operation happens its fine, since new nodes are isolated.
 
 ## Code
-[Problem](https://www.geeksforgeeks.org/problems/union-find)
+[Problem](https://www.geeksforgeeks.org/problems/union-find/1)
 ```cpp
 // Observation: there's no need for knowing number of vertex (n) here, since UnionFind starts as forest
 class Solution
