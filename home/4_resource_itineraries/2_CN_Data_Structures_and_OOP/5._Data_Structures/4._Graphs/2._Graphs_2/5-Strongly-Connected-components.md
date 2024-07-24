@@ -44,7 +44,17 @@ Very simple - do a traversal (DFS/BFS) and check if visited list is full. Don't 
 
 If both are true, then the directed graph is strongly connected.
 
-Proof: kind of sy
+Efficiency: O(V+E) time and O(V) space. Since just DFSs + transpose is constant op.
+### Proof
+An amazing idea.
+![](../../../../../../assets/5-Strongly-Connected-components-image-1-1a642cda.png)
+So in first pass, we check if `Start` reaches all. YMBT: but this is just one node, and that too one way.
+In second pass, again, we check if `Start` reaches all in G<sup>T</sup>. Which actually means do all nodes reach `Start`.
+
+If both are true we have proven that `Start` reaches all and everyone reaches `Start`. So even if we assume the worst, i.e. lack of any more edges for connectedness, `Start` can act as a common node such that everyone can reach everyone.
+
+Brilliant idea as opposed to enumeration, i.e. DFS for each node V \* (V+E).
+An observation that problems exist where a single aspect check is equivalent to 'all-aspect' check.
 
 ## Strongly connected components algo
 A strongly connected component in a directed algorithm refers to a subgraph that's strongly connected.
