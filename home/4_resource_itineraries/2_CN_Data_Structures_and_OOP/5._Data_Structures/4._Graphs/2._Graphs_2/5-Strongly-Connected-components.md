@@ -6,7 +6,7 @@ Created Wed Jul 17, 2024 at 10:17 PM
 - Connected - an undirected graph where there's a path between any two nodes. i.e. No isolated nodes or isolated subgraphs. The term applies only to undirected graphs.
 - Weakly connected - a directed graph where there's a path between any two nodes, but only if direction is ignored. The term applies only to directed graphs (means same as connected though).
 - Strongly connected - a directed graph where there's a path between any two nodes.
-- Strongly connected components -
+- Strongly connected component - a subgraph (in a directed graph), that's connected (all nodes are reachable to all) and there's no outgoing edge.
 
 ## Check undirected/weak connected graph algorithm
 Very simple - do a traversal (DFS/BFS) and check if visited list is full. Don't use an envelop for loop here (it must happen in one go).
