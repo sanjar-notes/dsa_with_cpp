@@ -4,8 +4,7 @@ Created Thu May 9, 2024 at 7:34 AM
 This chapter offers three methods for solving recurrences—that is, for obtaining asymptotic “theta” or “O” bounds on the solution:
 - **Substitution method**, we guess a bound and then use mathematical induction to prove our guess correct.
 - **Recursion-tree method** converts the recurrence into a tree whose nodes represent the costs incurred at various levels of the recursion. We use techniques for bounding summations to solve the recurrence.
-- **Master method** provides bounds for recurrences of the form 
-  T(n) = aT(n/b) + f(n), where a >= 1, b > 1 are constants and f(n) is an asymptotically positive function. To use the master method, you will need to memorize three cases, but once you do that, you will easily be able to determine asymptotic bounds for many simple recurrences.
+- **Master method** provides bounds for recurrences of the form T(n) = aT(n/b) + f(n), where a >= 1, b > 1 are constants and f(n) is an asymptotically positive function. To use the master method, you will need to memorize three cases, but once you do that, you will easily be able to determine asymptotic bounds for many simple recurrences.
 
 ---
 ## Substitution method
