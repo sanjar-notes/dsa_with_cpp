@@ -9,8 +9,18 @@ Even big data stuff like MapReduce keeps stuff sorted just because it makes oper
 [2-Algorithms](../STL/2-Algorithms.md#Sorting)
 
 ## Solving use
-- Sorted array allows for binary search
+- Searching - Binary search becomes possible after sorting.
+- Closest-pair: Given n number find closest pair. Sort and traverse (and count min difference).
+- Element uniqueness - are there any duplicates. Sort and traverse (for all unique). Can check if given element us unique too - using low and upper bound.
+- Find the mode (most occurring) - sort and traverse (linear). If already sorted, use low and upper bound (logn).
+- Selection (kth largest/smallest) - assuming duplicate answer is fine, this is just the k th element. Median is also simple thing way (k/2th element).
+- Convex hulls - Skiena 111.
 
+
+### Hashing vs Sorting
+Sometimes, Hashing can solve faster than sorting. Example - uniqueness check, counting is better with hashing.
+
+Other-times, hashing may not be appropriate - convex hull ago.
 
 ## Practical use
 TBD

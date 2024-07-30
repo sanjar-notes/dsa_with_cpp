@@ -9,6 +9,10 @@ There are situations when runtime speed is needed, if not complete speed;
 Here breaking down a problem so it can be solved by multiple computers/processors and combining the outputs is essential.
 
 
+## Parallelism and DnC
+Since each input is solved in isolation, it's possible to employ multiple processors to make the work happen faster.
+
+
 ## Principle of parallel algorithms
 We distribute the problem into parts, solve them and recombine. Each step has a cost. If the sum this is lower than sequential algorithm, significantly, then use parallel algorithms.
 
