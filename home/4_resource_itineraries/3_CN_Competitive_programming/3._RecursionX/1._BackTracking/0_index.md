@@ -11,7 +11,7 @@ Print the name on the bag if a ball exists in the bag.
 - Backtracking and recursion are different. Backtracking is an approach and recursion is the algorithm used to solve the problem.
 - Backtracking is implemented using recursion.
 
-## Types of backtracking problems
+## Common backtracking problems
 The common thing in all backtracking problems is the "decision you make".
 1. Subset generation - to include given element or not, at the moment.
 2. Permutation gen - "which element" to choose, at the moment.
@@ -40,7 +40,3 @@ Note: We end the search when we have seen all initial configurations.
 ---
 
 - For solving a problem which involves backtracking, first solve an example(not a very trivial one), then generalize.
-
-## Minor
-- Improper board sign outside (it said Krishna hotel, not Fab Krishna)
-- Food menu too expensive
