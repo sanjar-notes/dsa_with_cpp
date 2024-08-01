@@ -2,7 +2,7 @@
 Created Monday 22 June 2020
 
 ## Lecture
-- Backtracking is an approach where we explore all possible paths.
+- Backtracking is an approach where we explore all possible paths efficiently.
 
 e.g There are 10 bags with some items.
 Print the name on the bag if a ball exists in the bag.
