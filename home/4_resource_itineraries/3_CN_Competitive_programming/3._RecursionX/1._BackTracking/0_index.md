@@ -18,6 +18,10 @@ The common thing in all backtracking problems is the "decision you make".
 
 Another thing in backtracking is the order of output - so if the answer needs to be in sorted order, we must use recursion instead of bitwise-gen (suppose problem is subset gen), since recursion maintains sorted order by default.
 
+Note:
+- Usually, we want to traverse over all possible solutions, instead of storing them. This may mean keeping a max size array (i.e. max candidate size) and doing operations on it as we traverse through the solution
+- Backtracking means enumeration, but it should be efficient - we should backtrack as soon as we know forward solutions in the current path are doomed to fail, or have already been seen. i.e. *early backtrack and avoid duplicate is important in backtracking*.
+
 ## N Queens Problem
 Given an NxN grid and N queens, following the rules of chess. We need to place the queens such that no queen is able to attack any other queen. Find and print the ways in which this is possible.
 
@@ -36,15 +40,6 @@ Note: We end the search when we have seen all initial configurations.
 ---
 
 - For solving a problem which involves backtracking, first solve an example(not a very trivial one), then generalize.
-
-
-## Major issues
-- Outside food not allowed (cannot do Swiggy/Zomato) ^^, not mentioned in policy
-- Bedsheets not clean, hair on bedsheets
-- Room too small, unfurnished rooms, paint falling off, dusty
-- No towel, soap, toiletries provided. Got them upon asking, but towels smelled too bad. Tiny soap provided.
-- AC not working - when complained, the manager said he’ll send somebody in 10 mins, the guy came after 2 hours (had to call 5 times)
-- TV does not work
 
 ## Minor
 - Improper board sign outside (it said Krishna hotel, not Fab Krishna)
