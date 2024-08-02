@@ -22,6 +22,22 @@ This means backtracking is a DFS traveral.
 Note:
 - We can consider path as BFS too, but its too memory intensive (max children is high) for most problems.
 
+
+## Backtrack maid
+1. We Consider all possibilities.
+2. We traverse instead of storing.
+3. Define a solution space (array of bools/integers etc). It should be linear fixed size.
+4. We maintain read/write mapping between solution space and app's data structure. *Linear (array) is the simplest to advance and backtrack*.
+5. On each solution position, generate valid possibilities.
+6. Since solution space is shared, we have to do forward (write) and backward (reset) operations for each candidate solution, so the next candidate is unhindered.
+7. Backtracking considers all possibilities at every point, so there will be no cycles. *Duplicate solutions may exist, but not cycles*.
+
+Note (non trivial):
+- We maintain a linear solution space irrespective of the app's data structure.
+- Shared solution space.
+- Situation wise code mapping between solution space and app's data structure.
+- Simple: there may be many (distinct) valid solutions. If you only need one solution stop when solution space is full, otherwise continue.
+
 ## Common backtracking problems
 The common thing in all backtracking problems is the "decision you make".
 1. All subsets - solution is a boolean array of size "alphabet-size".
