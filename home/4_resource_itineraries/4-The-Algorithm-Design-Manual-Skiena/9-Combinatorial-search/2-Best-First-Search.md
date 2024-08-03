@@ -1,6 +1,8 @@
 # 2. Best First Search
 Created Sat Aug 3, 2024 at 9:57 PM
 
+Best-First Search is elaboration of backtracking.
+
 ## Context
 In backtracking, two important decisions are "which free solution position to expand next" and "order of considering candidates for current solution position".
 
@@ -21,3 +23,7 @@ Note:
 - Jargon - Optimization function - in, Best-First search, the optimization function should happen to be a lower bound of the answer, i.e. all forward movements must add to the current path's cost, i.e. there are no negative edges in a way (graph terminology). Otherwise we would need to consider the queue (even if we have considered all lower ones already, since a negative edge in a high cost path may decrease overall cost too much). *Just a note, this just talks about jargon of Best-First search, if there are negative edges, then a full blown backtracking has to take place, it won't be called Best-First search anymore*.
 
 *Skiena doesn't say how to implement this*.
+
+
+## maid
+Best-First search is backtracking that advances the best partial solution so far, at every point.
