@@ -21,6 +21,7 @@ Two things here:
 
 Note:
 - Jargon - Optimization function - in, Best-First search, the optimization function should happen to be a lower bound of the answer, i.e. all forward movements must add to the current path's cost, i.e. there are no negative edges in a way (graph terminology). Otherwise we would need to consider the queue (even if we have considered all lower ones already, since a negative edge in a high cost path may decrease overall cost too much). *Just a note, this just talks about jargon of Best-First search, if there are negative edges, then a full blown backtracking has to take place, it won't be called Best-First search anymore*.
+- Space: Best-first search is sort of like breadth-first search. A disadvantage of BFS over DFS is the space required. A backtracking/DFS tree uses memory proportional to the height of the tree, but a best-first/BFS tree requires maintaining all partial solutions, more akin to the width of the tree.
 
 *Skiena doesn't say how to implement this*.
 
