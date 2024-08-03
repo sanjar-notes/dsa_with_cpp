@@ -24,7 +24,7 @@ Consider a famous question of whether 8 pieces of chess (from the same team) - 1
 
 Usual pruning like choosing order and which position to select didnt work here.
 
-What worked was this - we defined a new problem, which is easier than the original, and solved that. There was a logical link between the easier and the original problem, that helped early detect bad boards. *We had to be novel in order to prune effectively*.
+What worked was this - we defined a new problem, which is easier than the original, and solved that. There was a logical link between the easier and the original problem, that helped early detect bad boards. *We had to be novel in order to prune effectively*. Skiena 297-298.
 
 ## Take-Home Lesson
 Clever pruning can make short work of surprisingly hard combinatorial search problems. Proper pruning will have a greater impact on search time than other factors like *data structures or programming language*.
