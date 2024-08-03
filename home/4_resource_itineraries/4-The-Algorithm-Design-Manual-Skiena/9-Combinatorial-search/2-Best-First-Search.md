@@ -15,7 +15,7 @@ Here we assign a cost to every partial solution and store it in a "global" prior
 
 Two things here:
 - Implementation detail - We shouldn't pop off any solution from the priority queue, since a currently less cost solution may increase its cost later, and we may need to resume a previous (in queue) path. *Of course, this doesn't mean we are guaranteed to consider all. It may be that we somehow always get a lower cost solution without needing to resume the largest solutions so far - i.e. our area of considerations remains fairly at the top of the queue*.
-- Implementation detail - when do we stop? If all solutions have been generated, and queue top is greater than cost_found_until_now, then we can stop.
+- Implementation detail - when do we stop? If all solutions have been generated, and queue top is greater than cost_found_until_now, then we can stop. *This is the meat of Best-First search it is able to disregard solutions at the end of its run - that other algorithms would have considered*.
 
 Note:
 - Jargon - Optimization function - in, Best-First search, the optimization function should happen to be a lower bound of the answer, i.e. all forward movements must add to the current path's cost, i.e. there are no negative edges in a way (graph terminology). Otherwise we would need to consider the queue (even if we have considered all lower ones already, since a negative edge in a high cost path may decrease overall cost too much). *Just a note, this just talks about jargon of Best-First search, if there are negative edges, then a full blown backtracking has to take place, it won't be called Best-First search anymore*.
