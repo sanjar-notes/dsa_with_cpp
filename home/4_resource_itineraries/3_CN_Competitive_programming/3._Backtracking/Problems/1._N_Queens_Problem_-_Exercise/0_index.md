@@ -39,7 +39,7 @@ Note : Don't print anything if there isn't any valid configuration.
 
 *****
 
-[nqueens.cpp](1._N_Queens_Problem_-_Exercise/nqueens.cpp)
+[nqueens.cpp](nqueens.cpp)
 
 **Q) **Why don't we try all the places, and start from the first row.
 **A)** We can do anything systematic if we are exploring all paths. It does not matter.

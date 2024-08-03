@@ -17,7 +17,7 @@ Backtracking constructs a tree of partial solutions, where each node represents 
 
 This means backtracking is a DFS traveral.
 
-![](../../../../../assets/0_index-image-1-67b0133f.png)
+![](../../../../assets/0_index-image-1-45b52bc9.png)
 
 Note:
 - We can consider path as BFS too, but its too memory intensive (max children is high) for most problems.
@@ -35,8 +35,8 @@ Note:
 Note (non trivial):
 - We maintain a linear solution space irrespective of the app's data structure.
 - Shared solution space.
-- Situation wise code mapping between solution space and app's data structure.
-- Simple: there may be many (distinct) valid solutions. If you only need one solution stop when solution space is full, otherwise continue.
+- Simple: there may be many (distinct) valid solutions. If you only need one solution stop early.
+- Movement in solution space may not be serial, there may be an ordering to it. Still, there's no chance of cycles since we do forward-and-backward-ops for each solution.
 
 ## Common backtracking problems
 The common thing in all backtracking problems is the "decision you make".
@@ -44,8 +44,8 @@ The common thing in all backtracking problems is the "decision you make".
 2. All permutations - solution is a int array of size "alphabet-size".
 3. All paths from source to target in a graph - solution is a int array of size V.
 
-![](../../../../../assets/0_index-image-2-67b0133f.png)
-![](../../../../../assets/0_index-image-3-67b0133f.png)
+![](../../../../assets/0_index-image-2-45b52bc9.png)
+![](../../../../assets/0_index-image-3-45b52bc9.png)
 
 
 
@@ -53,13 +53,3 @@ Note:
 - Storage - Usually, we want to traverse over all possible solutions, instead of storing them. This may mean keeping a max size array (i.e. max candidate size) and doing operations on it as we traverse through the solution
 - Efficient - Backtracking means enumeration, but it should be efficient - we should backtrack as soon as we know forward solutions in the current path are doomed to fail, or have already been seen. i.e. *early backtrack and avoid duplicate is important in backtracking*.
 - Order of output - Another thing in backtracking is the order of output - so if the answer needs to be in sorted order, we must use recursion instead of bitwise-gen (suppose problem is subset gen), since recursion maintains sorted order by default.
-
-## Search pruning
-Pruning is the technique of abandoning a search direction the instant we can establish that a given partial solution cannot be extended into a full solution.
-
-Usually pruning solves problems like:
-1. Consider the same solution once. i.e. duplicates solutions are not handled. Fix: check if the current situation is symmetrical/equivalent to a past one.
-2. Go to a final solution that's wrong. i.e. there's no early detect. Fix: check if some limit is exceeded, and there's no point moving forward.
-
-Pruning usually works for small optimization problems, size 20-100.
-
