@@ -22,7 +22,7 @@ This is the power of search pruning. Even simple pruning strategies can suffice 
 ## Importance of pruning
 Consider a famous question of whether 8 pieces of chess (from the same team) - 1 king, 1 queen, 2 bishop, 2 rook and 2 knight, can be placed on the board such that all remaining positions are threatened. A piece doesn't threaten another, so ignore that.
 
-Usual pruning like choosing order and which position to select didnt work here.
+Usual pruning, like choosing order and which position to select, didnt work here.
 
 What worked was this - we defined a new problem, which is easier than the original, and solved that. There was a logical link between the easier and the original problem, that helped early detect bad boards. *We had to be novel in order to prune effectively*. Skiena 297-298.
 
