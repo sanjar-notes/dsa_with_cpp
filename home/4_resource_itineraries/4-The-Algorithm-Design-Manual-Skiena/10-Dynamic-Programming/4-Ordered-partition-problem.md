@@ -13,4 +13,3 @@ But what if books vary in size (pages). Simple 1/3 division won't work.
 ```sh
 100 200 300 | 400 500 600 | 700 800 900
 ```
-

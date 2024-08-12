@@ -48,8 +48,8 @@ We think DP may be possible. So we start by thinking of a recurrence relation. W
 We have our recurrence relation. We try to order the evaluation, and can see that an explicit order is possible. Letter represent path of evaluation, right side is values. *We don't need (n, k-1) and only need (n-1, k) and (n-1, k-1), i.e. so is is linearizable*.
 ![](../../../../assets/index-image-1-51578f53.png)
 
-## Steps in DP
+## Applying DP
 There are three steps involved in solving a problem by dynamic programming:
-1. Formulate the answer you want as a recurrence relation or recursive algorithm.
+1. Make a recurrence relation or recursive algorithm. *This in inductive, any story would do*.
 2. Storage - Show that the number of different parameter values taken on by your recurrence is bounded by a (hopefully small) polynomial.
 3. Remove recursion - Specify an evaluation order for the recurrence so the partial results you need are always available when you need them.
