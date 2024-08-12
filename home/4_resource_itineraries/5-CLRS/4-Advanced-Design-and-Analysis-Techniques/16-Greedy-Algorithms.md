@@ -40,3 +40,13 @@ Example - the 0-1 knapsack (things not divisible) needs a DP solution, while a f
 4. Prove that it is always safe to make the greedy choice. (Steps 3 and 4 can occur in either order.)
 5. Develop a recursive algorithm that implements the greedy strategy.
 6.  Convert the recursive algorithm to an iterative algorithm.
+
+
+## Huffman codes
+Huffman codes compress data very effectively: savings of 20% to 90% are typical, depending on the characteristics of the data being compressed.
+
+
+## Matroid and greedy methods
+In this section, we sketch a beautiful theory about greedy algorithms. This theory describes many situations in which the greedy method yields optimal solutions. It involves combinatorial structures known as “matroids.”
+
+Although this theory does not cover all cases for which a greedy method applies or the Huffman-coding problem, it does cover many cases of practical interest.

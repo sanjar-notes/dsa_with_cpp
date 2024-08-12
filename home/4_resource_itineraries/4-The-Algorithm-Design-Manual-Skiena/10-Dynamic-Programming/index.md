@@ -50,6 +50,7 @@ We have our recurrence relation. We try to order the evaluation, and can see tha
 
 ## Applying DP
 There are three steps involved in solving a problem by dynamic programming:
-1. Make a recurrence relation or recursive algorithm. *This in inductive, any story would do*.
-2. Storage - Show that the number of different parameter values taken on by your recurrence is bounded by a (hopefully small) polynomial.
-3. Remove recursion - Specify an evaluation order for the recurrence so the partial results you need are always available when you need them.
+1. Check optimal substructure and overlapping subproblems exist.
+2. Make a recurrence relation or recursive algorithm. *This in inductive, any story would do*.
+3. Storage - Show that the number of different parameter values taken on by your recurrence is bounded by a (hopefully small) polynomial.
+4. Remove recursion - Specify an evaluation order for the recurrence so the partial results you need are always available when you need them.
