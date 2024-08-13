@@ -27,6 +27,7 @@ Example - the 0-1 knapsack (things not divisible) needs a DP solution, while a f
 ## Greedy examples
 - Prims algorithm - uses the greedy property, to choose smallest unconnected node. Proved using cut-and-paste (i.e. proof by contradiction).
 - Dijkstra - this is combination of DP and greedy, picks the smallest-value unexplored node (the greedy part). It also updates already explored node's values (DP part), though only if they happen to be neighbor of an unexplored.
+- Activity selection - pick the activity that finishes earliest. This greedy choice works because we have most time left ahead, to choose others. Had we not chosen this most early finishing activity, we would need to choose further activities. Comparing the two, the strategy would be more beneficial for sure.
 
 ## Proving greedy
 - Prove optimal substructure. *Its easier in greedy since we can assume current choice is optimal, and inductively prove it'll be so.*
