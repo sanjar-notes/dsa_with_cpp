@@ -1,3 +1,9 @@
+---
+aliases: 
+tags:
+  - dsa-model
+  - old
+---
 # 2. Time and Space Analysis
 Created Sunday 05 January 2020
 

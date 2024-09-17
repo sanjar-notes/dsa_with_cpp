@@ -1,3 +1,7 @@
+---
+tags:
+  - trees
+---
 # 1. Generic Trees
 Created Friday 24 January 2020
 

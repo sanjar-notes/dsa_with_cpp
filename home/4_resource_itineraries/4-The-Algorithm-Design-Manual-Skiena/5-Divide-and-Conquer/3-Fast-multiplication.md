@@ -1,3 +1,7 @@
+---
+tags:
+  - dnc
+---
 # 3. Fast multiplication
 Created Mon Jul 29, 2024 at 11:59 PM
 

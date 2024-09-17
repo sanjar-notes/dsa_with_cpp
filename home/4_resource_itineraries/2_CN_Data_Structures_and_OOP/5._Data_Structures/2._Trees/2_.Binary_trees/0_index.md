@@ -1,3 +1,8 @@
+---
+tags:
+  - trees
+  - binary-trees
+---
 # 2 .Binary trees
 Created Thursday 30 January 2020
 

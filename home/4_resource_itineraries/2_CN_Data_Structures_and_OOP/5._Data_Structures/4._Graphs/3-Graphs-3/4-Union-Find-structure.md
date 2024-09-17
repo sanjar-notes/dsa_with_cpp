@@ -1,3 +1,8 @@
+---
+tags:
+  - graphs
+  - union-find
+---
 # 2. Union Find structure
 Created Monday 20 April 2020
 

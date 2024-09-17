@@ -1,3 +1,8 @@
+---
+tags:
+  - dnc
+  - binary-search
+---
 # 1. Binary Search and related
 Created Mon Jul 29, 2024 at 9:48 PM
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - dsa-model
+  - combinatorics
+---
 # 5. Modeling the Problem
 Created Wed May 1, 2024 at 6:10 PM
 

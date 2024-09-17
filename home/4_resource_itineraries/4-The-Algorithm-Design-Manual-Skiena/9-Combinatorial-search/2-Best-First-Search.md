@@ -1,3 +1,8 @@
+---
+tags:
+  - backtracking
+  - best-first-search
+---
 # 2. Best First Search
 Created Sat Aug 3, 2024 at 9:57 PM
 

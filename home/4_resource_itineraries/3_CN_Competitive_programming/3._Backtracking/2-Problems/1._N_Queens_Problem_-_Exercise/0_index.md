@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 1. N Queens Problem - Exercise
 Created Thursday 25 June 2020
 
@@ -14,7 +18,7 @@ How to approach this problem:
 
 Note: We end the search when we have seen all initial configurations.
 
-![](../../../../../../assets/0_index-image-1-6be6689b.png)
+![](../../../../../../assets/0_index-image-1-a1ec3eba.png)
 
 ---
 

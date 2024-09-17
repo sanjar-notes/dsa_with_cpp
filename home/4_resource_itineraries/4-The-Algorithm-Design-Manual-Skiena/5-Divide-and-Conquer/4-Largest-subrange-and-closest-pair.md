@@ -1,3 +1,7 @@
+---
+tags:
+  - dnc
+---
 # 4. Largest subrange and closest pair
 Created Tue Jul 30, 2024 at 12:14 AM
 

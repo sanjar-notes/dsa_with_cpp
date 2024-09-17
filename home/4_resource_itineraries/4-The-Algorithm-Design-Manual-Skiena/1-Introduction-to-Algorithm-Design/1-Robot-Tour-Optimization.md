@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 1. Robot Tour Optimization
 Created Wed May 1, 2024 at 5:40 PM
 

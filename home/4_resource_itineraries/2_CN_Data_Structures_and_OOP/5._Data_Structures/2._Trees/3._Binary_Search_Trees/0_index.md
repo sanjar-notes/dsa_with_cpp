@@ -1,3 +1,8 @@
+---
+tags:
+  - trees
+  - bst
+---
 # 3. Binary Search Trees
 Created Friday 07 February 2020
 

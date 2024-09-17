@@ -1,3 +1,8 @@
+---
+tags:
+  - backtracking
+  - index
+---
 # 1. BackTracking
 Created Monday 22 June 2020
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - numt
+  - primes
+---
 # 2. Sieve of Eratosthenes
 Created Tuesday 28 July 2020
 
@@ -8,11 +13,8 @@ Created Tuesday 28 July 2020
 
 
 *****
-
 Tweaks:
 
 1. As we go to multiples, we can start from the current one i.e start from i*i
 2. We can skip a number if number % is multiple of any of the previous numbers. Skip 4 because 2 is already over.
 3. We go till √n, and not till n. Everything has been covered.
-
-

@@ -1,10 +1,15 @@
+---
+tags:
+  - greedy
+  - old
+---
 # 1. Introduction to Greedy technique
 Created Sunday 19 July 2020
 
 - It is technique, not an algorithm.
 - What is it? - We try to optimize myopically at each step.
 
-![](/assets/1._Introduction_to_Greedy_technique-image-1.png)
+![](../../../../../assets/0_index-image-1-fbf7993a.png)
 
 - It is applicable only if the next steps don't depend on the current step.
 - If there is a dependency, then it is a dynamic programming problem.

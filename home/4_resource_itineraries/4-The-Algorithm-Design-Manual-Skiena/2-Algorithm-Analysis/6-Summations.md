@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 6. Summations
 Created Tue May 7, 2024 at 10:53 AM
 

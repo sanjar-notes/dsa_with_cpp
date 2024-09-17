@@ -1,3 +1,7 @@
+---
+tags:
+  - dnc
+---
 # 5. Data parallelism
 Created Tue Jul 30, 2024 at 12:15 AM
 

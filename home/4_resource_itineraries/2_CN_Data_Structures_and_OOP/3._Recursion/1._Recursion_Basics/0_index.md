@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - recursion
+---
 # 1. Recursion Basics
 Created Saturday 28 December 2019
 

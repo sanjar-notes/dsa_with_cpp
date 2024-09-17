@@ -1,3 +1,8 @@
+---
+tags:
+  - dp
+  - old
+---
 # 6. Dynamic ProgrammingX
 Created Thursday 08 April 2021
 

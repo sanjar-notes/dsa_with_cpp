@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 10. Advanced Analysis
 Created Tue May 7, 2024 at 11:20 AM
 

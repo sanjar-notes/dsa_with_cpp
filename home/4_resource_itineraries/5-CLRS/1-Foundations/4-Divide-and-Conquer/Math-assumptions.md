@@ -1,3 +1,9 @@
+---
+aliases: 
+tags:
+  - dnc
+  - recurrence-relations
+---
 # Math assumptions
 Created Thu May 9, 2024 at 7:42 AM
 

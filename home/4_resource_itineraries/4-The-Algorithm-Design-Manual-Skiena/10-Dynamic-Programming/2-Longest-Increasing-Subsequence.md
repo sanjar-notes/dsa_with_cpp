@@ -1,3 +1,7 @@
+---
+tags:
+  - dp
+---
 # 2. Longest Increasing Subsequence
 Created Tue Aug 6, 2024 at 11:17 PM
 

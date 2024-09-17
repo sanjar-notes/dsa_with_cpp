@@ -1,3 +1,9 @@
+---
+aliases: 
+tags:
+  - oop
+  - constructor
+---
 # 1. Constructor - idea and syntax
 Created Wednesday 08 January 2020
 

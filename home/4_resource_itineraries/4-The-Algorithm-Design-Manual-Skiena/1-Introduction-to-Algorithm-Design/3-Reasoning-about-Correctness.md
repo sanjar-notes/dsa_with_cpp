@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 3. Reasoning about Correctness
 Created Wed May 1, 2024 at 5:44 PM
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - master-theorem
+  - dnc
+---
 # 2. Recurrence relations
 Created Mon Jul 29, 2024 at 10:59 PM
 

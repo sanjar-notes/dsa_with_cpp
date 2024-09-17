@@ -1,3 +1,7 @@
+---
+tags:
+  - numt
+---
 # 1. Modulo Arithmetic
 Created Monday 22 June 2020
 

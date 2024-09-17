@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - bitman
+---
 # 4. Bit Manipulation
 Created Monday 22 June 2020
 

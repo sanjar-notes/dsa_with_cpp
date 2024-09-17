@@ -1,3 +1,7 @@
+---
+tags:
+  - dp
+---
 # 6. Limitations of DP TSP
 Created Fri Aug 9, 2024 at 12:45 AM
 

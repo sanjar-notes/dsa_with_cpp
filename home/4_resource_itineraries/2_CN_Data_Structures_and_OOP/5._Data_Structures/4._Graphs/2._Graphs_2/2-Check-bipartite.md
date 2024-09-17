@@ -1,3 +1,8 @@
+---
+tags:
+  - graphs
+  - bipartite
+---
 # 2. Check bipartite
 Created Tue Jul 16, 2024 at 12:02 PM
 

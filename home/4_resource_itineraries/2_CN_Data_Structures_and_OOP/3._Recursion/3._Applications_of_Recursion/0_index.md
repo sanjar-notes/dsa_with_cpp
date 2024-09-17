@@ -1,3 +1,7 @@
+---
+tags:
+  - recursion
+---
 # 3. Applications of Recursion
 Created Tuesday 31 December 2019
 

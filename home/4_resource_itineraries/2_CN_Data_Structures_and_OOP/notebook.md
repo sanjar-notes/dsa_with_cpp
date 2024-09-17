@@ -219,7 +219,7 @@
 	* [2. Analysis of Algorithms](6._Algorithm_Design/2._Analysis_of_Algorithms.md)
 	* [3. Design Techniques](6._Algorithm_Design/3._Design_Techniques.md)
 		* [1. Divide and Conquer](6._Algorithm_Design/3._Design_Techniques/1._Divide_and_Conquer.md)
-		* [2. Greedy](6._Algorithm_Design/3._Design_Techniques/2._Greedy.md)
+		* [2. Greedy](6._Algorithm_Design/3._Design_Techniques/2._Backtracking.md)
 		* [3. Dynamic Programming](6._Algorithm_Design/3._Design_Techniques/3._Dynamic_Programming.md)
 			* [1. Fibonacci - 1](6._Algorithm_Design/3._Design_Techniques/3._Dynamic_Programming/1._Fibonacci_-_1.md)
 			* [2. Fibonacci - 2](6._Algorithm_Design/3._Design_Techniques/3._Dynamic_Programming/2._Fibonacci_-_2.md)

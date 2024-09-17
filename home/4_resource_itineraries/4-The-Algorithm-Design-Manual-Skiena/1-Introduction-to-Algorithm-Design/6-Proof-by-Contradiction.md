@@ -1,3 +1,8 @@
+---
+tags:
+  - dsa-model
+  - proofs
+---
 # 6. Proof by Contradiction
 Created Wed May 1, 2024 at 6:40 PM
 

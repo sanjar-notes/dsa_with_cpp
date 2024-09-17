@@ -1,3 +1,7 @@
+---
+tags:
+  - bitman
+---
 # 3. ith bit
 Created Monday 29 June 2020
 

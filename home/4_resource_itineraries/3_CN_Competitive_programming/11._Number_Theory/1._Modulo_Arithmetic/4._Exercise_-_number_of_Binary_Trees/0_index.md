@@ -1,3 +1,7 @@
+---
+tags:
+  - numt
+---
 # 4. Exercise - number of Binary Trees
 Created Tuesday 30 June 2020
 

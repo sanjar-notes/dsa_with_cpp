@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 2. Big Oh notation
 Created Sat May 4, 2024 at 5:54 PM
 

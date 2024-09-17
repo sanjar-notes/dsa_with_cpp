@@ -1,3 +1,8 @@
+---
+tags:
+  - graphs
+  - coloring
+---
 # 1. Graph coloring
 Created Tue Jul 16, 2024 at 5:21 PM
 

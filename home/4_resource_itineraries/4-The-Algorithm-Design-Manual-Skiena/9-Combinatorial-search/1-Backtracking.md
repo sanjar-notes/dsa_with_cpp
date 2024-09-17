@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 1. Backtracking
 Created Sat Aug 3, 2024 at 9:57 PM
 

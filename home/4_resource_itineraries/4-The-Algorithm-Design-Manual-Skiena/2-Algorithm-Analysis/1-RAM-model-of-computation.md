@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 1. RAM model of computation
 Created Sat May 4, 2024 at 5:41 PM
 

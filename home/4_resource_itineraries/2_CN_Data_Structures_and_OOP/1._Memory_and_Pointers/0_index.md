@@ -1,3 +1,8 @@
+---
+tags:
+  - dsa-model
+  - pointers
+---
 # 1. Memory and Pointers
 Created Thursday 08 April 2021
 

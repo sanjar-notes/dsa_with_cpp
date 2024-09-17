@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 7. Logarithms and their applications
 Created Tue May 7, 2024 at 10:55 AM
 

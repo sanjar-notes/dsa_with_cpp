@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 3. Sudoku Puzzle
 Created Friday 26 June 2020
 
@@ -17,7 +21,7 @@ Given:
 - Time complexity depends only on the number of missing values.
 
 Parikh's solution:
-![](/assets/3._Sudoku_Puzzle-image-1.png)s
+![](../../../../../../assets/0_index-image-1-801e2dae.png)s
 
 ---
 

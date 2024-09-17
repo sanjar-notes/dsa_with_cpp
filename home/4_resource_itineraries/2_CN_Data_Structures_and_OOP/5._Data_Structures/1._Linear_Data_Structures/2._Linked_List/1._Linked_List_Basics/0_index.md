@@ -1,3 +1,7 @@
+---
+tags:
+  - linked-list
+---
 # 1. Linked List Basics
 Created Tuesday 14 January 2020
 

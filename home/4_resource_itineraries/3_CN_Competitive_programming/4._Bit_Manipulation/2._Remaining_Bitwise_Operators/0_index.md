@@ -1,3 +1,7 @@
+---
+tags:
+  - bitman
+---
 # 2. Remaining Bitwise Operators
 Created Sunday 28 June 2020
 
@@ -12,7 +16,7 @@ Types of gate bitwise ops:
 
 1. AND ⇒ &
 
-![](/assets/2._Remaining_Bitwise_Operators-image-1.png) ![](/assets/2._Remaining_Bitwise_Operators-image-2.png)
+![](../../../../../assets/0_index-image-1-548177ef.png) ![](../../../../../assets/0_index-image-2-548177ef.png)
 
 - Uses:
   1.  Turn off bit
@@ -30,7 +34,7 @@ Types of gate bitwise ops:
 
 3. OR ⇒ |
 
-![](/assets/2._Remaining_Bitwise_Operators-image-3.png) ![](/assets/2._Remaining_Bitwise_Operators-image-4.png)
+![](../../../../../assets/0_index-image-3-548177ef.png) ![](../../../../../assets/0_index-image-4-548177ef.png)
 
 - Use:
   1.  Set bit(s)
@@ -48,7 +52,7 @@ Types of gate bitwise ops:
 
 3. NOT ⇒ ~ ⇒ unary operator
 
-![](/assets/2._Remaining_Bitwise_Operators-image-5.png)
+![](../../../../../assets/0_index-image-5-548177ef.png)
 
 - Use:
 
@@ -67,7 +71,7 @@ Types of gate bitwise ops:
 
 4. XOR ⇒ ^ (The most useful)
 
-![](/assets/2._Remaining_Bitwise_Operators-image-6.png)
+![](../../../../../assets/0_index-image-6-548177ef.png)
 
 - Use
   1.  Check if two bits are equal
@@ -143,7 +147,7 @@ int main(){
 ```
 
 Answer: true
-![](/assets/2._Remaining_Bitwise_Operators-image-7.png)
+![](../../../../../assets/0_index-image-7-548177ef.png)
 Reason: 32 is the answer in the assigment because no buffer is created.
 in 2 & 3 ⇒ 2 and 3 both have different buffer variables.
 in (y=2) & (y=3) ⇒ there are no buffer variables created, this is how assignment operator works. So is is like 3 & 3.

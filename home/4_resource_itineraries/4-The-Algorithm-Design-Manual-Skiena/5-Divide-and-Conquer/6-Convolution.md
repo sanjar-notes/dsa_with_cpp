@@ -1,3 +1,7 @@
+---
+tags:
+  - dnc
+---
 # 6. Convolution
 Created Tue Jul 30, 2024 at 12:30 AM
 

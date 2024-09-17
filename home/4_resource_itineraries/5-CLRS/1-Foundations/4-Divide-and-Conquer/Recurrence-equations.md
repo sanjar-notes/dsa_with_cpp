@@ -1,3 +1,10 @@
+---
+aliases: 
+tags:
+  - recurrence-relations
+  - dnc
+  - master-theorem
+---
 # Recurrence equations
 Created Thu May 9, 2024 at 7:34 AM
 

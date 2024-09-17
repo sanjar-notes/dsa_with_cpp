@@ -1,3 +1,7 @@
+---
+tags:
+  - dp
+---
 [See Skiena](../../4-The-Algorithm-Design-Manual-Skiena/10-Dynamic-Programming/index.md)
 
 ## Elements of DP

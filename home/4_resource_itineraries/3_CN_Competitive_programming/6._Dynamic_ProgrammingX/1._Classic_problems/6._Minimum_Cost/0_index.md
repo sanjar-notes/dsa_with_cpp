@@ -1,10 +1,15 @@
+---
+tags:
+  - dp
+  - old
+---
 # 6. Minimum Cost
 Created Thursday 02 July 2020
 
 - In DP problems, we do need multidimensional arrays. Dimension = number of state parameters.
 - Finding the answer to this problem. We start from the top-left and go to the bottom-right.
 
-![](/assets/6._Minimum_Cost-image-1.png)
+![](../../../../../../assets/0_index-image-1-ed3c8935.png)
 
 - We can say f(i, j) = min(f(i+1, j)+f(i+1, j+1)+f(i, j+1))
 - There's a lot of repeated work.

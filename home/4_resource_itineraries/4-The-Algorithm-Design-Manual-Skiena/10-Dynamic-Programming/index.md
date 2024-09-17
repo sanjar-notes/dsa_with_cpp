@@ -1,3 +1,8 @@
+---
+tags:
+  - dp
+  - index
+---
 # 10. Dynamic Programming
 Created Tue Aug 6, 2024 at 8:46 PM
 

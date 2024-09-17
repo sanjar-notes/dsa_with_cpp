@@ -107,6 +107,8 @@ cout << p.first << p.second;
 p.first = 23;
 
 pair<int, int> f() { return {1, 2}; }
+
+{1, 2} // literal notation allowed. Put OK with types. like vector<vector<int>> arr; arr.push({}); is OK
 ```
 
 ## Vector
@@ -116,6 +118,8 @@ vector<int> v;
 vector<int> v (10); // size 10, filled garbage
 vector<int> v (10, 0); // size 10, filled with 0s
 vector<int> v1 (v2); // create and copy values
+
+{1, 2} // literal notation allowed. ambiguous alone. Put OK with types. like vector<vector<int>> arr; arr.push({}); is OK
 
 v[2]; // read, write access
 v.front(); // access first element
@@ -167,7 +171,6 @@ copy_if(v.begin(), v.end(), back_inserter(output), [](){ return 1; }); // new ar
 
 // // Reduce - accumulate()
 auto result = accumulate(v.begin(), v.end(), 1, [](auto accum, auto item){ return accum * item; });
-
 
 // deep-clone
 // Only way is to create a new vector and use constructor notation
@@ -392,8 +395,8 @@ s.size();
 s.empty();
 
 // iterator
-s.begin(); // moves in sorted order
-s.end();
+s.begin(); // first element
+s.end(); // last element
 
 // looping
 for(auto it = s.begin(); it != s.end(); it++) { cout << *it; }

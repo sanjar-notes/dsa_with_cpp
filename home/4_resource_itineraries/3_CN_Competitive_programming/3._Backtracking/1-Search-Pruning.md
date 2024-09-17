@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 1. Search Pruning
 Created Sat Aug 3, 2024 at 8:26 PM
 

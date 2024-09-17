@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 2. Rat And Maze problem
 Created Thursday 25 June 2020
 

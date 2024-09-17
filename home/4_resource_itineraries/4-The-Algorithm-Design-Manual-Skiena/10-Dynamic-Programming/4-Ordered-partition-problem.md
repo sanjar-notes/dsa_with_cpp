@@ -1,3 +1,7 @@
+---
+tags:
+  - dp
+---
 # 4. Ordered partition problem
 Created Fri Aug 9, 2024 at 12:26 AM
 

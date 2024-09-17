@@ -1,3 +1,8 @@
+---
+tags:
+  - const
+  - static
+---
 # 3. Member constraints
 Created Thursday 08 April 2021
 

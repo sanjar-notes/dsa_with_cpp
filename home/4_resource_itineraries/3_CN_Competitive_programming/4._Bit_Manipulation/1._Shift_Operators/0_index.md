@@ -1,3 +1,7 @@
+---
+tags:
+  - bitman
+---
 # 1. Shift Operators
 Created Sunday 28 June 2020
 
@@ -14,11 +18,11 @@ x << 1;
 2 << 1;
 ```
 
-![](/assets/1._Shift_Operators-image-1.png)![](/assets/1._Shift_Operators-image-2.png)
+![](../../../../../assets/0_index-image-1-aa4f1269.png)![](../../../../../assets/0_index-image-2-aa4f1269.png)
 
 - Significance of left shift: Multiplication by 2^k^.
 
-![](/assets/1._Shift_Operators-image-3.png)
+![](../../../../../assets/0_index-image-3-aa4f1269.png)
 
 ### Right shift
 
@@ -31,11 +35,11 @@ x >> 1;
 8 >> 1;
 ```
 
-![](/assets/1._Shift_Operators-image-4.png) ![](/assets/1._Shift_Operators-image-5.png)
+![](../../../../../assets/0_index-image-4-aa4f1269.png) ![](../../../../../assets/0_index-image-5-aa4f1269.png)
 
 - Significance of right shift: Division by 2^k^, **floor** value.
 
-![](/assets/1._Shift_Operators-image-6.png)
+![](../../../../../assets/0_index-image-6-aa4f1269.png)
 
 ---
 

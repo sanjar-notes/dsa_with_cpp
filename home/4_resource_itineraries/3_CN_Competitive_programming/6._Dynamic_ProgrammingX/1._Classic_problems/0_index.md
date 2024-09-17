@@ -1,3 +1,8 @@
+---
+tags:
+  - dp
+  - old
+---
 # 1. Classic problems
 Created Monday 22 June 2020
 

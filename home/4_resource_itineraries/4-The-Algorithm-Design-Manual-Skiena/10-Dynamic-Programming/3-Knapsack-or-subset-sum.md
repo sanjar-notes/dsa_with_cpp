@@ -1,3 +1,7 @@
+---
+tags:
+  - dp
+---
 # 3. Knapsack or subset sum
 Created Thu Aug 8, 2024 at 9:46 PM
 

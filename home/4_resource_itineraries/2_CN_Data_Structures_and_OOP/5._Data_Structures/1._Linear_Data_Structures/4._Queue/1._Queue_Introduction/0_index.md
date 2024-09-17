@@ -1,3 +1,7 @@
+---
+tags:
+  - queue
+---
 # 1. Queue Introduction
 Created Wednesday 22 January 2020
 

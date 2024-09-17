@@ -1,3 +1,7 @@
+---
+tags:
+  - oop
+---
 # 4. OOP Basics
 Created Wednesday 08 January 2020
 

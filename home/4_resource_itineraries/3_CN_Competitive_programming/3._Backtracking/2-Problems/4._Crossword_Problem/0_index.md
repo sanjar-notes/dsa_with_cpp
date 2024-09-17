@@ -1,3 +1,7 @@
+---
+tags:
+  - backtracking
+---
 # 4. Crossword Problem
 Created Friday 26 June 2020
 

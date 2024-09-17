@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 8. Properties of Logarithms
 Created Tue May 7, 2024 at 11:15 AM
 

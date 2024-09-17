@@ -1,3 +1,8 @@
+---
+tags:
+  - graphs
+  - topsort
+---
 # 6. Topological sorting
 Created Wed Jul 17, 2024 at 11:16 AM
 

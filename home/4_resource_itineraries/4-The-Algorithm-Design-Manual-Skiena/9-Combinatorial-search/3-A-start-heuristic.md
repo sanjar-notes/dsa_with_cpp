@@ -1,3 +1,8 @@
+---
+tags:
+  - backtracking
+  - A-star
+---
 # 3. A start heuristic
 Created Sat Aug 3, 2024 at 11:44 PM
 

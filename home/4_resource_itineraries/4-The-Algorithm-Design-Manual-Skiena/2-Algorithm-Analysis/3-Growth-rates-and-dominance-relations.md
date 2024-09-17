@@ -1,3 +1,7 @@
+---
+tags:
+  - dsa-model
+---
 # 3. Growth rates and dominance relations
 Created Sat May 4, 2024 at 6:27 PM
 

@@ -1,7 +1,12 @@
+---
+tags:
+  - dp
+  - old
+---
 # 7. Magic Grid
 Created Thursday 02 July 2020
 
-![](/assets/7._Magic_Grid-image-1.png) ![](/assets/7._Magic_Grid-image-2.png) ![](/assets/7._Magic_Grid-image-3.png)
+![](../../../../../../assets/0_index-image-1-6882a632.png) ![](../../../../../../assets/0_index-image-2-6882a632.png) ![](../../../../../../assets/0_index-image-3-6882a632.png)
 
 ---
 

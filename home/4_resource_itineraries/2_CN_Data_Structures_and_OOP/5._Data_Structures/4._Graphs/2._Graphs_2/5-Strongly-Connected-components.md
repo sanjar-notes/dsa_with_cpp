@@ -1,3 +1,8 @@
+---
+tags:
+  - graphs
+  - connected
+---
 # 5. Strongly Connected components
 Created Wed Jul 17, 2024 at 10:17 PM
 

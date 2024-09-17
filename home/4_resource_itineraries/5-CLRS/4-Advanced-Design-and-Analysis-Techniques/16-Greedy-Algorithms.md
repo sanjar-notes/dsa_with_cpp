@@ -1,3 +1,7 @@
+---
+tags:
+  - greedy
+---
 # 16. Greedy Algorithms
 Created Tue Aug 13, 2024 at 1:08 AM
 

@@ -1,8 +1,11 @@
 # 3. Dynamic Programming
 Created Monday 09 March 2020
 
-Dynamic programming is all about smart work.
+[Skiena](../../../../4-The-Algorithm-Design-Manual-Skiena/10-Dynamic-Programming/1-Edit-Distance.md)
+[CLRS](../../../../5-CLRS/4-Advanced-Design-and-Analysis-Techniques/15-Dynamic-Programming.md)
 
+---
+Dynamic programming is all about smart work.
 [Exercises.md](./3._Dynamic_Programming/Quizzes&Exercises/Exercises.md)
 [CodingExercises.md](./3._Dynamic_Programming/Quizzes&Exercises/CodingExercises.md)
 [Assignments.md](./3._Dynamic_Programming/zAssignments/Assignments.md)
