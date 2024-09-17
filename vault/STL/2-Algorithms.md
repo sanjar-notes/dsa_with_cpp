@@ -1,3 +1,11 @@
+---
+tags:
+  - STL
+  - algorithms
+  - binary-search
+  - sorting
+  - hof
+---
 # 2. Algorithms
 Created Sun May 12, 2024 at 7:35 PM
 
@@ -232,3 +240,9 @@ next_permutation(startIt, endIt);
 previous_permutation(startIt, endIt);
 ```
 TBD
+
+
+## Misc
+```cpp
+__gcd(a, b)
+```
