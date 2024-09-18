@@ -13,6 +13,16 @@ Created Sat May 4, 2024 at 6:27 PM
 - Linear-time and n lg n algorithms remain practical on inputs of one billion items.
 - An O(lg n) algorithm can work on any imaginable value of n.
 
+## TLE
+- 10<sup>18</sup> - logn
+- 10<sup>8</sup> - n
+- 10<sup>4</sup> - n<sup>2</sup>
+- 10<sup>6</sup> - nlogn
+- 500 - n<sup>3</sup>
+- 90 - n<sup>4</sup>
+- 20 - 2<sup>n</sup>
+- 11 - n!
+
 ## Dominance relations
 There are some common function that come up a lot when doing basic complexity analysis. These functions have different growths. The notation `>>` means the function belong to a different class (of higher growth rate). 
 

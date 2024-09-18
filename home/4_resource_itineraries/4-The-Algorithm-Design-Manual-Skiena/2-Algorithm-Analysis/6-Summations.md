@@ -6,7 +6,7 @@ tags:
 Created Tue May 7, 2024 at 10:53 AM
 
 ## Common math
-1. Σ 1(a to b) = b-a+1
+1. Σ 1(a to b) = b-a+1 (inclusive)
 2. AP: 1 + 2 + 3 + ... + n = n \* (n+1) / 2
 3. GP: 1 + x + x<sup>2</sup> + x<sup>3</sup> + ... + x<sup>n-1</sup> = (x<sup>n</sup> - 1)/(x-1)
 4. HP: 1 + 1/2 + 1/3 + 1/4 + ... + 1/n ~= log(n)
