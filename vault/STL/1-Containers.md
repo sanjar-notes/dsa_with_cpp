@@ -100,7 +100,7 @@ stof();
 to_string(num)
 ```
 Note:
-- ascii to int, subtract '0', 'A'.
+-tanoc ascii to int, subtract '0', 'A'.
 - int to ascii, `char()`
 - When very large numbers(10<sup>18</sup>)are involved, input is taken as string, and all arithmetic ops are done by reinventing the wheel by digit extraction
 - These functions work, it's `cout` that has a precision limit of 6.

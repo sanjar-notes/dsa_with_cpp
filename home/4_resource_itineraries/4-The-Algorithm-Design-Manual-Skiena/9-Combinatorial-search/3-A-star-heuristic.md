@@ -3,7 +3,7 @@ tags:
   - backtracking
   - A-star
 ---
-# 3. A start heuristic
+# 3. A star heuristic
 Created Sat Aug 3, 2024 at 11:44 PM
 
 A\* is an elaboration of the Best-First search algorithm. works for positively edged problems only.
