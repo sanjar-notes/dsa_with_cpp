@@ -3,9 +3,8 @@ Created Wednesday 12 February 2020
 
 [Priority_Queues.pdf](1._Priority_Queue_and_Heap/Priority_Queues.pdf)
 
-[Codes](./1._Priority_Queue_and_Heap/Codes)
-[Exercises.md](./1._Priority_Queue_and_Heap/Quizzes&Exercises/Exercises.md)
-[CodingExercises.md](./1._Priority_Queue_and_Heap/Quizzes&Exercises/CodingExercises.md)
-[Assignments.md](./1._Priority_Queue_and_Heap/zAssignments/Assignments.md)
-
-
+Use of heap:
+- Largest/smallest seen until now in logn time.
+- Kth largest/smallest element
+- First K largest/smallest elements collect
+- Can replace sorting for many problems
