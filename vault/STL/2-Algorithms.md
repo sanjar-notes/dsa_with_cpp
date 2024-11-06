@@ -229,7 +229,9 @@ STL has functions only for sorted sets. All 4 supported:
 set_union(startIt1, endIt1, startIt2, endIt2, writerIt);
 set_intersection (/* same as above */)
 set_difference (/* same as above */)
-set_symmetric_difference (/* same as above */)
+set_symmetric_difference (/* same as above */);
+
+includes(startIt1, endIt1, startIt2, endIt2); // works on all containers
 ```
 ## Permutations
 In-place operation. O(n/2).

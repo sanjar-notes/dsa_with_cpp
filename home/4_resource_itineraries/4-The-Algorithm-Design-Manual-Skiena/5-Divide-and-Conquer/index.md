@@ -1,6 +1,11 @@
 # 5. Divide and Conquer
 Created Mon Jul 29, 2024 at 9:39 PM
 
+## Main idea
+One of the most powerful techniques for solving problems is to break them down into smaller, more easily solved pieces. 
+
+*Smaller problems are less overwhelming, and they permit us to focus on details that are lost when we are studying the whole thing.*
+
 ## Steps
 - Divide and conquer involves 3 steps:
   1. Divide (express it into smaller problems of the same type)
@@ -8,10 +13,10 @@ Created Mon Jul 29, 2024 at 9:39 PM
   3. Combine (combine the solutions to form the complete solution)
 ## Breaking down problems
 Two important algorithm design paradigms are based on breaking problems down into smaller problems. 
-- Dynamic programming - typically removes one element from the problem, solves the smaller problem, and then adds back the element to the solution of this smaller problem in the proper way.
+- Dynamic programming (DP) - typically removes one element from the problem, solves the smaller problem, and then adds back the element to the solution of this smaller problem in the proper way.
 - Divide and conquer (DnC) - instead splits the problem into (say) halves, solves each half, then stitches the pieces back together to form a full solution.
 
-Note: Relation to recursion - Since subproblems are of the same type as the parent, recursion is the natural choice for programming.
+Note: Relation to recursion - In DnC, subproblems are of the same type as the parent, so recursion is the natural choice for programming.
 
 ## When is DnC useful?
 *Whenever the merging takes less time than solving the two subproblems, we
