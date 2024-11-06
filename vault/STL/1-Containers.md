@@ -17,6 +17,7 @@ string s; // empty string
 	string s (s2, startI, len); // deep copy, substring
 	string s (len, fillChar); // string x(10, 'A');
 	string s (s2.begin(), s2.end()); // string x(10, 'A');
+	string s (vecChar.begin(), vecChar.end()); // vector initialization allowed
 
 // getting input
 cin >> s; // breaks one whitespace
@@ -134,6 +135,9 @@ v.size(); // current filled length of vector
 v.empty(); // is empty?
 
 v.push_back(10); // insert at back, O(1) on average
+// NOTE: vector<vector<int>>.push_back(vector<int>) will cause shallow copy to be created
+// https://chatgpt.com/c/67292496-6240-800d-bd99-9112d9c5faf5
+
 v.pop_back(10); // remove last element, O(1) on average
 // front operations are absent
 v.insert(it, 5); // insert at given index O(n)
@@ -193,6 +197,9 @@ list<int> v (10); // size 10, filled garbage
 list<int> v (10, 0); // size 10, filled with 0s
 list<int> v1 (v2); // create and copy values
 
+list<int> l { 1, 2, 3 }; // initialization list allowed
+lisr<int> l (vec.begin(), vec.end()); // vector initialization allowed
+
 // Random access not allowed
 ll.front(); // last element access, write
 ll.back(); // last element access, write
@@ -248,7 +255,9 @@ while(!stk.empty()) { cout << stk.top(); stk.pop(); }
 USP: FIFO
 ```cpp
 queue<int> q; // LIFO structure,
+
 // no initialization list
+queue<int> q (vec.begin(), vec.end()); // vector initialization allowed
 
 // ops same as stack
 q.push();// insert O(1)
@@ -273,7 +282,9 @@ USP: quick extrema access, quick insertion/deletion. Compared to sorted array.
 // get max, min element quickly (lgn)
 priority_queue<int> pq; // max heap
 priority_queue<int, vector<int>, greater<int>> pq; // min heap
+
 // no initialization list
+priority_queue<int> q (vec.begin(), vec.end()); // vector initialization allowed
 
 // ops same as stack
 pq.push();// insert - O(lgn)
@@ -301,6 +312,7 @@ Remember one thing, set means - { sorted, unique }. Other 3 related structures a
 ```cpp
 set<int> s; // balanced tree (detail: Red-Black-Tree)
 set<int> s {1, 2, 3}; // initialization list is allowed
+set<int> q (vec.begin(), vec.end()); // vector initialization allowed
 set<int> s (s2.begin(), s2.end()); // deep clone
 set<int, greater<int>> rs; // reversed (higher on the left)
 
@@ -342,6 +354,7 @@ sorted. not unique.
 ```cpp
 multiset<int> s;
 multiset<int> s {1, 2, 3}; // initialization list is allowed
+multiset<int> q (vec.begin(), vec.end()); // vector initialization allowed
 multiset<int> s (s2.begin(), s2.end()); // deep clone
 multiset<int, greater<int>> rs; // (higher on the left)
 
@@ -384,6 +397,7 @@ not sorted. unique.
 ```cpp
 unordered_set<int> s;
 unordered_set<int> s {1, 2, 3}; // initialization list is allowed
+unordered_set<int> q (vec.begin(), vec.end()); // vector initialization allowed
 unordered_set<int> s (s2.begin(), s2.end()); // deep clone
 
 s.insert(1);// insert - O(1)
@@ -440,8 +454,8 @@ mp.erase(it); // remove - O(lgn)
 
 mp.count(23);// exists? - 1 means true, 0 means false - O(lgn)
 auto it = mp.find(1); // get iterator to element - O(lgn), returns mp.end() if not found
-auto it = lower_bound(2); // first occurrence of key
-auto it = upper_bound(23); // last occurrence of key
+auto it = mp.lower_bound(2); // first occurrence of key
+auto it = mp.upper_bound(23); // last occurrence of key
 (*it).first; // read key
 (*it).second, (*it).second = 4; // read/write value
 
