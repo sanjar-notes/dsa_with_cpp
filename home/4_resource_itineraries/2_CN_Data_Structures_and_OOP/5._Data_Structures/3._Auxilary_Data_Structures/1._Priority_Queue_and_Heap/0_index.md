@@ -5,6 +5,6 @@ Created Wednesday 12 February 2020
 
 Use of heap:
 - Largest/smallest seen until now in logn time.
-- Kth largest/smallest element
-- First K largest/smallest elements collect
+- Kth largest/smallest element.
+- First K largest/smallest elements collect. For collection, use opposite nature heap.
 - Can replace sorting for many problems
